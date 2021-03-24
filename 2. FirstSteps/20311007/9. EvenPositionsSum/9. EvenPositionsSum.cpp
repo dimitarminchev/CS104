@@ -13,7 +13,7 @@ int main()
     int d4 = (number / 100) % 10;
     int d6 = (number / 1) % 10;
 
-    int sum = d2 + d4 + d6;
-    cout << "The sum is: " << sum << endl;
+    int result = d2 * d4 * d6;
+    cout << "The result is: " << result << endl;
     return 0;
 }
