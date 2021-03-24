@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{48e7a745-ef5c-440d-93f1-f673d6286384}</ProjectGuid>
-    <RootNamespace>My9EvenPositionsSum</RootNamespace>
+    <ProjectGuid>{dc906af1-4058-464c-92cb-8368d58982cd}</ProjectGuid>
+    <RootNamespace>My05PocketMoney</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>9. EvenPositions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="9. EvenPositions.cpp" />
+    <ClCompile Include="05.PocketMoney.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

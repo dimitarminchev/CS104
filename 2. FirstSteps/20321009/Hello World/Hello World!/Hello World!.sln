@@ -17,6 +17,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse number", "..\..\Rev
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sum Pro", "..\..\Sum Pro\Sum Pro\Sum Pro.vcxproj", "{FA3E8B6E-5C15-4AB5-86DB-1ECE38B3719A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sum odd 5 digits", "..\..\8\8. Задача\8. Задача.vcxproj", "{3CAFB497-910E-4FCB-B837-EA154749C7B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sum even 6 digits", "..\..\Sum even 6 digits\sum even 6 digits\sum even 6 digits.vcxproj", "{777099FE-F719-46C6-AC43-7105F546E73D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +85,22 @@ Global
 		{FA3E8B6E-5C15-4AB5-86DB-1ECE38B3719A}.Release|x64.Build.0 = Release|x64
 		{FA3E8B6E-5C15-4AB5-86DB-1ECE38B3719A}.Release|x86.ActiveCfg = Release|Win32
 		{FA3E8B6E-5C15-4AB5-86DB-1ECE38B3719A}.Release|x86.Build.0 = Release|Win32
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Debug|x64.ActiveCfg = Debug|x64
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Debug|x64.Build.0 = Debug|x64
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Debug|x86.Build.0 = Debug|Win32
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Release|x64.ActiveCfg = Release|x64
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Release|x64.Build.0 = Release|x64
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Release|x86.ActiveCfg = Release|Win32
+		{3CAFB497-910E-4FCB-B837-EA154749C7B7}.Release|x86.Build.0 = Release|Win32
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Debug|x64.ActiveCfg = Debug|x64
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Debug|x64.Build.0 = Debug|x64
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Debug|x86.ActiveCfg = Debug|Win32
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Debug|x86.Build.0 = Debug|Win32
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Release|x64.ActiveCfg = Release|x64
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Release|x64.Build.0 = Release|x64
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Release|x86.ActiveCfg = Release|Win32
+		{777099FE-F719-46C6-AC43-7105F546E73D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
