@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cbeaa50f-a342-4605-948a-a864cb252c4a}</ProjectGuid>
-    <RootNamespace>My20321005</RootNamespace>
+    <ProjectGuid>{d41fd9b6-216c-4764-81a4-203f5e18dfd3}</ProjectGuid>
+    <RootNamespace>My09SumOfSixDigits</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,13 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Circle.cpp" />
-    <ClCompile Include="MoneyInThePocket.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="PerimeterCalculation.cpp" />
-    <ClCompile Include="ReverseNumber.cpp" />
-    <ClCompile Include="SumOfNumber.cpp" />
-    <ClCompile Include="SumOfTwoNumbers.cpp" />
+    <ClCompile Include="SumOfSixDigits.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
