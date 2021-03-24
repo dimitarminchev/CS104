@@ -1,21 +1,28 @@
 #include<iostream>
+#include <string>
+#include <sstream>
 
 using namespace std;
 
 int main()
 {
-	int number, sum = 0, m;
-	cout << "Enter a number: ";
+	string number;
+	int result = 0;
+
+	cout << "Number: ";
 	cin >> number;
-	while (number > 0)
+
+	for (int i = 0; i < number.length(); i++)
 	{
-		m = number % 10;
-		if (m % 2 == 0) 
+		int digit = (int)number[i] - (int)'0';
+
+		if (digit % 2 == 0) 
 		{
-			sum = sum + m;
-			number = number / 10;
-		}		
+			result += digit;
+		}
 	}
-	cout << "Sum is= " << sum << endl;
+
+	cout << "Result: " << result;
+
 	return 0;
 }
