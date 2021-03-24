@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9. EvenPositionsSum.cpp">
+    <ClCompile Include="9. EvenPositions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
