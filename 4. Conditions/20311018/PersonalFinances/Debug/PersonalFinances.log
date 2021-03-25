@@ -1,0 +1,7 @@
+﻿  PersonalFinances.cpp
+C:\Users\Petar\Documents\ProgrammingC++\PersonalFinances\PersonalFinances.cpp(23,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Petar\Documents\ProgrammingC++\PersonalFinances\PersonalFinances.cpp(24,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Petar\Documents\ProgrammingC++\PersonalFinances\PersonalFinances.cpp(25,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Petar\Documents\ProgrammingC++\PersonalFinances\PersonalFinances.cpp(26,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Petar\Documents\ProgrammingC++\PersonalFinances\PersonalFinances.cpp(28,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Petar\Documents\ProgrammingC++\PersonalFinances\PersonalFinances.cpp(30): error C4700: uninitialized local variable 'sum' used
