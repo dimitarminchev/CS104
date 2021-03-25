@@ -1,5 +1,4 @@
-﻿// 2. Сума от цифрите на нечетни позиции на 5 цифрено число
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 int main()
 {

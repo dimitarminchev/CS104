@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a3863c5d-d4dc-4a85-b014-6eeca2cdc4e8}</ProjectGuid>
+    <ProjectGuid>{8f81f5e2-352d-434e-a1c5-e7fb16a68c38}</ProjectGuid>
     <RootNamespace>My2SumOdd</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

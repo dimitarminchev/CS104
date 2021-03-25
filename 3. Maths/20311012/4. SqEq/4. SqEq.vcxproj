@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ee702e3b-17a1-4e01-a89e-f4b4e6a7b915}</ProjectGuid>
+    <ProjectGuid>{a384e5fa-b348-4a33-9390-535e78639836}</ProjectGuid>
     <RootNamespace>My4SqEq</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

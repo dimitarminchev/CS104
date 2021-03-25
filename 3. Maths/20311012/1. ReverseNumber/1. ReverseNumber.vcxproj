@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1e61ac74-3997-483a-b048-a053d8aa10e7}</ProjectGuid>
+    <ProjectGuid>{86533648-30fe-4928-bd76-36f76e05af71}</ProjectGuid>
     <RootNamespace>My1ReverseNumber</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{05824068-3695-428e-b021-f883323512db}</ProjectGuid>
+    <ProjectGuid>{4e415b83-f6da-4ca3-a491-5ef4b0a7fb21}</ProjectGuid>
     <RootNamespace>My3ProEven</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

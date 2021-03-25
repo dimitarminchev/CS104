@@ -1,5 +1,4 @@
-﻿// 3. Произведение от цифрите на четните позиции на 6 цифрено цисло
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 int main()
 {
