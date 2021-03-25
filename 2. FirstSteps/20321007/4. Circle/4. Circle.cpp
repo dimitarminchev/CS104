@@ -18,4 +18,5 @@ int main()
     cout << "s=" << s << endl;
 
     return 0;
-}
+   }
+  
