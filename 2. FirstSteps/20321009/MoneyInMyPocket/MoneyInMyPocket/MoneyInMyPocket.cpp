@@ -1,20 +1,25 @@
-// MoneyInMyPocket.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+﻿// Money in my pocket
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+	// Променливи 
+	int m01, m02, m05, m10, m20, m50, m1, m2;
+
+	// Брой на монетию
+	cout << "0.01=?, 0.02=?, 0.05=?, 0.10=?, 0.20=?, 0.50=?, 1.0=?, 2.0=?";
+	cin >> m01 >> m02 >> m05 >> m10 >> m20 >> m50 >> m1 >> m2;
+
+	// Изчисление 
+	int count = m01 + m02 + m05 + m10 + m20 + m50 + m1 + m2;
+	float sum = m01 * 0.01 + m02 * 0.02 + m05 * 0.05 + m10 * 0.10 + m20 * 0.20 + m50 * 0.50 + m1 * 1 + m2 * 2;
+
+	// Резултат
+	cout << "Count: " << count << endl;
+	cout << "Sum: " << sum << endl;
+
+	return 0;
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
 
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
