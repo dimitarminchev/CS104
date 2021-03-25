@@ -139,7 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="MoneyInThePocket.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PerimeterCalculation.cpp" />
+    <ClCompile Include="ReverseNumber.cpp" />
+    <ClCompile Include="SumOfNumber.cpp" />
+    <ClCompile Include="SumOfTwoNumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
