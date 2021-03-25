@@ -1,0 +1,5 @@
+﻿  NAP2016.cpp
+C:\Users\Petar\Documents\ProgrammingC++\NAP2016\NAP2016.cpp(13,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Petar\Documents\ProgrammingC++\NAP2016\NAP2016.cpp(14,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Petar\Documents\ProgrammingC++\NAP2016\NAP2016.cpp(15,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  NAP2016.vcxproj -> C:\Users\Petar\Documents\ProgrammingC++\L2\Debug\NAP2016.exe
