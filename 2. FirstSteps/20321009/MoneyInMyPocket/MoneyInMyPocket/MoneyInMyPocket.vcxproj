@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d8fbdd75-0786-48f2-9245-b25b18c86171}</ProjectGuid>
-    <RootNamespace>Sum</RootNamespace>
+    <ProjectGuid>{0da76fff-ae30-4c29-a16c-95546d27f1db}</ProjectGuid>
+    <RootNamespace>MoneyInMyPocket</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Sum.cpp" />
+    <ClCompile Include="MoneyInMyPocket.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
