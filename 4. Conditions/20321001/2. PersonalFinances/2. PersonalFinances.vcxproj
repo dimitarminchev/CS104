@@ -21,13 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-<<<<<<< HEAD:3. Maths/20321005/3.ProEven/3.ProEven.vcxproj
-    <ProjectGuid>{e8281648-4899-4d6a-9efd-2d235b78924e}</ProjectGuid>
-    <RootNamespace>My3ProEven</RootNamespace>
-=======
-    <ProjectGuid>{a36ddaee-d41f-4dbd-b0de-c3c1a43e61a2}</ProjectGuid>
-    <RootNamespace>My4MinMax</RootNamespace>
->>>>>>> 76248d13186d6758cbfe3b7df7c68369a6bd4db3:4. Conditions/20321001/4. MinMax/4. MinMax.vcxproj
+    <ProjectGuid>{82c7b9c6-528c-41d1-8855-a152a23b1418}</ProjectGuid>
+    <RootNamespace>My2PersonalFinances</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -144,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4. MinMax.cpp" />
+    <ClCompile Include="2. PersonalFinances.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

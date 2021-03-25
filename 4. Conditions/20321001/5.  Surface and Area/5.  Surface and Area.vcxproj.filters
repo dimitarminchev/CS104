@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1. SqEq.cpp">
+    <ClCompile Include="5.  Surface and Area.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
