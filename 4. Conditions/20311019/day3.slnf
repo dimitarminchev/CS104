@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "C:\\Users\\7\\source\\repos\\if\\if.sln",
+    "projects": [
+      "circles\\circles.vcxproj",
+      "if\\if.vcxproj",
+      "lice\\lice.vcxproj",
+      "lihvi\\lihvi.vcxproj",
+      "min-max\\min-max.vcxproj",
+      "nap\\nap.vcxproj"
+    ]
+  }
+}
