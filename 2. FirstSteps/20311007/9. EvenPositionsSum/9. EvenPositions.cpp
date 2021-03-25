@@ -9,7 +9,7 @@ int main()
     cin >> number;
 
     // Взимам четните позиции
-    int d2 = (number / 10000) % 10;
+    int d2 = (number / 100000) % 10;
     int d4 = (number / 100) % 10;
     int d6 = (number / 1) % 10;
 
