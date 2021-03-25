@@ -19,7 +19,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. SumPro", "7. SumPro\7. S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8. Sum5", "8. Sum5\8. Sum5.vcxproj", "{D2934A6E-3738-497B-8551-72D9865FB985}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9. Product6", "9. Product9\9. Product6.vcxproj", "{ABA4D717-888E-451E-A0B2-00D2FF4F3A9E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9. Product6", "9. Product6\9. Product6.vcxproj", "{ABA4D717-888E-451E-A0B2-00D2FF4F3A9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
