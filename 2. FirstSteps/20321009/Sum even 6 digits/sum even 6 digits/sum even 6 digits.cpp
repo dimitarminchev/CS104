@@ -23,5 +23,5 @@ int main()
     int b = a2 + a4 + a6;
     cout << "sum = " << b << endl;
 
-    return 0;
+    return 0; 
 }
