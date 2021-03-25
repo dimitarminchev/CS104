@@ -20,5 +20,4 @@ int main()
     // Отпечатваме дължимия данък
     cout << "You must pay tax: " << tax << endl;
 
-    return 0;
-}
+    return 0

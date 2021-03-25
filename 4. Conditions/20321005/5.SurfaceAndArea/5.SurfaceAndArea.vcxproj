@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cb505856-349f-4ebc-ad89-68426986295a}</ProjectGuid>
-    <RootNamespace>My2PersonalFinances</RootNamespace>
+    <ProjectGuid>{d2ba7fdf-eb5f-4e95-9759-fd6127809423}</ProjectGuid>
+    <RootNamespace>My5SurfaceAndArea</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PersonalFinances.cpp" />
+    <ClCompile Include="SurfaceAndArea.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

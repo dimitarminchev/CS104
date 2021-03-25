@@ -20,6 +20,17 @@ int main()
     cout << "Please enter your investment sum: ";
     cin >> investment;
 
+    // Определяне на лихвата по депозита
+/*
+    // ver.1
+    if (menu == 1) rate = 2.3;
+    else if (menu == 2) rate = 2.6;
+    else if (menu == 3) rate = 2.9;
+    else if (menu == 4) rate = 3.3;
+    else if (menu == 5) rate = 3.5;
+    else if (menu == 6) rate = 3.8;
+*/
+// ver.2
     switch (menu)
     {
     case 1:

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SurfaceAndAria.cpp">
+    <ClCompile Include="personalFiances.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

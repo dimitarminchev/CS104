@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0df5b429-015f-497e-8e15-df261532cb40}</ProjectGuid>
-    <RootNamespace>My3Nap2016</RootNamespace>
+    <ProjectGuid>{818a6bdf-cc1e-44d9-811e-c5fb1f095840}</ProjectGuid>
+    <RootNamespace>My6CircleIntecept</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Nap2016.cpp" />
+    <ClCompile Include="CircleIntecept.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
