@@ -21,7 +21,7 @@ int main()
 	cout << "x1=" << x1 << endl;
 	cout << "x2=" << x2 << endl;
 
-	return 0;
+	return 0; 
 
 
 }
