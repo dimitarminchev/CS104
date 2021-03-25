@@ -1,21 +1,37 @@
 #include<iostream>
+#include <string>
+#include <sstream>
 
 using namespace std;
 
+int CalculateResult(string number)
+{
+	int result = 0;
+
+	for (int i = 0; i < number.length(); i++)
+	{
+		int digit = (int)number[i] - (int)'0';
+
+		if (digit % 2 == 0)
+		{
+			result += digit;
+		}
+	}
+
+	return result;
+}
+
 int main()
 {
-	int number, sum = 0, m;
-	cout << "Enter a number: ";
+	string number;
+	int result;
+
+	cout << "Number: ";
 	cin >> number;
-	while (number > 0)
-	{
-		m = number % 10;
-		if (m % 2 == 0) 
-		{
-			sum = sum + m;
-			number = number / 10;
-		}		
-	}
-	cout << "Sum is= " << sum << endl;
+
+	result = CalculateResult(number);
+
+	cout << "Result: " << result;
+
 	return 0;
 }
