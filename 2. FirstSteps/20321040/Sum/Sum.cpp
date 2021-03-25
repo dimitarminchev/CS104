@@ -1,11 +1,24 @@
-#include <iostream>
+// 02. Сума на две цели числа
+#include<iostream>
 using namespace std;
 int main()
 {
-	int a = 2, b = 3
-	int c = a + b
+    // Създаване на три целочислени променливи
+    int a, b, c;
 
-	cout << "sum=" << c << endl;
-	
-	return 0;
+    // Въвеждане на стойност за a
+    cout << "a=";
+    cin >> a;
+
+    // Въвеждане на стойност за b
+    cout << "b=";
+    cin >> b;
+
+    // Използване на математическа операция събиране
+    c = a + b;
+
+    // Отпечатване на резултата
+    cout << "sum=" << c << endl;
+
+    return 0;
 }
