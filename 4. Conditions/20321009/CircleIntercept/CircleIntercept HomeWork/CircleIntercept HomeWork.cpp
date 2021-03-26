@@ -1,4 +1,4 @@
- // 7. Improvement Circles.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 7. Improvement Circles.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -18,7 +18,7 @@ int main()
 	cout << "Enter fourth circle [x y r]: " << endl;
 	cin >> Dx >> Dy >> Dr;
 
-	float d = sqrt(pow(Ax - Bx - Cx - Dx), 2) + pow((Ay - By - Cy - Dy), 2))
+	float d = sqrt(pow(Ax - Bx - Cx - Dx), 2) + pow((Ay - By - Cy - Dy), 2));
 
 	if (Ar + Br + Cr + Dr < d) cout << "No interaction points" << endl;
 	if (Ar + Br + Cr + Dr == d) cout << "One interaction point" << endl;
