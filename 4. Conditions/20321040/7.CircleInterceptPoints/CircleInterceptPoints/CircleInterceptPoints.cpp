@@ -31,7 +31,7 @@ int main()
 
     // ????????
     if (Ar + Br < d) cout << "No interception points." << endl;
-    if (Ar + Br == d) cout << "One interception point." << endl;
+    if (Ar + Br == d) cout << "One interception point." << endl << "x1=" << ix1 << endl << "y1=" << iy1 << endl;
     if (Ar + Br > d) cout << "Two interception point." <<endl << "x1=" << ix1 << endl << "x2=" << ix2 << endl << "y1=" << iy1 << endl<< "y2=" << iy2 << endl;
 
     return 0;
