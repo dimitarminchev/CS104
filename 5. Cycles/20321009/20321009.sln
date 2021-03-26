@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4 digits", "4 digits\4 digi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangle", "Triangle\Triangle.vcxproj", "{97936A64-5F9E-4CBE-8B82-660AF78865E0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pascal triangle", "Pascal triangle\Pascal triangle.vcxproj", "{CE7A0230-76C8-46E7-9FD5-A973A6B67549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{97936A64-5F9E-4CBE-8B82-660AF78865E0}.Release|x64.Build.0 = Release|x64
 		{97936A64-5F9E-4CBE-8B82-660AF78865E0}.Release|x86.ActiveCfg = Release|Win32
 		{97936A64-5F9E-4CBE-8B82-660AF78865E0}.Release|x86.Build.0 = Release|Win32
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Debug|x64.ActiveCfg = Debug|x64
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Debug|x64.Build.0 = Debug|x64
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Debug|x86.Build.0 = Debug|Win32
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Release|x64.ActiveCfg = Release|x64
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Release|x64.Build.0 = Release|x64
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Release|x86.ActiveCfg = Release|Win32
+		{CE7A0230-76C8-46E7-9FD5-A973A6B67549}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
