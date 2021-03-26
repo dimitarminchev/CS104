@@ -1,3 +1,4 @@
+﻿// 09.Триъгълник от числа
 #include <iostream>
 using namespace std;
 int main()
