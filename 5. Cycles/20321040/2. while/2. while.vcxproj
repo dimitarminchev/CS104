@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{36bb0936-7193-4f4f-b1b4-69b5168000db}</ProjectGuid>
-    <RootNamespace>MyProjects</RootNamespace>
+    <ProjectGuid>{a3e82bb6-51dd-42e2-9cc6-c13647743cf8}</ProjectGuid>
+    <RootNamespace>My2while</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MyProjects.cpp" />
+    <ClCompile Include="2. while.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
