@@ -9,14 +9,14 @@ int main()
     cin >> size;
     cout << endl;
 
-    for (int i = 0; i < size; i++)
+    for (int row = 0; row < size; row++)
     {
-        for (int row = 1; row <= size - i; row++) cout << "  ";
+        for (int i = 1; i <= size - row; i++) cout << "  ";
         cout << "1   ";
 
-        for (int j = 1; j <= i; j++)
+        for (int j = 1; j <= row; j++)
         {
-            n = n * (1 + i - j) / j;
+            n = n * (1 + row - j) / j;
             if (n <= 9) cout << n << "   ";
             else if (n >= 10) cout << n << "  ";
         }
