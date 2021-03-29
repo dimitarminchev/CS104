@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2b5aca37-d83b-4270-8d9a-69791c43b9f0}</ProjectGuid>
-    <RootNamespace>My20321016</RootNamespace>
+    <ProjectGuid>{3ac6fdcc-3f09-472e-8cb8-a4213543c748}</ProjectGuid>
+    <RootNamespace>My2While</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="20321016.cpp" />
+    <ClCompile Include="2.While.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
