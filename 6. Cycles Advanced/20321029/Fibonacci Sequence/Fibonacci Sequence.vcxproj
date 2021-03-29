@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{95ed71df-ea3f-4ee2-a64d-f4b19106a479}</ProjectGuid>
+    <ProjectGuid>{9e8fd84d-b021-4637-bb11-2d17479e849d}</ProjectGuid>
     <RootNamespace>FibonacciSequence</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FibonacciSequence.cpp" />
+    <ClCompile Include="Fibonacci Sequence.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

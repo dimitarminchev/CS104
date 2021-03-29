@@ -6,7 +6,7 @@ int main()
     
     int n;
 
-    
+
     cout << "Upper Limit: ";
     cin >> n;
 

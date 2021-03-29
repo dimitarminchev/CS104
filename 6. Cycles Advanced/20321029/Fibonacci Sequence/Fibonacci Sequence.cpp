@@ -6,7 +6,7 @@ int main()
     
     int n, a = 0, b = 1, c = a + b;
 
-    
+   
     cout << "Upper Limit: ";
     cin >> n;
 
@@ -16,7 +16,7 @@ int main()
     
     while (c < n)
     {
-       
+        
         a = b;
         b = c;
         c = a + b;

@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f0b5ee41-ca7f-4e23-8ef9-ee4636760113}</ProjectGuid>
+    <ProjectGuid>{f41a1218-27e9-4757-9c67-49bd83edb0bd}</ProjectGuid>
     <RootNamespace>PrimesSequence</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
