@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20321016.cpp">
+    <ClCompile Include="NotPrimes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

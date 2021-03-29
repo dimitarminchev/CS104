@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2b5aca37-d83b-4270-8d9a-69791c43b9f0}</ProjectGuid>
-    <RootNamespace>My20321016</RootNamespace>
+    <ProjectGuid>{cdf001eb-67c2-4ccc-a35d-bfd301aebca7}</ProjectGuid>
+    <RootNamespace>My4Factoriel</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="20321016.cpp" />
+    <ClCompile Include="4.Factoriel.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
