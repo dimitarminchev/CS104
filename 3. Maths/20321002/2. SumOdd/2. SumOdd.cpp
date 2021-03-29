@@ -6,11 +6,11 @@ int main()
     int a;
 
     cout << "a=?" << endl;
-    cin >> a; // 12345
+    cin >> a; 
 
-    int a1 = (a / 10000) % 10; // 1
-    int a3 = (a / 100) % 10; // 3
-    int a5 = (a / 1) % 10; // 5
+    int a1 = (a / 10000) % 10; 
+    int a3 = (a / 100) % 10; 
+    int a5 = (a / 1) % 10; 
     int sum = a1 + a3 + a5;
 
     cout << sum << endl;
