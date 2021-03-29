@@ -18,7 +18,7 @@ int main()
         bool isPrime = true; // true = 1, false = 0
 
         // Съществува ли делител на K?
-        for (int j = 2; j < sqrt(k); j++)
+        for (int j = 2; j <= sqrt(k); j++)
         {
             if (k % j == 0)
             {
