@@ -3,7 +3,6 @@ using namespace std;
 int main()
 {
     int a;
-
     cout << "a=?" << endl;
     cin >> a;
 

@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    float income; 
+    float income;
     float tax; 
 
     cout << "Please enter your 2016 income: ";

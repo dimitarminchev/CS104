@@ -1,4 +1,4 @@
-﻿// 01. Здравей свят!
+﻿//Здравей свят!
 #include<iostream>
 using namespace std;
 int main()
