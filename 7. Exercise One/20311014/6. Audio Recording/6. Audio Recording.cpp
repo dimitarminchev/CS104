@@ -12,7 +12,7 @@ int main()
     cin >> min;
     cout << "Enter seconds of recording: ";
     cin >> sec;
-
+    
     capKB = cap / 1024;
 
     recTime = h * 3600 + min * 60 + sec;
