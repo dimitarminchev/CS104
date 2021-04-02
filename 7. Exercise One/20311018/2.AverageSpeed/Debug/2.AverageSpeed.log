@@ -1,0 +1,4 @@
+﻿  2.AverageSpeed.cpp
+C:\Users\Petar\Documents\ProgrammingC++\Uprajnenie1\2.AverageSpeed\2.AverageSpeed.cpp(14,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Petar\Documents\ProgrammingC++\Uprajnenie1\2.AverageSpeed\2.AverageSpeed.cpp(15,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  2.AverageSpeed.vcxproj -> C:\Users\Petar\Documents\ProgrammingC++\Uprajnenie1\Debug\2.AverageSpeed.exe
