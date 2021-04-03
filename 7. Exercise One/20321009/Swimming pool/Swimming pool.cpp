@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿// Басейн
+
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -38,9 +40,10 @@ int main()
 
     
     // Изчисления 
-    double B = a * b * c;
-    double D = D1 + D2 + D3;
-    double T = B / D;
+    double T = (a * b * c) / (D1 + D2 + D3) ;
+  
+    
+    // Отпечатване на резултата
     cout << " The pool will be full in: " << T << " hours :) " << endl ;
     
    return 0;
