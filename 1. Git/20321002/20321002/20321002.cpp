@@ -2,6 +2,9 @@
 using namespace std;
 int main()
 {
-	cout << "Hello World!" << endl;
+	while (true)
+	{
+		cout << "10011 101 110 ";
+	}
 	return 0;
 }
