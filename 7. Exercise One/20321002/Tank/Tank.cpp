@@ -16,5 +16,6 @@ int main()
     case 3: cout << "3 litre remaining, we can use the 3 litres bucket"; break;
     case 4: cout << "4 litres remaining, we can use twice the 2 litres bucket"; break;
     }
+    cout << endl;
     return 0;
 }
