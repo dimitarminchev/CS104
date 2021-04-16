@@ -10,15 +10,19 @@ using namespace std;
 /// <returns></returns>
 int sum(int a = 2, int b = 3)
 {
-    return (a + b);
+    int c = a + b;
+    return (c);
 }
 
-
+/// <summary>
+/// Главна функция на програмата 
+/// </summary>
+/// <returns> 0</returns>
 int main()
 {
-    cout << sum() << endl;    // 5
-    cout << sum(1) << endl;   // 4
-    cout << sum(1, 2) << endl;// 3
+    // Примерна употреба за сумиране на две числа 
+    cout << sum() << endl;     // 5
+    cout << sum(1) << endl;    // 4
+    cout << sum(1, 2) << endl; // 3
     return 0;
 }
-
