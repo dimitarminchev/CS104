@@ -10,8 +10,7 @@ using namespace std;
 /// <returns></returns>
 int sum(int a = 2, int b = 3)
 {
-    int c = a + b;
-    return (c);
+    return (a + b);
 }
 
 /// <summary>
