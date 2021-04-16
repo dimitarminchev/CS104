@@ -24,7 +24,17 @@ int f(int x = 1, int n = 1)
 /// </summary>
 int main()
 {
-	cout << "The sum is: " << f(2, 3) << endl;
+	int x, n;
+
+	cout << "Enter a number X: ";
+	cin >> x;
+	cout << endl;
+
+	cout << "Enter number N: ";
+	cin >> n;
+	cout << endl;
+
+	cout << "The function is equal to: " << f(x, n) << endl;
 	
 	return 0;
 }
