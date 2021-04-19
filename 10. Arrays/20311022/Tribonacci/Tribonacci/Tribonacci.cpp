@@ -1,20 +1,25 @@
-// Tribonacci.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+﻿
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    // Брой на елементите
+    const int N = 20;
+
+    // Масив за съхранение на числата от редицата на Трибуначи
+    int Tri[N] = { 1,1,1 };
+
+    // Изчисляване на останалите числа
+    for (int k = 3; k < N; k++)
+    {
+        Tri[k] = Tri[k - 3] + Tri[k - 2] + Tri[k - 1];
+    }
+
+    // Отпечатване на редицата на Трибуначи
+    for (int k = 0; k < N; k++)
+    {
+        cout << Tri[k] << " ";
+    }
+
+    return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
