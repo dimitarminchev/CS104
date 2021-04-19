@@ -2,12 +2,6 @@
 #include <cmath>
 using namespace std;
 
-/// <summary>
-/// Сума на x^k
-/// </summary>
-/// <param name="x">Пaраметър X</param>
-/// <param name="k">Параметър K</param>
-/// <returns>Сума</returns>
 int f(int x = 1, int n = 1)
 {
     int sum = 0;
@@ -18,9 +12,6 @@ int f(int x = 1, int n = 1)
     return sum;
 }
 
-/// <summary>
-/// Главна функция на програмата
-/// </summary>
 int main()
 {
     int x, n;

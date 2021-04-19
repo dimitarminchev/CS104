@@ -13,7 +13,7 @@ int main()
     {
         for (int j = 0; j < n - 1; j++)
         {
-            if (A[j] > A[j + 1]) // 0 .. 9
+            if (A[j] > A[j + 1])
             {
                 int temp = A[j];
                 A[j] = A[j + 1];

@@ -3,18 +3,14 @@
 using namespace std;
 int main()
 {
-    // Променлива за обема на цистерната
     int v;
 
-    // Въвеждаме обема на цистерната
     cout << "v=";
     cin >> v;
 
-    // Двете кофи и остатъка
     int total = v / (2 + 3);
     int remain = v % (2 + 3);
 
-    // Информация за необходимия брой 
     cout << total << " times";
     switch (remain)
     {
