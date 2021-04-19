@@ -1,5 +1,4 @@
-﻿// 4. Изведете редицата: Аn = 1 / n
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 int main()
 {

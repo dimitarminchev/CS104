@@ -1,11 +1,9 @@
-﻿// Цикличен алгоритъм с постусловие 
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 int main()
 {
     int i = 1;
 
-    // Цикличен алгоритъм с постусловие
     do
     {
         cout << i << " ";

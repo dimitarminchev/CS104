@@ -2,12 +2,10 @@
 using namespace std;
 int main()
 {
-    // Необходими променливи за програмата
-    int menu; // Нaправен избор от потребителя [1..6]
-    float investment; // Сума която ще инвестира
-    float rate; // Лихвен процент [2.3 ... 3.8]
+    int menu; 
+    float investment; 
+    float rate; 
 
-    // Меню
     cout << "Personale Finances 1.0 Main Menu:" << endl;
     cout << "1. Personal Finance" << endl;
     cout << "2. Perosnal Homeover" << endl;

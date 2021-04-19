@@ -1,14 +1,11 @@
-﻿// 5. Лисе и периметър на квадрат, кръг или триъгълник
-#include <iostream>
+﻿#include <iostream>
 #include <cmath>
 using namespace std;
 int main()
 {
-    // Необходими променливи
     int menu;
     float p, s;
 
-    // Меню
     cout << "Select figure:" << endl;
     cout << "1. Square" << endl;
     cout << "2. Circle" << endl;
@@ -16,10 +13,8 @@ int main()
     cout << "Make your choise now: ";
     cin >> menu;
 
-    // Обработка
     switch (menu)
     {
-        // Square
         case 1: 
         {
             float a;
@@ -29,7 +24,6 @@ int main()
             s = a * a;
             break;
         }
-        // Circle
         case 2:
         {
             float r;
@@ -39,7 +33,6 @@ int main()
             s = 3.14 * r * r;
             break;
         }
-        // Triangle
         case 3:
         {
             float a, b, c;
@@ -52,7 +45,6 @@ int main()
         }
     }
 
-    // Отпечатване на резултата
     cout << "Area " << p << endl;
     cout << "Surface " << s << endl;
 
