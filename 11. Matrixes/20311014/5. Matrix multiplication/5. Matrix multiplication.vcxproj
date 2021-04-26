@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d0ea72c5-bda9-4b72-9315-37a560a787c8}</ProjectGuid>
-    <RootNamespace>My5Matrixmultiplication</RootNamespace>
+    <ProjectGuid>{a3b99ba3-5048-4a71-b44a-35aaadf05e96}</ProjectGuid>
+    <RootNamespace>My5MatrixMultiplication</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="5. Matrix multiplication.cpp" />
+    <ClCompile Include="5. Matrix Multiplication.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
