@@ -21,7 +21,7 @@ int main()
         {
             cout << A[x][y] << '\t'; // Tab
         }
-            ; // New Line
+		cout << '\n'; // New Line
     }
 
     return 0;
