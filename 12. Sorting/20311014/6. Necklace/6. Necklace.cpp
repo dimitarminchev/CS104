@@ -14,7 +14,9 @@ int main()
     int* d = new int[array_size];
     int* e = new int[array_size];
     int* o = new int[array_size];
+    int* d2 = new int[array_size];
 
+    // Convert string into array of integers
     for (int i = 0; i <= array_size; i++)
     {
         if (array_string.substr(i, 1) != " ")
@@ -33,6 +35,7 @@ int main()
         }
     }
 
+    // Split odd and even numbers
     for (int i = 0; i < t; i++)
     {
         if (d[i] % 2 == 0)
@@ -47,6 +50,7 @@ int main()
         }
     }
 
+    // Sort odd numbers
     for (int i = 0; i < m - 1; i++)
     {
         for (int j = 0; j < m - 1; j++)
@@ -61,6 +65,7 @@ int main()
     }
     cout << endl;
 
+    // Sort even numbers
     for (int i = 0; i < n - 1; i++)
     {
         for (int j = 0; j < n - 1; j++)
@@ -74,14 +79,12 @@ int main()
         }
     }
 
-    for (int i = 0; i < m; i++)
+    // Merge arrays
+    for (int i = 0; i < m + n; i++)
     {
-        cout << o[i] << " ";
-    }
-
-    for (int i = 0; i < n; i++)
-    {
-        cout << e[i] << " ";
+        if (i < n) d2[i] = o[i];
+        else if (i >= n) d2[i] = e[i - n];
+        cout << d2[i] << " ";
     }
     cout << endl;
 

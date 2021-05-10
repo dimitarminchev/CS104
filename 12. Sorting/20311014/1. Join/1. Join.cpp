@@ -30,12 +30,14 @@ int main()
     c = a + b;
     int* d3 = new int[c];
 
+    // Merge arrays
     for (i = 0; i < c; i++)
     {
         if (i < a) d3[i] = d1[i];
         else d3[i] = d2[i - a];
     }
 
+    // Sort array
     for (i = 0; i < (c - 1); i++)
     {
         for (j = 0; j < (c - 1); j++)

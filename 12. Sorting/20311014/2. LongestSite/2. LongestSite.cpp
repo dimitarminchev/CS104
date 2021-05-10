@@ -13,6 +13,7 @@ int main()
     int array_size = array_string.size();
     int* d = new int[array_size];
 
+    // Convert string into array of integers
     for (int i = 0; i <= array_size; i++)
     {
         if (array_string.substr(i, 1) != " ")
@@ -31,6 +32,7 @@ int main()
         }
     }
 
+    // Find longest site
     for (int j = 1; j <= m; j++)
     {
         if (d[j] == d[j - 1])
