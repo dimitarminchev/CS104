@@ -4,13 +4,14 @@ using namespace std;
 
 int main()
 {
-    int d[1000], m = 0, n = 0, pos = 0, len1 = 1, len = 0, lastPos = 0, lastLen = 0;
+    int m = 0, n = 0, pos = 0, len1 = 1, len = 0, lastPos = 0, lastLen = 0;
     string array_string;
 
     cout << "Enter array: ";
     getline(cin, array_string, '\n');
 
     int array_size = array_string.size();
+    int* d = new int[array_size];
 
     for (int i = 0; i <= array_size; i++)
     {
