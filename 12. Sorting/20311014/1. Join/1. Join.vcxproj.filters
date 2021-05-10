@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1. JoinArray.cpp">
+    <ClCompile Include="1. Join.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int num = 0, a, b, c, i, j, k, l, m, n, temp;
+    int num = 0, a, b, c, i, j, n, temp;
 
     cout << "Enter first array size: ";
     cin >> a;
@@ -48,7 +48,7 @@ int main()
             }
         }
     }
-    
+
     cout << "\nNew array:" << endl;
     for (n = 0; n < c; n++) cout << d3[n] << " ";
     cout << endl;

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5c81910b-8122-4dfd-96a8-4a4914292be5}</ProjectGuid>
-    <RootNamespace>My1JoinArray</RootNamespace>
+    <ProjectGuid>{34c0d8cb-55cc-4dfa-9639-d4ca4565201b}</ProjectGuid>
+    <RootNamespace>My1Join</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1. JoinArray.cpp" />
+    <ClCompile Include="1. Join.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
