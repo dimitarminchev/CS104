@@ -22,29 +22,29 @@ int main()
     int* d2 = new int[b];
 
     cout << "Enter second array elements: ";
-    for (j = 0; j < b; j++)
+    for (i = 0; i < b; i++)
     {
-        cin >> d2[j];
+        cin >> d2[i];
     }
 
     c = a + b;
     int* d3 = new int[c];
 
-    for (k = 0; k < c; k++)
+    for (i = 0; i < c; i++)
     {
-        if (k < a) d3[k] = d1[k];
-        else d3[k] = d2[k - a];
+        if (i < a) d3[i] = d1[i];
+        else d3[i] = d2[i - a];
     }
 
-    for (l = 0; l < (c - 1); l++)
+    for (i = 0; i < (c - 1); i++)
     {
-        for (m = 0; m < (c - 1); m++)
+        for (j = 0; j < (c - 1); j++)
         {
-            if (d3[m] > d3[m + 1])
+            if (d3[j] > d3[j + 1])
             {
-                temp = d3[m];
-                d3[m] = d3[m + 1];
-                d3[m + 1] = temp;
+                temp = d3[j];
+                d3[j] = d3[j + 1];
+                d3[j + 1] = temp;
             }
         }
     }
