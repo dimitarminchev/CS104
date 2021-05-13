@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int m = 0, n = 0, pos = 0, len1 = 1, len = 0, lastPos = 0, lastLen = 0;
+    int m = 0, pos = 0, len_string = 1, len = 1, lastPos = 0, lastLen = 0;
     string array_string;
 
     cout << "Enter array: ";
@@ -21,39 +21,33 @@ int main()
             
             if ((i != array_size) && (array_string.substr(i + 1, 1) != " "))
             {
-                len1++;
+                len_string++;
             }
             else
             {
-                d[m] = stoi(array_string.substr(i - len1 + 1, len1));
-                len1 = 1;
+                d[m] = stoi(array_string.substr(i - len_string + 1, len_string));
+                len_string = 1;
                 m++;
             }
         }
     }
 
     // Find longest site
-    for (int j = 1; j <= m; j++)
+    for (int i = 1; i <= m; i++)
     {
-        if (d[j] == d[j - 1])
+        if (d[i] == d[i - 1])
         {
-            n++;
-            pos = j - n;
-            len = n + 1;
+            pos = i - len;
+            len++;
         }
-
+        
         if (len > lastLen)
         {
             lastPos = pos;
             lastLen = len;
         }
 
-        if (d[j] != d[j - 1])
-        {
-            n = 0;
-            pos = j;
-            len = 0;
-        }
+        if (d[i] != d[i - 1]) len = 1;
     }
 
     cout << "\nLargest string starts at position (" << lastPos << ")." << endl;

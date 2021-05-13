@@ -1,20 +1,21 @@
 #include <iostream>
 using namespace std;
 
-int d1[4][4], d3[16], d4[4][4], num, n = 0;
+const int N = 4;
+int d1[N][N], d3[N * N], d4[N][N], num, n = 0, rem = 1;
 
 // Sort function
 void f_sort()
 {
-    for (int i = 0; i < 15; i++)
+    for (int i = 0; i < N * N; i++)
     {
-        for (int j = 0; j < 15; j++)
+        for (int j = 0; j < N * N; j++)
         {
-            if (d3[j] < d3[j + 1])
+            if (d3[i] > d3[j])
             {
-                int temp = d3[j];
-                d3[j] = d3[j + 1];
-                d3[j + 1] = temp;
+                int temp = d3[i];
+                d3[i] = d3[j];
+                d3[j] = temp;
             }
         }
     }
@@ -23,13 +24,8 @@ void f_sort()
 int main()
 {
     // First array
-    for (int i = 0; i < 4; i++)
-    {
-        for (int j = 0; j < 4; j++)
-        {
-            cin >> d1[i][j];
-        }
-    }
+    for (int i = 0; i < N; i++)
+        for (int j = 0; j < N; j++) cin >> d1[i][j];
 
     // Second array
     cout << "Enter array size: ";
@@ -41,9 +37,9 @@ int main()
     for (int k = 0; k < num; k++) cin >> d2[k];
 
     // Transform 3D array into 2D array
-    for (int i = 0; i < 4; i++)
+    for (int i = 0; i < N; i++)
     {
-        for (int j = 0; j < 4; j++)
+        for (int j = 0; j < N; j++)
         {
             d3[n] = d1[i][j];
             n++;
@@ -55,11 +51,12 @@ int main()
     // Merge maximum elements
     for (int i = 0; i < num; i++)
     {
-        for (int j = 15; j > 0; j--)
+        for (int j = N * N - rem; j > 0; j--)
         {
             if (d2[i] > d3[j])
             {
                 d3[j] = d2[i];
+                rem++;
                 break;
             }
         }
@@ -69,11 +66,11 @@ int main()
 
     // Transform 2D array into 3D array
     cout << endl;
-    for (int i = 0; i < 4; i++)
+    for (int i = 0; i < N; i++)
     {
-        for (int j = 0; j < 4; j++)
+        for (int j = 0; j < N; j++)
         {
-            d4[i][j] = d3[i * 4 + j];
+            d4[i][j] = d3[i * N + j];
             cout << d4[i][j] << " ";
         }
         cout << endl;

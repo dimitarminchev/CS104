@@ -34,6 +34,20 @@ int main()
         }
     }
 
+    // Sort array
+    for (int i = 0; i < t; i++)
+    {
+        for (int j = 0; j < t; j++)
+        {
+            if (d[i] < d[j])
+            {
+                int temp = d[i];
+                d[i] = d[j];
+                d[j] = temp;
+            }
+        }
+    }
+
     // Split odd and even numbers
     for (int i = 0; i < t; i++)
     {
@@ -48,47 +62,13 @@ int main()
             m++;
         }
     }
-
-    // Sort odd numbers
-    for (int i = 0; i < m - 1; i++)
-    {
-        for (int j = 0; j < m - 1; j++)
-        {
-            if (o[j] > o[j + 1])
-            {
-                int temp = o[j];
-                o[j] = o[j + 1];
-                o[j + 1] = temp;
-            }
-        }
-    }
     cout << endl;
-
-    // Sort even numbers
-    for (int i = 0; i < n - 1; i++)
-    {
-        for (int j = 0; j < n - 1; j++)
-        {
-            if (e[j] > e[j + 1])
-            {
-                int temp = e[j];
-                e[j] = e[j + 1];
-                e[j + 1] = temp;
-            }
-        }
-    }
 
     // Print new arrays
-    for (int i = 0; i < m; i++)
-    {
-        cout << o[i] << " ";
-    }
+    for (int i = 0; i < m; i++) cout << o[i] << " ";
     cout << endl;
 
-    for (int i = 0; i < n; i++)
-    {
-        cout << e[i] << " ";
-    }
+    for (int i = 0; i < n; i++) cout << e[i] << " ";
     cout << endl;
 
     return 0;

@@ -51,30 +51,30 @@ int main()
     }
 
     // Sort odd numbers
-    for (int i = 0; i < m - 1; i++)
+    for (int i = 0; i < m; i++)
     {
-        for (int j = 0; j < m - 1; j++)
+        for (int j = 0; j < m; j++)
         {
-            if (o[j] > o[j + 1])
+            if (o[i] < o[j])
             {
-                int temp = o[j];
-                o[j] = o[j + 1];
-                o[j + 1] = temp;
+                int temp = o[i];
+                o[i] = o[j];
+                o[j] = temp;
             }
         }
     }
     cout << endl;
 
     // Sort even numbers
-    for (int i = 0; i < n - 1; i++)
+    for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < n - 1; j++)
+        for (int j = 0; j < n; j++)
         {
-            if (e[j] < e[j + 1])
+            if (e[i] > e[j])
             {
-                int temp = e[j];
-                e[j] = e[j + 1];
-                e[j + 1] = temp;
+                int temp = e[i];
+                e[i] = e[j];
+                e[j] = temp;
             }
         }
     }
