@@ -1,50 +1,72 @@
 #include <iostream>
-#include <algorithm>
 using namespace std;
-
 int main()
 {
-	int Matrix[3][3];
-	int arr[10];
-	int size;
+    const int N = 3;
+    int A[N][N], B[100], n;
 
-	for (int i = 0; i < 3; i++)
-	{
-		for (int j = 0; j < 3; j++)
-		{
-			cin >> Matrix[i][j];
-		}
-	}
-	cin >> size;
-	int* arr1 = new int[size];
-	for (int i = 0; i < size; i++)
-	{
-		cin >> arr1[i];
-	}
+    for (int x = 0; x < N; x++)
+        for (int y = 0; y < N; y++) 
+            cin >> A[x][y];
+    cin >> n;
+    for (int i = 0; i < n; i++) 
+        cin >> B[i];
 
-	for (int i = 0; i < 3; i++) {
-		for (int j = 0; j < 3; j++) {
-			int m = i;
-			int n = j + 1;
-			while (true) {
-				if (n == 3) {
-					n = 0;
-					m++;
-					if (m == 3) break;
-				}
+    for (int x1 = 0; x1 < N; x1++)
+        for (int y1 = 0; y1 < N; y1++)
+            for (int x2 = 0; x2 < N; x2++)
+                for (int y2 = 0; y2 < N; y2++)
+                    if (A[x1][y1] < A[x2][y2])
+                    {
+                        int temp = A[x1][y1];
+                        A[x1][y1] = A[x2][y2];
+                        A[x2][y2] = temp;
+                    }
 
-				if (Matrix[i][j] > Matrix[m][n]) swap(Matrix[i][j], Matrix[m][n]);
-				n++;
-			}
-		}
-	}
-	for (int i = 0; i < 3; i++)
-	{
-		for (int j = 0; j < 3; j++)
-		{
-			cout << Matrix[i][j] << " ";
-		}
-		cout << endl;
-	}
-	return 0;
+    for (int i = 0; i < n; i++)
+        for (int j = 0; j < n; j++)
+            if (B[i] < B[j])
+            {
+                int temp = B[i];
+                B[i] = B[j];
+                B[j] = temp;
+            }
+
+    int C[N][N], Ax = 0, Ay = 0, Bi = 0, index = 0;
+    while (index < N * N)
+    {
+       
+        int x = index / N;
+        int y = index % N;
+
+       
+        if (A[Ax][Ay] < B[Bi])
+        {
+            C[x][y] = A[Ax][Ay]; 
+            if (Ay == N - 1) 
+            {
+                Ay = 0;
+                Ax++;
+            }
+            else Ay++;
+        }
+        else
+        {
+            C[x][y] = B[Bi]; 
+            Bi++; 
+        }
+
+  
+        index++;
+    }
+
+   
+    for (int x = 0; x < N; x++)
+    {
+        for (int y = 0; y < N; y++)
+            cout << C[x][y] << '\t';
+        cout << '\n';
+    }
+
+    return 0;
 }

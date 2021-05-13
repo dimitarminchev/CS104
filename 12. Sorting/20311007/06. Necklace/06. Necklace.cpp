@@ -1,54 +1,53 @@
 #include <iostream>
-#include <algorithm>
 using namespace std;
-
 int main()
 {
-    int arr[100];
-    int evenArr[100];
-    int oddArr[100];
-    int j = 0, k = 0, n, temp;
 
-
-    cin >> n;
-    for (int i = 0; i < n; i++)
+    int A[100], next, max = 0;
+    while (cin >> next)
     {
-        cin >> arr[i];
+        A[max] = next;
+        max++;
     }
-    for (int i = 0; i < n; i++)
+
+    int odd[100], even[100], odd_index = 0, even_index = 0;
+    for (int i = 0; i < max; i++)
     {
-        if (arr[i] % 2 == 0)
+        if (A[i] % 2 == 0) 
         {
-            evenArr[j] = arr[i];
-            j++;
+            even[even_index] = A[i];
+            even_index++;
         }
-        else
+        else 
         {
-            oddArr[k] = arr[i];
-            k++;
+            odd[odd_index] = A[i];
+            odd_index++;
         }
     }
 
-    for (int i = 0; i < n - 1; i++)
-    {
-        for (int j = 0; j < n - 1; j++)
-        {         
-            if (evenArr[j] < evenArr[j + 1])
+    for (int i = 0; i < even_index; i++)
+        for (int j = 0; j < even_index; j++)
+            if (even[i] > even[j])
             {
-                int temp = evenArr[j];
-                evenArr[j] = evenArr[j + 1];
-                evenArr[j + 1] = temp;
+                // Swap
+                int temp = even[i];
+                even[i] = even[j];
+                even[j] = temp;
             }
-        }
-    }
-  
-      for (int i = 0; i <= k - 1; i++)
-    {
-        cout << oddArr[i] << " ";
-    }
-      for (int i = 0; i <= k - 1; i++)
-      {
-          cout << evenArr[i] << " ";
-      }
+
+    for (int i = 0; i < odd_index; i++)
+        for (int j = 0; j < odd_index; j++)
+            if (odd[i] < odd[j])
+            {
+                // Swap
+                int temp = odd[i];
+                odd[i] = odd[j];
+                odd[j] = temp;
+            }
+
+    for (int i = 0; i < odd_index; i++) cout << odd[i] << " ";
+    for (int i = 0; i < even_index; i++) cout << even[i] << " ";
+    cout << endl;
+
     return 0;
 }
