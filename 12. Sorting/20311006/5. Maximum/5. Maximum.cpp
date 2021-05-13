@@ -28,7 +28,8 @@ int main()
                 B[i] = B[j];
                 B[j] = temp;
             }
-    int C[N][N], Ax = 0, Ay = 0, Bi = 0, index = 0;
+    int C[N][N];
+    int Ax = 0, Ay = 0, Bi = 0, index = 0;
     while (index < N * N)
     {
         int x = index / N;
@@ -54,7 +55,7 @@ int main()
     {
         for (int y = 0; y < N; y++)
             cout << C[x][y] << '\t';
-        cout << '\n';
+        cout << endl;
     }
     return 0;
 }

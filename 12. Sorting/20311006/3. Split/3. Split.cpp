@@ -2,10 +2,11 @@
 using namespace std;
 int main()
 {
-    int A[100], next, max = 0;
-    while (cin >> next)
+    int A[100], n;
+    int max = 0;
+    while (cin >> n)
     {
-        A[max] = next;
+        A[max] = n;
         max++;
     }
     for (int i = 0; i < max; i++)
@@ -16,7 +17,8 @@ int main()
                 A[i] = A[j];
                 A[j] = temp;
             }
-    int odd[100], even[100], odd_index = 0, even_index = 0;
+    int odd[100], even[100];
+    int odd_index = 0, even_index = 0;
     for (int i = 0; i < max; i++)
     {
         if (A[i] % 2 == 0)
