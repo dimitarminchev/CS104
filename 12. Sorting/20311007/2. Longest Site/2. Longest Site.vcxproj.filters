@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2. Longest Site.cpp">
+    <ClCompile Include="02. Longest Site.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
