@@ -1,3 +1,0 @@
-﻿  CircleIntercept.cpp
-C:\Users\Petar\Documents\ProgrammingC++\CircleIntercept\CircleIntercept.cpp(13,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  CircleIntercept.vcxproj -> C:\Users\Petar\Documents\ProgrammingC++\L2\Debug\CircleIntercept.exe
