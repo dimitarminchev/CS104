@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6ce5eb48-5e73-4a6e-bb27-f117a169dd17}</ProjectGuid>
-    <RootNamespace>My2LongestSite</RootNamespace>
+    <ProjectGuid>{b015df82-cbb4-4842-8ae0-010f118f9d83}</ProjectGuid>
+    <RootNamespace>My2Rational</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>02. Longest Site</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02. Longest Site.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="rational.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rational.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
