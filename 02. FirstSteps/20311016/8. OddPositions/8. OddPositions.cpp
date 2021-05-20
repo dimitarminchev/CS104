@@ -1,16 +1,15 @@
-﻿#include<iostream>
-using namespace std;
+﻿#include <iostream>
+
 int main()
 {
-    int number; 
-    cout << "Enter five-digit number: "<< endl;
-    cin >> number;
-    
+    int number;
+    std::cout << "Enter five-digit number: " << std::endl;
+    std::cin >> number;
+
     int d1 = (number / 10000) % 10;
     int d3 = (number / 100) % 10;
-    int d5 = (number / 1) % 10;
+    int d5 = number % 10;
 
     int sum = d1 + d3 + d5;
-    cout << "The sum is: " << sum << endl;
-    return 0;
+    std::cout << "The sum is: " << sum << std::endl;
 }

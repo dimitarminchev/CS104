@@ -1,20 +1,17 @@
-﻿#include<iostream> 
-#include<cmath> 
-using namespace std;
+﻿#include <iostream>
+#include <cmath>
 
 int main()
 {
     float r, p, s;
     float PI = acos(-1.0);
 
-    cout << "r=";
-    cin >> r;
+    std::cout << "r=";
+    std::cin >> r;
 
     p = 2 * PI * r;
     s = PI * pow(r, 2);
 
-    cout << "p=" << p << endl;
-    cout << "s=" << s << endl;
-
-    return 0;
+    std::cout << "p=" << p << std::endl;
+    std::cout << "s=" << s << std::endl;
 }

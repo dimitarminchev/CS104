@@ -12,12 +12,14 @@ int main()
     std::cout << "Seconds: ";
     std::cin >> seconds;
 
-    int sum = seconds + (minutes * 60) + (hours * 3600);
+    int sum = seconds + minutes * 60 + hours * 3600;
 
-    if (sum >= space / 1024) {
+    if (sum >= space / 1024)
+    {
         std::cout << "No space";
     }
-    else {
+    else
+    {
         std::cout << "Has space";
     }
 }

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. Swimming pool", "1. Swimming pool\1. Swimming pool.vcxproj", "{6A315A02-F7E6-4804-877B-71372FCEA0AA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. AverageSpeed", "AverageSpeed\AverageSpeed.vcxproj", "{7E66D851-EAC1-430F-B843-5CA0E00C8BBD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. AverageSpeed", "2. AverageSpeed\2. AverageSpeed.vcxproj", "{7E66D851-EAC1-430F-B843-5CA0E00C8BBD}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. Tank", "3. Tank\3. Tank.vcxproj", "{D40C92B7-725C-41AF-AD26-877787FAB000}"
 EndProject

@@ -3,6 +3,7 @@
 int main()
 {
     double t1, v1, t2, v2;
+
     std::cout << "Format: T1 V1 T2 V2" << std::endl;
     std::cin >> t1 >> v1 >> t2 >> v2;
 

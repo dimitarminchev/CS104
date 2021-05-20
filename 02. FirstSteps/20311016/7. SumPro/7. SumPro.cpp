@@ -1,12 +1,11 @@
-﻿#include<iostream>
-using namespace std;
+﻿#include <iostream>
 
 int main()
 {
     int a;
 
-    cout << "a=?" << endl;
-    cin >> a;
+    std::cout << "a=?" << std::endl;
+    std::cin >> a;
 
     int a1 = (a / 1000) % 10;
     int a2 = (a / 100) % 10;
@@ -16,8 +15,6 @@ int main()
     int s = a1 + a2 + a3 + a4;
     int p = a1 * a2 * a3 * a4;
 
-    cout << s << endl;
-    cout << p << endl;
-
-    return 0;
+    std::cout << s << std::endl;
+    std::cout << p << std::endl;
 }

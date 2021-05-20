@@ -1,16 +1,15 @@
 ﻿#include <iostream>
-using namespace std;
 
 int main()
 {
     int a, b, c;
 
-    cout << "a = ";
-    cin >> a;
-    cout << "b = ";
-    cin >> b;
-    cout << "c = ";
-    cin >> c;
+    std::cout << "a = ";
+    std::cin >> a;
+    std::cout << "b = ";
+    std::cin >> b;
+    std::cout << "c = ";
+    std::cin >> c;
 
     int min = a;
     if (b < min) min = b;
@@ -20,8 +19,6 @@ int main()
     if (b > max) max = b;
     if (c > max) max = c;
 
-    cout << "The smallest number is: " << min << endl;
-    cout << "The largest number is: " << max << endl;
-
-    return 0;
+    std::cout << "The smallest number is: " << min << std::endl;
+    std::cout << "The largest number is: " << max << std::endl;
 }

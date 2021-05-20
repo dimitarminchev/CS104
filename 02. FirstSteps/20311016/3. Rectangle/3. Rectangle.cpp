@@ -1,18 +1,15 @@
-﻿#include<iostream>
-using namespace std;
+﻿#include <iostream>
 
 int main()
 {
     float a, b, p, s;
 
-    cout << "a=?, b=?" << endl;
-    cin >> a >> b;
+    std::cout << "a=?, b=?" << std::endl;
+    std::cin >> a >> b;
 
     p = 2 * (a + b);
     s = a * b;
 
-    cout << "p=" << p << endl;
-    cout << "s=" << s << endl;
-
-    return 0;
+    std::cout << "p=" << p << std::endl;
+    std::cout << "s=" << s << std::endl;
 }

@@ -1,16 +1,15 @@
-﻿#include<iostream>
-using namespace std;
+﻿#include <iostream>
+
 int main()
 {
     int number;
-    cout << "Enter six-digit number: " << endl;
-    cin >> number;
+    std::cout << "Enter six-digit number: " << std::endl;
+    std::cin >> number;
 
     int d2 = (number / 10000) % 10;
     int d4 = (number / 100) % 10;
-    int d6 = (number / 1) % 10;
+    int d6 = number % 10;
 
     int result = d2 * d4 * d6;
-    cout << "The result is: " << result << endl;
-    return 0;
+    std::cout << "The result is: " << result << std::endl;
 }

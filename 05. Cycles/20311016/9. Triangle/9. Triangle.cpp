@@ -13,6 +13,7 @@ int main()
 		{
 			std::cout << j << " ";
 		}
+
 		std::cout << std::endl;
 	}
 }
