@@ -20,10 +20,15 @@ point::point()
 	setY(0);
 }
 
-point::point(int x, int b)
+point::point(int x, int y)
 {
 	setX(x);
 	setY(y);
+}
+
+point::~point()
+{
+
 }
 
 int point::getX()
