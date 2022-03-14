@@ -11,7 +11,7 @@ https://github.com/dimitarminchev/CS104
 4. Натиснете: Clone
 
 ## 2. Създаване на първи проект на C++
-1. Стартирайте интегрираната среда за разработка: **Microsoft Visual Comunity 2019**
+1. Стартирайте интегрираната среда за разработка: **Microsoft Visual Comunity 2022**
 2. Изпълнете: **File > New > Project**
 3. Изберете последователността: **C++ > Windows > Console > Console App**
 4. Име на проекта (Project name): **FAKNO**
