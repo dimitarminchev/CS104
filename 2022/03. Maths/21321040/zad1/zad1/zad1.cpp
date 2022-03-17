@@ -6,7 +6,7 @@ int main()
     int a;
 
     // Въвеждаме стойност от клавиатурата
-    cout << "Please enter three digit number example: 123" << endl;
+    cout << "Please enter three digit number example: 123?" << endl;
     cin >> a;
 
     // Отцепване на цифрите
