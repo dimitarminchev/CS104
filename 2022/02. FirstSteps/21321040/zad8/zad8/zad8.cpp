@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int x;
-    cout << "Please add a five digit number" <<endl;
+    cout << "Please add a five digit number example 12345" <<endl;
     cin >> x;
     int a1 = (x / 10000) % 10;
     int a3 = (x/ 100) % 10;
