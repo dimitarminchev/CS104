@@ -21,4 +21,4 @@ int main()
 	cout << "x2=" << x2 << endl;
 
 	return 0;
-}
+}d
