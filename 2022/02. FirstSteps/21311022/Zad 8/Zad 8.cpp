@@ -8,5 +8,5 @@ int main()
     int a3 = (chislo / 100) % 10;
     int a5 = (chislo / 1) % 10;
     cout << "Sumata na chislata s nechetni pozicii e " << a1 + a3 + a5<<endl;
-    return 0;d
+    return 0;
 }
