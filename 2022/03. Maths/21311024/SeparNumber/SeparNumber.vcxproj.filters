@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="21311024.cpp">
+    <ClCompile Include="SeparNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

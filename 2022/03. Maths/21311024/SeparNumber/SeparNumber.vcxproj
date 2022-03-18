@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{99c2fb6b-742c-4998-a4d5-d3d9213c5659}</ProjectGuid>
-    <RootNamespace>My21311024</RootNamespace>
+    <ProjectGuid>{d5691b42-cd5f-4719-931a-80081d2fb9da}</ProjectGuid>
+    <RootNamespace>SeparNumber</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="21311024.cpp" />
+    <ClCompile Include="SeparNumber.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
