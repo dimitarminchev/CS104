@@ -13,7 +13,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. Circle", "4. Circle\4. C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. ReverseNumber", "5. ReverseNumber\5. ReverseNumber.vcxproj", "{1A986468-C087-4815-A716-2E070E0FB101}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. SumPro", "7. SumPro\7. SumPro.vcxproj", "{041EEE9D-BAE2-4B9A-8C19-038CD06A6613}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. SumPro", "7. SumPro\7. SumPro.vcxproj", "{041EEE9D-BAE2-4B9A-8C19-038CD06A6613}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача 8 - Сума от цифрите на нечетни позиции на 5 цифрови числа", "Задача 8 - Сума от цифрите на нечетни позиции на 5 цифрови числа\Задача 8 - Сума от цифрите на нечетни позиции на 5 цифрови числа.vcxproj", "{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача 9 - Произведение от цифрите на четните позиции на 6 цифрено число", "Задача 9 - Произведение от цифрите на четните позиции на 6 цифрено число\Задача 9 - Произведение от цифрите на четните позиции на 6 цифрено число.vcxproj", "{8A20830F-3C8B-4393-A0DF-02682CC123B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +75,22 @@ Global
 		{041EEE9D-BAE2-4B9A-8C19-038CD06A6613}.Release|x64.Build.0 = Release|x64
 		{041EEE9D-BAE2-4B9A-8C19-038CD06A6613}.Release|x86.ActiveCfg = Release|Win32
 		{041EEE9D-BAE2-4B9A-8C19-038CD06A6613}.Release|x86.Build.0 = Release|Win32
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Debug|x64.ActiveCfg = Debug|x64
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Debug|x64.Build.0 = Debug|x64
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Debug|x86.Build.0 = Debug|Win32
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Release|x64.ActiveCfg = Release|x64
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Release|x64.Build.0 = Release|x64
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Release|x86.ActiveCfg = Release|Win32
+		{5B1ABC8A-2887-4DC1-BC17-031C05500CDA}.Release|x86.Build.0 = Release|Win32
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Debug|x64.ActiveCfg = Debug|x64
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Debug|x64.Build.0 = Debug|x64
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Debug|x86.Build.0 = Debug|Win32
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Release|x64.ActiveCfg = Release|x64
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Release|x64.Build.0 = Release|x64
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Release|x86.ActiveCfg = Release|Win32
+		{8A20830F-3C8B-4393-A0DF-02682CC123B7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
