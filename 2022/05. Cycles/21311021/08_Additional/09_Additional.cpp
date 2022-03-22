@@ -8,7 +8,7 @@ int main()
 
     int temp = 1;
     for (int i = 0; i < rows; i++)
-    {
+    { 
         for (int j = 0; j <= i; j++)
         {
             if (j == 0 || i == 0)
