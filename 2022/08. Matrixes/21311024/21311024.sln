@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{943F2C9C-1E13-4FA4-A771-5FE9E021F0CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix Multiply by Number", "Matrix Multiply by Number\Matrix Multiply by Number.vcxproj", "{71BC78FB-CBEA-4871-BF65-6B44CA99C382}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{943F2C9C-1E13-4FA4-A771-5FE9E021F0CF}.Release|x64.Build.0 = Release|x64
 		{943F2C9C-1E13-4FA4-A771-5FE9E021F0CF}.Release|x86.ActiveCfg = Release|Win32
 		{943F2C9C-1E13-4FA4-A771-5FE9E021F0CF}.Release|x86.Build.0 = Release|Win32
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Debug|x64.ActiveCfg = Debug|x64
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Debug|x64.Build.0 = Debug|x64
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Debug|x86.ActiveCfg = Debug|Win32
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Debug|x86.Build.0 = Debug|Win32
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Release|x64.ActiveCfg = Release|x64
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Release|x64.Build.0 = Release|x64
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Release|x86.ActiveCfg = Release|Win32
+		{71BC78FB-CBEA-4871-BF65-6B44CA99C382}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
