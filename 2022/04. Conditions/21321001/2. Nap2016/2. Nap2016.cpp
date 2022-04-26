@@ -1,10 +1,11 @@
-﻿#include <iostream>
+﻿#include <iostream> 
 using namespace std;
 int main()
 {
 	float income, tax;
 	cout << "Please enter income for 2016: ";
 	cin >> income;
+
 	if (income <= 1620)
 	{
 		tax = 0;
@@ -22,5 +23,6 @@ int main()
 		tax = 1072 + (income - 7200) * 0.22;
 	}
 	cout << "Tax = " << tax << endl;
+
 	return 0;
 }
