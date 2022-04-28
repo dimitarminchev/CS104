@@ -1,10 +1,9 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
 {
     float a, b, p, s;
-    
     cout << "a=?, b=?" << endl;
     cin >> a >> b;
 
@@ -14,5 +13,5 @@ int main()
     cout << "p=" << p << endl;
     cout << "s=" << s << endl;
 
-    return 0;
+	return 0;
 }

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="8. MultEvenNum.cpp">
+    <ClCompile Include="Task 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
