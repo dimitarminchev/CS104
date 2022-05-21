@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. MinMax", "3. MinMax\3. M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. SurfaceAndArea", "4. SurfaceAndArea\4. SurfaceAndArea.vcxproj", "{D7713E69-4014-40C2-B470-7178C00706F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. CirclesIntersept", "5. CirclesIntersept\5. CirclesIntersept.vcxproj", "{13F317F3-CFB6-4204-A85F-6AB9F66DC413}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{D7713E69-4014-40C2-B470-7178C00706F1}.Release|x64.Build.0 = Release|x64
 		{D7713E69-4014-40C2-B470-7178C00706F1}.Release|x86.ActiveCfg = Release|Win32
 		{D7713E69-4014-40C2-B470-7178C00706F1}.Release|x86.Build.0 = Release|Win32
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Debug|x64.ActiveCfg = Debug|x64
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Debug|x64.Build.0 = Debug|x64
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Debug|x86.ActiveCfg = Debug|Win32
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Debug|x86.Build.0 = Debug|Win32
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Release|x64.ActiveCfg = Release|x64
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Release|x64.Build.0 = Release|x64
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Release|x86.ActiveCfg = Release|Win32
+		{13F317F3-CFB6-4204-A85F-6AB9F66DC413}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
