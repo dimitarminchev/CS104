@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. SqEq", "1. SqEq\1. SqEq.vcxproj", "{96127578-96F3-4D60-870F-60208F40ED75}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. NAP2016", "2. NAP2016\2. NAP2016.vcxproj", "{DF198252-5ACA-4604-889C-5C5291974EBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{96127578-96F3-4D60-870F-60208F40ED75}.Release|x64.Build.0 = Release|x64
 		{96127578-96F3-4D60-870F-60208F40ED75}.Release|x86.ActiveCfg = Release|Win32
 		{96127578-96F3-4D60-870F-60208F40ED75}.Release|x86.Build.0 = Release|Win32
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Debug|x64.ActiveCfg = Debug|x64
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Debug|x64.Build.0 = Debug|x64
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Debug|x86.Build.0 = Debug|Win32
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Release|x64.ActiveCfg = Release|x64
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Release|x64.Build.0 = Release|x64
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Release|x86.ActiveCfg = Release|Win32
+		{DF198252-5ACA-4604-889C-5C5291974EBB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
