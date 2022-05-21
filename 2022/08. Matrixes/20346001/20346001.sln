@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. Sum Matrix", "3. Sum Mat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. Adamar Product", "4. Adamar Product\4. Adamar Product.vcxproj", "{CCC8335A-41E3-49AC-9797-2E3AAE33964C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. Matrix Multiplication", "5. Matrix Multiplication\5. Matrix Multiplication.vcxproj", "{7E17505E-0D2E-473F-A90A-A7C382D80D48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{CCC8335A-41E3-49AC-9797-2E3AAE33964C}.Release|x64.Build.0 = Release|x64
 		{CCC8335A-41E3-49AC-9797-2E3AAE33964C}.Release|x86.ActiveCfg = Release|Win32
 		{CCC8335A-41E3-49AC-9797-2E3AAE33964C}.Release|x86.Build.0 = Release|Win32
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Debug|x64.ActiveCfg = Debug|x64
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Debug|x64.Build.0 = Debug|x64
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Debug|x86.Build.0 = Debug|Win32
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Release|x64.ActiveCfg = Release|x64
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Release|x64.Build.0 = Release|x64
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Release|x86.ActiveCfg = Release|Win32
+		{7E17505E-0D2E-473F-A90A-A7C382D80D48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
