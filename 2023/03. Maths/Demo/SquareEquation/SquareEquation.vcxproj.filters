@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hello.cpp">
+    <ClCompile Include="SquareEquation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
