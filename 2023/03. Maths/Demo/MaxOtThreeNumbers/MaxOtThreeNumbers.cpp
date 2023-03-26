@@ -1,7 +1,8 @@
-#include<iostream>
+﻿#include<iostream>
 using namespace std;
 int main()
 {
+	// Най-голямото от три числа
 	int a, b, c;
 
 	cout << "Enter a,b and c: ";

@@ -10,6 +10,7 @@ int main()
     cout << "b=";
     cin >> b;
 
+    // Математически операции
     cout << (a + b) << endl; 
     cout << (a - b) << endl; 
     cout << (a * b) << endl; 
