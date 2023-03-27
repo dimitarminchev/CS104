@@ -3,7 +3,6 @@
 using namespace std;
 int main()
 {
-   
     float r;
 
     cout << "r=";

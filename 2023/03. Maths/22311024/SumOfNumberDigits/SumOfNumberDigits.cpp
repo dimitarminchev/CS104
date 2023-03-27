@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-
+    
     int a;
 
     cin >> a;
@@ -11,7 +11,7 @@ int main()
     int a2 = (a / 10) % 10;
     int a1 = (a / 1) % 10;
 
-    cout << a1 * a2 * a3 << endl;
+    cout << a1 + a2 + a3 << endl;
 
     return 0;
 }
