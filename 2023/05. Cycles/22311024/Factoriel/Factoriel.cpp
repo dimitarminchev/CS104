@@ -10,6 +10,7 @@ int main()
         fak = fak + 1;
     }
     cout << n << "!=" << pro << endl;
+
     return 0;
 
 }
