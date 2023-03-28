@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factoriel", "Factoriel\Fact
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.vcxproj", "{F038F78F-5FAE-412D-A59B-8EDD48EA4847}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Click", "Click\Click.vcxproj", "{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{F038F78F-5FAE-412D-A59B-8EDD48EA4847}.Release|x64.Build.0 = Release|x64
 		{F038F78F-5FAE-412D-A59B-8EDD48EA4847}.Release|x86.ActiveCfg = Release|Win32
 		{F038F78F-5FAE-412D-A59B-8EDD48EA4847}.Release|x86.Build.0 = Release|Win32
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Debug|x64.ActiveCfg = Debug|x64
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Debug|x64.Build.0 = Debug|x64
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Debug|x86.Build.0 = Debug|Win32
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Release|x64.ActiveCfg = Release|x64
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Release|x64.Build.0 = Release|x64
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Release|x86.ActiveCfg = Release|Win32
+		{C1C4E36E-D65D-41BF-868B-AE331A9BD32C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

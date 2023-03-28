@@ -1,8 +1,9 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 int main()
 {
-    int n = 5;
+    // Отпечатване на триъгълник от числа
+    const int n = 5;
 
     for (int i = 1; i <= n; i++)
     {
