@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d4a63f15-6fbc-4100-87c9-3626a5255ef5}</ProjectGuid>
+    <ProjectGuid>{68c45c11-e5c2-480c-b2d9-c49b04862d07}</ProjectGuid>
     <RootNamespace>TheClickGame</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
