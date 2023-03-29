@@ -1,4 +1,4 @@
-﻿// IntegerNumbersFrom1To100WithWhile.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// Factoriel.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
