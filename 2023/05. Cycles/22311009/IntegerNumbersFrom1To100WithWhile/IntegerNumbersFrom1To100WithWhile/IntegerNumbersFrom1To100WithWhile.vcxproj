@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{473a9145-941c-4e7e-a73e-aa1a36cae241}</ProjectGuid>
-    <RootNamespace>IntegerNumbersFrom1to100</RootNamespace>
+    <ProjectGuid>{01d7e2e1-bdfa-4206-9b39-011de83017a0}</ProjectGuid>
+    <RootNamespace>IntegerNumbersFrom1To100WithWhile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="IntegerNumbersFrom1to100.cpp" />
+    <ClCompile Include="IntegerNumbersFrom1To100WithWhile.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

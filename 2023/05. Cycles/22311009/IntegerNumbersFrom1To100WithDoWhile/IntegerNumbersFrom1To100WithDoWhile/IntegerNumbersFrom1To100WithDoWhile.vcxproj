@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d4a63f15-6fbc-4100-87c9-3626a5255ef5}</ProjectGuid>
-    <RootNamespace>TheClickGame</RootNamespace>
+    <ProjectGuid>{a9caa9db-da00-4521-bc51-7ed6606a12b9}</ProjectGuid>
+    <RootNamespace>IntegerNumbersFrom1To100WithDoWhile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="The Click Game.cpp" />
+    <ClCompile Include="IntegerNumbersFrom1To100WithDoWhile.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c4d3d0bc-190e-4532-a177-5c2b3d261ddc}</ProjectGuid>
-    <RootNamespace>Factoriel</RootNamespace>
+    <ProjectGuid>{68c45c11-e5c2-480c-b2d9-c49b04862d07}</ProjectGuid>
+    <RootNamespace>TheClickGame</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Factoriel.cpp" />
+    <ClCompile Include="The Click Game.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

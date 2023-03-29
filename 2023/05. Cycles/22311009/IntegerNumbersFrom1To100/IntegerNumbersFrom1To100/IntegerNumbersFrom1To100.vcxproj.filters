@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IntegerNumbersFrom1to100.cpp">
+    <ClCompile Include="IntegerNumbersFrom1To100.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
