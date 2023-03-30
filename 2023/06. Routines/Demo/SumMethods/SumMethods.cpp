@@ -26,9 +26,13 @@ double sum(double a, double b)
 // Главна функнция на прогрмата
 int main()
 {
+    // Изпълняваме метода с цели числа
     cout << sum() << endl;
     cout << sum(2) << endl;
     cout << sum(2,3) << endl;
+
+    // Изпълняваме метода с числа с плаваща запетая
+    cout << sum(1.2, 2.1) << endl;
 
     return 0;
 }
