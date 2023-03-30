@@ -11,7 +11,7 @@ double fak(int n)
 // Главна функция
 int main()
 {
-    double C = fak(49) / (fak(6) * fak(49 - 6));
-    cout << C << endl;
+   
+    cout << "10!=" << fak(10) << endl;
     return 0;
 }
