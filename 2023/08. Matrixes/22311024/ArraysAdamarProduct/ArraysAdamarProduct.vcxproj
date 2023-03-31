@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8121127b-9691-486f-ba97-cdf9c5019436}</ProjectGuid>
-    <RootNamespace>My22311024</RootNamespace>
+    <ProjectGuid>{a88321ca-386a-4b59-b4df-22626f2667eb}</ProjectGuid>
+    <RootNamespace>ArraysAdamarProduct</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="22311024.cpp" />
+    <ClCompile Include="ArraysAdamarProduct.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
