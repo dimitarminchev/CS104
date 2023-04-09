@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5fbe8a85-05c9-4265-9635-add65501df20}</ProjectGuid>
-    <RootNamespace>IncrementAndDecrement</RootNamespace>
+    <ProjectGuid>{b1bc0914-0991-4558-bd18-1684941f3e21}</ProjectGuid>
+    <RootNamespace>Factoriel</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="IncrementAndDecrement.cpp" />
+    <ClCompile Include="Factoriel.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

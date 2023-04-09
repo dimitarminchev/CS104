@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5fbe8a85-05c9-4265-9635-add65501df20}</ProjectGuid>
-    <RootNamespace>IncrementAndDecrement</RootNamespace>
+    <ProjectGuid>{d51753e7-02e5-407f-acb8-00bce5a60c01}</ProjectGuid>
+    <RootNamespace>Click</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="IncrementAndDecrement.cpp" />
+    <ClCompile Include="Click.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
