@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5fbe8a85-05c9-4265-9635-add65501df20}</ProjectGuid>
-    <RootNamespace>IncrementAndDecrement</RootNamespace>
+    <ProjectGuid>{68bffd10-35d7-46e4-b568-0543a2b6d373}</ProjectGuid>
+    <RootNamespace>TriangleOfNumbers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="IncrementAndDecrement.cpp" />
+    <ClCompile Include="TriangleOfNumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
