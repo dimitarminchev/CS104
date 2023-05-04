@@ -1,5 +1,5 @@
-#include <iostream> // cout, cin
-#include <cmath> // acos, pow
+#include <iostream>
+#include <cmath>
 using namespace std;
 int main()
 {
