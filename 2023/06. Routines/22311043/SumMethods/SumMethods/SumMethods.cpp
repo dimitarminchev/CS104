@@ -16,7 +16,6 @@ int main()
     cout << sum() << endl;
     cout << sum(2) << endl;
     cout << sum(2, 3) << endl;
-
     cout << sum(1.2, 2.1) << endl;
 
     return 0;
