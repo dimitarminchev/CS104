@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{64c769f2-dd96-4adf-85b9-785c848054a3}</ProjectGuid>
-    <RootNamespace>My01Git</RootNamespace>
+    <ProjectGuid>{8aa447af-42dc-46df-b798-0f99676fe765}</ProjectGuid>
+    <RootNamespace>Hello</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01.Git.cpp" />
+    <ClCompile Include="Hello.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
