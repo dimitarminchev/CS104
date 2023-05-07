@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxOfTwoNumbers", "MaxOfTwo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxOtThreeNumbers", "MaxOtThreeNumbers\MaxOtThreeNumbers.vcxproj", "{A8631B78-67D8-4A6C-8385-4011C26F5BBC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SquareEquasion", "SquareEquasion\SquareEquasion.vcxproj", "{B993D05D-93ED-4252-A2F7-2D318A28D0C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{A8631B78-67D8-4A6C-8385-4011C26F5BBC}.Release|x64.Build.0 = Release|x64
 		{A8631B78-67D8-4A6C-8385-4011C26F5BBC}.Release|x86.ActiveCfg = Release|Win32
 		{A8631B78-67D8-4A6C-8385-4011C26F5BBC}.Release|x86.Build.0 = Release|Win32
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Debug|x64.ActiveCfg = Debug|x64
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Debug|x64.Build.0 = Debug|x64
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Debug|x86.Build.0 = Debug|Win32
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Release|x64.ActiveCfg = Release|x64
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Release|x64.Build.0 = Release|x64
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Release|x86.ActiveCfg = Release|Win32
+		{B993D05D-93ED-4252-A2F7-2D318A28D0C8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
