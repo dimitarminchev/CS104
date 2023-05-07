@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SquareEquasion", "SquareEquasion\SquareEquasion.vcxproj", "{847AB32B-376D-42CD-A92F-BB1F88664A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Debug|x64.ActiveCfg = Debug|x64
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Debug|x64.Build.0 = Debug|x64
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Debug|x86.ActiveCfg = Debug|Win32
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Debug|x86.Build.0 = Debug|Win32
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Release|x64.ActiveCfg = Release|x64
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Release|x64.Build.0 = Release|x64
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Release|x86.ActiveCfg = Release|Win32
+		{847AB32B-376D-42CD-A92F-BB1F88664A89}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B359917-4290-4CA7-ACE0-3932838EC3D8}
+	EndGlobalSection
+EndGlobal

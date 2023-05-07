@@ -1,0 +1,3 @@
+﻿  SquareEquasion.cpp
+C:\Users\Legion\OneDrive - Burgas Free University\CS104\2023\03. Maths\22321002\SquareEquasion\SquareEquasion\SquareEquasion.cpp(12,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SquareEquasion.vcxproj -> C:\Users\Legion\OneDrive - Burgas Free University\CS104\2023\03. Maths\22321002\SquareEquasion\x64\Debug\SquareEquasion.exe
