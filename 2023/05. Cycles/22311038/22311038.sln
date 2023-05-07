@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Click", "Click\Click.vcxproj", "{3A18445A-D739-4C2A-B6E1-9B7E46B817DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factoriel", "Factoriel\Factoriel.vcxproj", "{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3A18445A-D739-4C2A-B6E1-9B7E46B817DA}.Release|x64.Build.0 = Release|x64
 		{3A18445A-D739-4C2A-B6E1-9B7E46B817DA}.Release|x86.ActiveCfg = Release|Win32
 		{3A18445A-D739-4C2A-B6E1-9B7E46B817DA}.Release|x86.Build.0 = Release|Win32
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Debug|x64.ActiveCfg = Debug|x64
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Debug|x64.Build.0 = Debug|x64
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Debug|x86.Build.0 = Debug|Win32
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Release|x64.ActiveCfg = Release|x64
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Release|x64.Build.0 = Release|x64
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Release|x86.ActiveCfg = Release|Win32
+		{9A9A2F1B-BF30-4794-B8A2-DE4BB7ABDA29}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
