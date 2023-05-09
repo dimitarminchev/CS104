@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9b51b45b-e1c2-4e62-97ba-569df1f0868d}</ProjectGuid>
-    <RootNamespace>Suma</RootNamespace>
+    <ProjectGuid>{88d0c6b9-60fa-48eb-aae9-607d80f8eb4e}</ProjectGuid>
+    <RootNamespace>ArraySum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Suma.cpp" />
+    <ClCompile Include="ArraySum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

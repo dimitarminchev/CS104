@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9b51b45b-e1c2-4e62-97ba-569df1f0868d}</ProjectGuid>
-    <RootNamespace>Suma</RootNamespace>
+    <ProjectGuid>{bdf870ef-04aa-42d0-9927-e573cc253165}</ProjectGuid>
+    <RootNamespace>SquareEquation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Suma.cpp" />
+    <ClCompile Include="SquareEquation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
