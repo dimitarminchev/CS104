@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a307da80-4135-4e5e-bb30-85ae745916d4}</ProjectGuid>
-    <RootNamespace>ProductOfNumberDigits</RootNamespace>
+    <ProjectGuid>{6b4f0873-4354-4136-be17-6f26bd1b2162}</ProjectGuid>
+    <RootNamespace>SquareEquasion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ProductOfNumberDigits.cpp" />
+    <ClCompile Include="SquareEquasion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

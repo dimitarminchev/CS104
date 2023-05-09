@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SquareEquation.cpp">
+    <ClCompile Include="MaxOfThreeNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
