@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IntegerNumbersFrom1To100WithDoWhile.cpp">
+    <ClCompile Include="SumMethods.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
