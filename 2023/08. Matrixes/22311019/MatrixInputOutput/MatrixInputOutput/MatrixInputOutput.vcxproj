@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bc16e6d6-8587-442d-9a8d-eedbfa9ceb35}</ProjectGuid>
+    <ProjectGuid>{09cfe4d9-a070-4b1c-94f7-78df412d3de4}</ProjectGuid>
     <RootNamespace>MatrixInputOutput</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
