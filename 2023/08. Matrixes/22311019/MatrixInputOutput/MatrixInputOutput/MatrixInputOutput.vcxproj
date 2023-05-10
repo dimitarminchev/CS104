@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1df5eab7-1a28-4556-9628-5c4ac2de6444}</ProjectGuid>
-    <RootNamespace>ArraysSum</RootNamespace>
+    <ProjectGuid>{bc16e6d6-8587-442d-9a8d-eedbfa9ceb35}</ProjectGuid>
+    <RootNamespace>MatrixInputOutput</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ArraysSum.cpp" />
+    <ClCompile Include="MatrixInputOutput.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
