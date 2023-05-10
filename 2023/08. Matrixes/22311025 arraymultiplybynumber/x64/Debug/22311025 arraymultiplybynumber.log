@@ -1,0 +1,11 @@
+﻿  22311025 arraymultiplybynumber.cpp
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(1,4): error C2014: preprocessor command must start as first nonwhite space
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(2,7): error C2143: syntax error: missing ';' before 'using namespace'
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(2,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(8,5): error C2065: 'cout': undeclared identifier
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(13,13): error C2065: 'cin': undeclared identifier
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(24,13): error C2065: 'cout': undeclared identifier
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(26,9): error C2065: 'cout': undeclared identifier
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(36,5): error C2065: 'cout': undeclared identifier
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(37,5): error C2065: 'cin': undeclared identifier
+D:\22311025 arraymultiplybynumber\22311025 arraymultiplybynumber.cpp(47,5): error C2065: 'cout': undeclared identifier
