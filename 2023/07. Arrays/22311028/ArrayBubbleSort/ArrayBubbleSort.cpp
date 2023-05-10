@@ -1,20 +1,61 @@
-// ArrayBubbleSort.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+﻿﻿#include <iostream>
+#include<cstdlib>
+using namespace std;
 
-#include <iostream>
+// Брой на елементите
+const int N = 10;
 
-int main()
+// Създаваме масив с 10 елемента
+int A[N];
+
+// Процедура за отпечатване на масив
+void Print()
 {
-    std::cout << "Hello World!\n";
+    for (int i = 0; i < N; i++)
+    {
+        cout << A[i] << " ";
+    }
+    cout << endl;
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
+// Сортиране по метода на мехурчето
+void BubbleSort()
+{
+    for (int i = 0; i < N; i++)
+    {
+        for (int j = 0; j < N; j++)
+        {
+            if (A[i] < A[j])
+            {
+                int temp = A[i];
+                A[i] = A[j];
+                A[j] = temp;
+            }
+        }
+    }
+}
 
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+// Главен метод на програмата
+int main()
+{
+    srand((unsigned)time(NULL));
+
+    // Генерира случайни числа
+    for (int i = 0; i < N; i++)
+    {
+        A[i] = rand();
+    }
+
+    // Отпечатване на числата
+    cout << "Random generated " << N << " numbers:\n";
+    Print();
+
+    // Сортиране по метода на мехурчето
+    BubbleSort();
+
+    // Отпечатване на числата
+    cout << "\nSorted numbers:\n";
+    Print();
+
+    return 0;
+}
