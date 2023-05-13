@@ -1,0 +1,4 @@
+﻿  SurfaceAndAreaOfCircle.cpp
+C:\Users\Legion\OneDrive - Burgas Free University\CS104\2023\03. Maths\22321002\SurfaceAndAreaOfCircle\SurfaceAndAreaOfCircle\SurfaceAndAreaOfCircle.cpp(13,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Legion\OneDrive - Burgas Free University\CS104\2023\03. Maths\22321002\SurfaceAndAreaOfCircle\SurfaceAndAreaOfCircle\SurfaceAndAreaOfCircle.cpp(14,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SurfaceAndAreaOfCircle.vcxproj -> C:\Users\Legion\OneDrive - Burgas Free University\CS104\2023\03. Maths\22321002\SurfaceAndAreaOfCircle\x64\Debug\SurfaceAndAreaOfCircle.exe
