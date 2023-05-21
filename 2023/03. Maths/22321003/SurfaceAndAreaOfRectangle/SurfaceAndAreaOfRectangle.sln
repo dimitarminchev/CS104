@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SurfaceAndAreaOfRectangle", "SurfaceAndAreaOfRectangle\SurfaceAndAreaOfRectangle.vcxproj", "{14F422BF-6DD6-4055-A46D-B963C6C62327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Debug|x64.ActiveCfg = Debug|x64
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Debug|x64.Build.0 = Debug|x64
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Debug|x86.ActiveCfg = Debug|Win32
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Debug|x86.Build.0 = Debug|Win32
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Release|x64.ActiveCfg = Release|x64
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Release|x64.Build.0 = Release|x64
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Release|x86.ActiveCfg = Release|Win32
+		{14F422BF-6DD6-4055-A46D-B963C6C62327}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A3F316-4D00-4313-83C6-67F69A02A15C}
+	EndGlobalSection
+EndGlobal

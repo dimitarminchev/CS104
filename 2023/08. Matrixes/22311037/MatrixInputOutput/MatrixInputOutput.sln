@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatrixInputOutput", "MatrixInputOutput\MatrixInputOutput.vcxproj", "{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Debug|x64.ActiveCfg = Debug|x64
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Debug|x64.Build.0 = Debug|x64
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Debug|x86.Build.0 = Debug|Win32
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Release|x64.ActiveCfg = Release|x64
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Release|x64.Build.0 = Release|x64
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Release|x86.ActiveCfg = Release|Win32
+		{B3D9D61D-86EE-4508-B27D-59BCB8F14A8F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE88CE98-8BE2-418C-9908-D793E1930C3B}
+	EndGlobalSection
+EndGlobal
