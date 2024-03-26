@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rectangle_S", "rectangle_S\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "circle PSV", "circle PSV\circle PSV.vcxproj", "{E539D971-A196-419B-8626-24921B427458}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "digit3Num", "digit3Num\digit3Num.vcxproj", "{B868D12C-1987-4353-A56F-0923ED3B7102}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{E539D971-A196-419B-8626-24921B427458}.Release|x64.Build.0 = Release|x64
 		{E539D971-A196-419B-8626-24921B427458}.Release|x86.ActiveCfg = Release|Win32
 		{E539D971-A196-419B-8626-24921B427458}.Release|x86.Build.0 = Release|Win32
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Debug|x64.ActiveCfg = Debug|x64
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Debug|x64.Build.0 = Debug|x64
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Debug|x86.ActiveCfg = Debug|Win32
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Debug|x86.Build.0 = Debug|Win32
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Release|x64.ActiveCfg = Release|x64
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Release|x64.Build.0 = Release|x64
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Release|x86.ActiveCfg = Release|Win32
+		{B868D12C-1987-4353-A56F-0923ED3B7102}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
