@@ -2,8 +2,13 @@
     "tasks": [
         {
             "type": "cppbuild",
+<<<<<<< HEAD
             "label": "C/C++: g++ build active file",
             "command": "/usr/bin/g++",
+=======
+            "label": "C/C++: g++-13 build active file",
+            "command": "/usr/bin/g++-13",
+>>>>>>> cf321401 (zad1)
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
