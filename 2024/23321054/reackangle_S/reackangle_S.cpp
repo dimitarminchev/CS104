@@ -1,5 +1,5 @@
-﻿// Сума на 2 цели числа
-#include<iostream>
+﻿// reackangle_S.cpp : This file contains the 'main' function. Program execution begins and ends there.
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -12,3 +12,5 @@ int main()
 	cout << c << endl;
 	return 0;
 }
+
+

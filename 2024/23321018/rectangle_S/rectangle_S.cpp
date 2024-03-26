@@ -1,14 +1,16 @@
-﻿// Сума на 2 цели числа
+//????????? ?? ??????????
 #include<iostream>
 using namespace std;
+
 int main()
 {
-	int a, b, c;
+	int a, b, p;
 	cout << "a=";
 	cin >> a;
 	cout << "b=";
 	cin >> b;
-	c = a + b;
-	cout << c << endl;
-	return 0;
+	p = a * b;
+	cout << p << endl;
+	return 0; 
+
 }
