@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_primes", "18_primes\18_p
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_an1", "19_an1\19_an1.vcxproj", "{F115F50A-39AB-4EC1-ABCE-7EB9E13982E9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20_an2", "20_an2\20_an2.vcxproj", "{DB2E699E-C72C-4708-B539-65708319E30F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{F115F50A-39AB-4EC1-ABCE-7EB9E13982E9}.Release|x64.Build.0 = Release|x64
 		{F115F50A-39AB-4EC1-ABCE-7EB9E13982E9}.Release|x86.ActiveCfg = Release|Win32
 		{F115F50A-39AB-4EC1-ABCE-7EB9E13982E9}.Release|x86.Build.0 = Release|Win32
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Debug|x64.ActiveCfg = Debug|x64
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Debug|x64.Build.0 = Debug|x64
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Debug|x86.Build.0 = Debug|Win32
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Release|x64.ActiveCfg = Release|x64
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Release|x64.Build.0 = Release|x64
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Release|x86.ActiveCfg = Release|Win32
+		{DB2E699E-C72C-4708-B539-65708319E30F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
