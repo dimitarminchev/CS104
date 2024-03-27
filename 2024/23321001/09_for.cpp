@@ -1,3 +1,4 @@
+// 09. Цикличен алгоритъм с предварително известен брой изпълнения.
 #include <iostream>
 #include <cmath>
 using namespace std;

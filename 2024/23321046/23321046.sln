@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nap_2016", "nap_2016\nap_20
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For", "For\For.vcxproj", "{4B92BBD8-C73A-4F68-B2D3-212DAB82D9C7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "While", "While\While.vcxproj", "{8F140023-EF98-4BB2-B837-47A4465F6B3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{4B92BBD8-C73A-4F68-B2D3-212DAB82D9C7}.Release|x64.Build.0 = Release|x64
 		{4B92BBD8-C73A-4F68-B2D3-212DAB82D9C7}.Release|x86.ActiveCfg = Release|Win32
 		{4B92BBD8-C73A-4F68-B2D3-212DAB82D9C7}.Release|x86.Build.0 = Release|Win32
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Debug|x64.ActiveCfg = Debug|x64
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Debug|x64.Build.0 = Debug|x64
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Debug|x86.Build.0 = Debug|Win32
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Release|x64.ActiveCfg = Release|x64
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Release|x64.Build.0 = Release|x64
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Release|x86.ActiveCfg = Release|Win32
+		{8F140023-EF98-4BB2-B837-47A4465F6B3B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
