@@ -1,7 +1,14 @@
-﻿#include<iostream>
+﻿// Сума на 2 цели числа
+#include<iostream>
 using namespace std;
 int main()
 {
-	cout << "Hello" << endl;
+	int a, b, c;
+	cout << "a=";
+	cin >> a;
+	cout << "b=";
+	cin >> b;
+	c = a + b;
+	cout << c << endl;
 	return 0;
 }
