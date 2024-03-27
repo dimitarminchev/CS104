@@ -1,12 +1,12 @@
-﻿//Квадратно уравнение
+﻿//Подобрение решението на квадратното уравнение
 #include<iostream>
 using namespace std;
 int main()
 {
 	int a, b, c;
 	cin >> a >> b >> c;
-	
-	float d = pow(b, 2) - 4 * a * c;
+
+	float d = pow(b, 2) + 4 * a * c;
 	float x1 = ((-b) + sqrt(d)) / (2 * a);
 	float x2 = ((-b) - sqrt(d)) / (2 * a);
 
