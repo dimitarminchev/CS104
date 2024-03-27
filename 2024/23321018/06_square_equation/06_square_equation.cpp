@@ -1,4 +1,4 @@
-﻿//намиране на корените на квадратно уравнение
+﻿//roots of square equation 
 
 
 #include<iostream>

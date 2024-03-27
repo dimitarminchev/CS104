@@ -1,6 +1,6 @@
 //Сума на 2 цели числа
 #include <iostream>
-using namespace std:
+using namespace std;
 int main()
 {
     int a, b, c;
