@@ -1,4 +1,5 @@
 # CS104 - Програмиране
+Инструкции за работа по дисциплината "Програмиране" под операционни системи Windows и Linux.
 
 ## Windows
 Препоръчително използвайте **Microsoft Visual Studio 2022 Comunity Edition**, която можете да изтеглите от Интернет на адрес: https://visualstudio.microsoft.com/downloads/. 
