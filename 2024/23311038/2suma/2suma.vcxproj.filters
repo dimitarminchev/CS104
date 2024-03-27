@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10 цикъл с предусловие.cpp">
+    <ClCompile Include="2suma.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

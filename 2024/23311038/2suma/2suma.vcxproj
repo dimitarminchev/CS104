@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7f82ceb0-8c83-4353-aef3-03e6d157ff40}</ProjectGuid>
-    <RootNamespace>My13sumup</RootNamespace>
+    <ProjectGuid>{0a8b9a43-abfe-490e-ba8d-e8952db5ca1c}</ProjectGuid>
+    <RootNamespace>My2suma</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="13_sum_up.cpp" />
+    <ClCompile Include="2suma.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

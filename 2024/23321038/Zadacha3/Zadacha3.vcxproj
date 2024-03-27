@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3a82626d-f39b-4d66-9641-bf19e69be4e4}</ProjectGuid>
-    <RootNamespace>My8nap2016</RootNamespace>
+    <ProjectGuid>{88f46fda-4828-476b-bcc5-efe69e30c49a}</ProjectGuid>
+    <RootNamespace>Zadacha3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="8 nap 2016.cpp" />
+    <ClCompile Include="Zadacha3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

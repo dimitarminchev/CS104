@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="13_sum_up.cpp">
+    <ClCompile Include="Zadacha3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
