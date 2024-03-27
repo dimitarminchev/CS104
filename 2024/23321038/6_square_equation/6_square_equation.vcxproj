@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{02c8eeeb-984f-41e9-b7ff-0d2669bae99d}</ProjectGuid>
-    <RootNamespace>squareaquetioncpp</RootNamespace>
+    <ProjectGuid>{4976dc4b-168d-4db2-b273-52855fe63532}</ProjectGuid>
+    <RootNamespace>My6squareequation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="square_aquetion.cpp.cpp" />
+    <ClCompile Include="6_square_equation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
