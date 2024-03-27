@@ -1,28 +1,18 @@
 ﻿// Дължим данък към НАП за 2016
 #include <iostream>
+#include<cmath>
 using namespace std;
+int main()
+{
+	float income = 0, tax = 0;
+	cout << "Enter income for 2016";
+	cin >> income;
 
-int main() {
-    double income;
-    cout << "Enter your income for 2016: ";
-    cin >> income;
+	if (income <= 2160) tax = 0
+	else if (income <= 3000) tax = (income - 2160) * 0.18;
+	else if (income <= 7200) tax = 168 + (income - 3000) * 0.20
+	else tax = 1072 + (income - 7200) * 0.22;
 
-    double tax = 0;
-
-    if (income <= 8400) {
-        tax = income * 0.1;
-    }
-    else if (income <= 25000) {
-        tax = 8400 * 0.1 + (income - 8400) * 0.15;
-    }
-    else if (income <= 60000) {
-        tax = 8400 * 0.1 + (25000 - 8400) * 0.15 + (income - 25000) * 0.25;
-    }
-    else {
-        tax = 8400 * 0.1 + (25000 - 8400) * 0.15 + (60000 - 25000) * 0.25 + (income - 60000) * 0.3;
-    }
-
-    cout << "Your tax for 2016 is: " << tax << " BGN" << endl;
-
-    return 0;
+	cout << "tax =" << tax << end;
+	return 0
 }
