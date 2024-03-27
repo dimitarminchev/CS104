@@ -1,3 +1,4 @@
+//10. Цикъл с предусловие
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -1,4 +1,4 @@
-
+// 07. Подобрение решението на квадратното уравнение
 #include<iostream>
 #include<cmath>
 using namespace std;
