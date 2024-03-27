@@ -24,6 +24,7 @@
     <ProjectGuid>{97baa19b-0260-452f-b2a4-7aa79ce116c8}</ProjectGuid>
     <RootNamespace>NAP2016</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>08. NAP2016</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
