@@ -1,3 +1,4 @@
+// 05. Обръщане на трицифрено число
 #include <iostream>
 using namespace std;
 int main()
