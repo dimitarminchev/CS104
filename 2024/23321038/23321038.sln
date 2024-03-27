@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14_fak_upto.cpp u", "14_fak
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.rectangle.cpp u", "3.rectangle.cpp u\3.rectangle.cpp u.vcxproj", "{396530B8-B4AD-4F7D-8ADD-4EFA9191E489}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_ digit_ sum_of 3and5.cpp", "15_ digit_ sum_of 3and5.cpp\15_ digit_ sum_of 3and5.cpp.vcxproj", "{BEBA5979-A0FE-4C23-AC52-244AD6340034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{396530B8-B4AD-4F7D-8ADD-4EFA9191E489}.Release|x64.Build.0 = Release|x64
 		{396530B8-B4AD-4F7D-8ADD-4EFA9191E489}.Release|x86.ActiveCfg = Release|Win32
 		{396530B8-B4AD-4F7D-8ADD-4EFA9191E489}.Release|x86.Build.0 = Release|Win32
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Debug|x64.ActiveCfg = Debug|x64
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Debug|x64.Build.0 = Debug|x64
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Debug|x86.Build.0 = Debug|Win32
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Release|x64.ActiveCfg = Release|x64
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Release|x64.Build.0 = Release|x64
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Release|x86.ActiveCfg = Release|Win32
+		{BEBA5979-A0FE-4C23-AC52-244AD6340034}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
