@@ -1,4 +1,4 @@
-﻿// Периметър, лице, обем на кръг
+﻿// Обръщане на трицифрено число
 #include<iostream>
 using namespace std;
 int main()
