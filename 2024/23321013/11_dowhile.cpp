@@ -1,11 +1,16 @@
+// 11. Цикъл с постусловие
 #include<iostream>
-
+#include<cmath>
 using namespace std;
-
-int main() {
+int main() 
+{
     int i = 1;
-    do {
+    do
+    {
         cout << i << " ";
-        i++;
-    } while (i <= 100);
+        i = i + 1;
+    }
+    while(i <= 100);
+    cout << endl;
+    return 0;
 }
