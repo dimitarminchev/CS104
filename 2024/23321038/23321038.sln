@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_cirle.cpp", "04_cirle.cp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_reverse.cpp", "05_reverse.cpp\05_reverse.cpp.vcxproj", "{6E8BD670-5BC6-4B41-9B31-2BB7FEF4336E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_click.cpp u", "12_click.cpp u\12_click.cpp u.vcxproj", "{3AEECD6E-0E16-4571-B69E-9A904BE7E034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{6E8BD670-5BC6-4B41-9B31-2BB7FEF4336E}.Release|x64.Build.0 = Release|x64
 		{6E8BD670-5BC6-4B41-9B31-2BB7FEF4336E}.Release|x86.ActiveCfg = Release|Win32
 		{6E8BD670-5BC6-4B41-9B31-2BB7FEF4336E}.Release|x86.Build.0 = Release|Win32
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Debug|x64.ActiveCfg = Debug|x64
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Debug|x64.Build.0 = Debug|x64
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Debug|x86.ActiveCfg = Debug|Win32
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Debug|x86.Build.0 = Debug|Win32
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Release|x64.ActiveCfg = Release|x64
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Release|x64.Build.0 = Release|x64
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Release|x86.ActiveCfg = Release|Win32
+		{3AEECD6E-0E16-4571-B69E-9A904BE7E034}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
