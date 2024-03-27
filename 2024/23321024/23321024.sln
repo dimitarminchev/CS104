@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "digit2num", "digit2num\digi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Square", "Square\Square.vcxproj", "{9FCC3601-18EA-4602-998E-6A24A8C18FC4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Square 2", "Square 2\Square 2.vcxproj", "{CBDEC38D-3315-4E17-8D04-5F16A5792D60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{9FCC3601-18EA-4602-998E-6A24A8C18FC4}.Release|x64.Build.0 = Release|x64
 		{9FCC3601-18EA-4602-998E-6A24A8C18FC4}.Release|x86.ActiveCfg = Release|Win32
 		{9FCC3601-18EA-4602-998E-6A24A8C18FC4}.Release|x86.Build.0 = Release|Win32
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Debug|x64.ActiveCfg = Debug|x64
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Debug|x64.Build.0 = Debug|x64
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Debug|x86.Build.0 = Debug|Win32
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Release|x64.ActiveCfg = Release|x64
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Release|x64.Build.0 = Release|x64
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Release|x86.ActiveCfg = Release|Win32
+		{CBDEC38D-3315-4E17-8D04-5F16A5792D60}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
