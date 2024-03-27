@@ -1,13 +1,16 @@
-// 09. Цикличен алгоритъм с предварително известен брой изпълнения.
+//11. Цикъл с постусловие
 #include <iostream>
 #include <cmath>
 using namespace std;
     int main()
 {
-    for (int i = 1; i<= 100; i++)
+    int i = 1;
+        do
         {
             cout << i << " ";
+            i = i + 1;
         }
+    while (i <= 100);
     cout << endl;
     return 0;
 }
