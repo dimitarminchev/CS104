@@ -1,7 +1,6 @@
 // 20_an2.ccp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//#include<cmath>
 #include<iostream>
-#include<cmath>
 using namespace std;
 int main()
 {
@@ -18,6 +17,8 @@ int main()
 
     return 0;
 }
+
+
 
 
 

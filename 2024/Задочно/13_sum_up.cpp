@@ -1,4 +1,4 @@
-// 13. Сума на числата до n
+// 13
 #include<iostream>
 #include<cmath>
 using namespace std;

@@ -33,6 +33,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.fak_upto", "14.fak_upto\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.digit_sum_of_3and5", "15.digit_sum_of_3and5\15.digit_sum_of_3and5.vcxproj", "{ACEFA048-2E38-4A2D-B1E6-90B92845C061}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.digit4_special", "16.digit4_special\16.digit4_special.vcxproj", "{0013DCF9-A496-4565-A0DF-2A80CDDE1885}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17. fibonacci", "17. fibonacci\17. fibonacci.vcxproj", "{9CC579DF-3EF5-488D-B2F9-71D77201E690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +165,22 @@ Global
 		{ACEFA048-2E38-4A2D-B1E6-90B92845C061}.Release|x64.Build.0 = Release|x64
 		{ACEFA048-2E38-4A2D-B1E6-90B92845C061}.Release|x86.ActiveCfg = Release|Win32
 		{ACEFA048-2E38-4A2D-B1E6-90B92845C061}.Release|x86.Build.0 = Release|Win32
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Debug|x64.ActiveCfg = Debug|x64
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Debug|x64.Build.0 = Debug|x64
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Debug|x86.ActiveCfg = Debug|Win32
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Debug|x86.Build.0 = Debug|Win32
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Release|x64.ActiveCfg = Release|x64
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Release|x64.Build.0 = Release|x64
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Release|x86.ActiveCfg = Release|Win32
+		{0013DCF9-A496-4565-A0DF-2A80CDDE1885}.Release|x86.Build.0 = Release|Win32
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Debug|x64.ActiveCfg = Debug|x64
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Debug|x64.Build.0 = Debug|x64
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Debug|x86.Build.0 = Debug|Win32
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Release|x64.ActiveCfg = Release|x64
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Release|x64.Build.0 = Release|x64
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Release|x86.ActiveCfg = Release|Win32
+		{9CC579DF-3EF5-488D-B2F9-71D77201E690}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
