@@ -1,4 +1,4 @@
-// 16. Четирицифрени
+// 16
 #include<iostream>
 #include<cmath>
 using namespace std;
