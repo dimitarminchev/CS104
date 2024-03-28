@@ -1,4 +1,4 @@
-// Намиране на корените на квадратно уравнение
+// 07.
 #include<iostream>
 #include<cmath>
 using namespace std;

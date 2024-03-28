@@ -1,4 +1,4 @@
-// Пeриметър, лице и обем на кръг и сфера по даден радиус
+// 04.
 #include<iostream>
 using namespace std;
 int main() 
