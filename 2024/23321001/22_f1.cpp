@@ -1,4 +1,4 @@
-// 22.
+// 22. f1
 #include<iostream>
 #include<cmath>
 
