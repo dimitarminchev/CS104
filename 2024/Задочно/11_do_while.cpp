@@ -1,4 +1,4 @@
-// 11. Цикъл с постусловие
+// 11
 #include<iostream>
 #include<cmath>
 using namespace std;
