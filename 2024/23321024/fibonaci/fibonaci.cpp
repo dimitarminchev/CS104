@@ -14,7 +14,7 @@ int main()
         b = c;
         c = a + b;
         if (c < n)cout << c << " ";
-}
+    }
     return 0;
-
+}
 
