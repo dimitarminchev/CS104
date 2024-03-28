@@ -1,4 +1,4 @@
-// Намиране на сумата на две цели числа
+// 02.
 #include<iostream>
 using namespace std;
 int main() 
