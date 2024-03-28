@@ -1,4 +1,4 @@
-//Primes
+//18 -Primes
 #include<iostream>
 #include<cmath>
 using namespace std;
