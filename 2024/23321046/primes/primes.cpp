@@ -1,5 +1,6 @@
-#include <iostream>
-#include <cmath>
+// опхлеях
+#include<iostream>
+#include<cmath>
 using namespace std;
 int main()
 {
@@ -8,19 +9,16 @@ int main()
 	for (int i = 2; i <= n; i++)
 	{
 		bool isPrime = true;
-		for (int j = 2; j < 1; j++)
+		for (int j = 2; j < i; j++)
 		{
-			if (1 % j == 0)
+			if (i % j == 0)
 			{
 				isPrime = false;
-
 			}
 		}
-		if (isPrime == true) cout << i << " ";
+		if (isPrime == true)cout << i << " ";
 	}
 	return 0;
-
 }
- 
 
 
