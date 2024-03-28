@@ -3,15 +3,12 @@
 using namespace std;
 int main()
 {
-{
-    int x,n;
+    int x,n,sum=0;
     cin >> x >> n;
-    
-    for (int k = 1; k <= n; k++)
+    for (int k=1; k<= n; k++)
     {
-        float An = 1.0 / k;
-        cout << An << endl;
-    
+        sum += pow(x,k);
     }
+    cout << sum << endl;
     return 0;
 }
