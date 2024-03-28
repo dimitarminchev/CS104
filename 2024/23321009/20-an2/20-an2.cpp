@@ -1,5 +1,5 @@
-//An1
-#include <iostream>
+// 20-an2.cpp
+#include<iostream>
 #include<cmath>
 using namespace std;
 int main()
@@ -9,10 +9,9 @@ int main()
 
 	for (int k = 1; k <= n; k++)
 	{
-		float An = 1.0 / k;
+		float An = 1.0 / pow(k, 2);
 		cout << An << endl;
 	}
+
 	return 0;
 }
-
-
