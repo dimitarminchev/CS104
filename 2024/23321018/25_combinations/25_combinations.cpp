@@ -17,9 +17,9 @@ int main() {
     long long result_649 = n_choose_k(6, 4);
 
   
-    std::cout << "Combinatorics for 5:35: " << result_535 << std::endl;
-    std::cout << "Combinatorics for 6:42: " << result_642 << std::endl;
-    std::cout << "Combinatorics for 6:49: " << result_649 << std::endl;
+    cout << "Combinatorics for 5:35: " << result_535 << endl;
+    cout << "Combinatorics for 6:42: " << result_642 << endl;
+    cout << "Combinatorics for 6:49: " << result_649 << endl;
 
     return 0;
 }
