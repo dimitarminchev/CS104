@@ -24,6 +24,7 @@
     <ProjectGuid>{e585e1a5-e48c-4d8a-9763-aa85b524c79e}</ProjectGuid>
     <RootNamespace>primescpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>18.primes.cpp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
