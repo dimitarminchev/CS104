@@ -1,5 +1,6 @@
-// 20_an2.ccp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//#include<cmath>
+// 21_an3.ccp.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
 #include<iostream>
 using namespace std;
 int main()
@@ -7,20 +8,16 @@ int main()
 
     int  x, n;
     cin >> x >> n;
-   
 
-    for (int k = 1; k <= n; k++) 
+
+    for (int k = 1; k <= n; k++)
     {
-        float An = 1.0 / pow(k, 2);
-        cout << An << " ";
+        float An = pow((1.0 + (1.0 / k)), k);
+        cout << An << endl;
     }
 
     return 0;
 }
-
-
-
-
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
