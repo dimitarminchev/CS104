@@ -1,8 +1,6 @@
 //НАП
 #include<iostream>
-
 using namespace std;
-
 int main() {
     double income = 0, tax;
     cout << "Enter income for 2015: ";
