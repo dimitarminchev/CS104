@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16. digit4_special", "16. d
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17. fibonacci.cpp", "17. fibonacci.cpp\17. fibonacci.cpp.vcxproj", "{837E880C-B287-47DE-B283-C50A35CC15F8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "primes.cpp", "primes.cpp\primes.cpp.vcxproj", "{E585E1A5-E48C-4D8A-9763-AA85B524C79E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{837E880C-B287-47DE-B283-C50A35CC15F8}.Release|x64.Build.0 = Release|x64
 		{837E880C-B287-47DE-B283-C50A35CC15F8}.Release|x86.ActiveCfg = Release|Win32
 		{837E880C-B287-47DE-B283-C50A35CC15F8}.Release|x86.Build.0 = Release|Win32
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Debug|x64.ActiveCfg = Debug|x64
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Debug|x64.Build.0 = Debug|x64
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Debug|x86.Build.0 = Debug|Win32
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Release|x64.ActiveCfg = Release|x64
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Release|x64.Build.0 = Release|x64
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Release|x86.ActiveCfg = Release|Win32
+		{E585E1A5-E48C-4D8A-9763-AA85B524C79E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
