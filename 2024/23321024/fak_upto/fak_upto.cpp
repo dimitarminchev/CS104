@@ -14,4 +14,3 @@ int main()
 	cout << pro << endl;
 	return 0;
 }
-
