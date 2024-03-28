@@ -1,4 +1,4 @@
-// 20. an2
+// 21. an3
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9,10 +9,10 @@ using namespace std;
     cout << "Въведи число: ";
     cin >> k;
 
-    for (int i = 1; i <= k; ++i) 
+    for (int n = 1; n <= k; ++n) 
         {
-            float d = 1.0 / pow(i,2);
-            cout << "1/" << i*i << " = " << d << endl;
+            float d = pow((1.0 + (1.0 / n)),n);
+            cout << "(1 +" << " 1/" << n << ") ^ " << n << " = " << d << endl;
         }
 
     return 0;

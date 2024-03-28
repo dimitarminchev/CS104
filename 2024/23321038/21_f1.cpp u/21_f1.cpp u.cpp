@@ -1,15 +1,17 @@
-//23 - f2
-#include<iostream>
+// 21.
+#include <iostream>
 #include<cmath>
 using namespace std;
 int main()
 {
-    int x, n, sum = 0;
+    int x, n;
     cin >> x >> n;
+
     for (int k = 1; k <= n; k++)
     {
-        sum += (pow((-1),k) * pow(x, k));
+        float An = pow((1.0 + (1.0 / k)), k);
+        cout << An << endl;
     }
-    cout << sum << endl;
+
     return 0;
 }
