@@ -1,4 +1,4 @@
-// 9. Цикъл с параметър
+// 09.
 #include<iostream>
 #include<cmath>
 using namespace std;

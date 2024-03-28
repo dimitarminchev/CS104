@@ -1,4 +1,4 @@
-//19. Изведете редицата: Аn = 1 / n
+//20.
 #include<iostream>
 using namespace std;
 
