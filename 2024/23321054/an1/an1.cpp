@@ -1,10 +1,10 @@
-//An1
+﻿// an1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 #include <iostream>
-#include<cmath>
+#include <cmath>
 using namespace std;
 int main()
 {
-	int x, n;
+	int x,n;
 	cin >> x >> n;
 
 	for (int k = 1; k <= n; k++)
@@ -12,7 +12,7 @@ int main()
 		float An = 1.0 / k;
 		cout << An << endl;
 	}
+
 	return 0;
 }
-
 

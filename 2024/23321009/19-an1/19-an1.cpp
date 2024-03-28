@@ -1,5 +1,5 @@
-//An1
-#include <iostream>
+// 19-an1.cpp
+#include<iostream>
 #include<cmath>
 using namespace std;
 int main()
@@ -12,7 +12,6 @@ int main()
 		float An = 1.0 / k;
 		cout << An << endl;
 	}
+
 	return 0;
 }
-
-
