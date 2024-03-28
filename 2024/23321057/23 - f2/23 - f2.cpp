@@ -1,8 +1,11 @@
-// 01.
+//23 - f2
 #include<iostream>
+#include<cmath>
 using namespace std;
-int main() 
+int main()
 {
-    cout << "Hello, World!" << endl;
+
+
     return 0;
 }
+

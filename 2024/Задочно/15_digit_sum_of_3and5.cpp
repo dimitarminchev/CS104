@@ -1,4 +1,4 @@
-// 15. Сума на трицифрени кратни на 3 и пет
+// 15
 #include<iostream>
 #include<cmath>
 using namespace std;

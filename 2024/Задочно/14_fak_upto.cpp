@@ -1,4 +1,4 @@
-// 14. Произведение на числата до n
+// 14
 #include<iostream>
 #include<cmath>
 using namespace std;
