@@ -1,4 +1,4 @@
-// 10. Цикъл с preduslowie
+// 10.
 #include<iostream>
 #include<cmath>
 using namespace std;
