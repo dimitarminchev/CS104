@@ -24,6 +24,7 @@
     <ProjectGuid>{b9c86e3c-9c2a-4615-b808-8e64eec2ee9d}</ProjectGuid>
     <RootNamespace>Circle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>04_circle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
