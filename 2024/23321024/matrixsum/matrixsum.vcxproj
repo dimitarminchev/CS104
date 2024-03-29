@@ -24,6 +24,7 @@
     <ProjectGuid>{165620e6-5693-42ad-97c8-5ecc957237c5}</ProjectGuid>
     <RootNamespace>matrixsum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>30_matrixsum</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
