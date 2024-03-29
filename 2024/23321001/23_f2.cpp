@@ -18,7 +18,7 @@ using namespace std;
 
     for (int k = 1; k <= n; ++k) 
         {
-            sum += pow(-1,k) * pow(x, k);
+            sum += (pow((-1),k) * pow(x, k));
         }
 
     cout << "Сумата = " << sum << endl;
