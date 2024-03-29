@@ -10,6 +10,6 @@ int main()
     { 
       sum += (pow((-1),k) * pow(x,k));
     }
-    cout << sum << endl;
+    cout << sum << endl;5
     return 0;
 }
