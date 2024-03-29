@@ -24,6 +24,7 @@
     <ProjectGuid>{9fcc3601-18ea-4602-998e-6a24a8c18fc4}</ProjectGuid>
     <RootNamespace>Square</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>06_square</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
