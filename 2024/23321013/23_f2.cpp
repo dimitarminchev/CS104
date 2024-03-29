@@ -1,4 +1,4 @@
-// 22. f1
+// 23. f2
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8,7 +8,7 @@ int main()
     cin >> x >> n;  
     for (int k = 1; k <= n; k++)
     { 
-      sum += pow(x,k);
+      sum += (pow((-1),k) * pow(x,k));
     }
     cout << sum << endl;
     return 0;
