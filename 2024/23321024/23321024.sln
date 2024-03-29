@@ -51,15 +51,17 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23_f2", "F2\F2.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_factoriel", "24_factoriel\24_factoriel.vcxproj", "{07906587-B6CA-40A0-9749-A9DC25E49ABC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonaci2", "fibonaci2\fibonaci2.vcxproj", "{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27_fibonaci2", "fibonaci2\fibonaci2.vcxproj", "{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bubblesort", "bubblesort\bubblesort.vcxproj", "{F700C535-08AB-4B63-9E3B-441A13BAC63F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_bubblesort", "bubblesort\bubblesort.vcxproj", "{F700C535-08AB-4B63-9E3B-441A13BAC63F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixmultiplocation", "matrixmultiplocation\matrixmultiplocation.vcxproj", "{A2724450-23C7-4A83-9B27-5D41C5DD6149}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29_matrixmultiplocation", "matrixmultiplocation\matrixmultiplocation.vcxproj", "{A2724450-23C7-4A83-9B27-5D41C5DD6149}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixsum", "matrixsum\matrixsum.vcxproj", "{165620E6-5693-42AD-97C8-5ECC957237C5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30_matrixsum", "matrixsum\matrixsum.vcxproj", "{165620E6-5693-42AD-97C8-5ECC957237C5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combinations", "combinations\combinations.vcxproj", "{58EFDD8D-B54B-4A8B-9A92-F2023819C541}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_combinations", "combinations\combinations.vcxproj", "{58EFDD8D-B54B-4A8B-9A92-F2023819C541}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_step2", "26_step2\26_step2.vcxproj", "{528B0BBA-0F1B-48F0-BF67-A2978290ED48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +303,14 @@ Global
 		{58EFDD8D-B54B-4A8B-9A92-F2023819C541}.Release|x64.Build.0 = Release|x64
 		{58EFDD8D-B54B-4A8B-9A92-F2023819C541}.Release|x86.ActiveCfg = Release|Win32
 		{58EFDD8D-B54B-4A8B-9A92-F2023819C541}.Release|x86.Build.0 = Release|Win32
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Debug|x64.ActiveCfg = Debug|x64
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Debug|x64.Build.0 = Debug|x64
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Debug|x86.ActiveCfg = Debug|Win32
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Debug|x86.Build.0 = Debug|Win32
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Release|x64.ActiveCfg = Release|x64
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Release|x64.Build.0 = Release|x64
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Release|x86.ActiveCfg = Release|Win32
+		{528B0BBA-0F1B-48F0-BF67-A2978290ED48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
