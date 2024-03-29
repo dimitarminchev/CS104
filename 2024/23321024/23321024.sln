@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23_f2", "F2\F2.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_factoriel", "24_factoriel\24_factoriel.vcxproj", "{07906587-B6CA-40A0-9749-A9DC25E49ABC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonaci2", "fibonaci2\fibonaci2.vcxproj", "{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{07906587-B6CA-40A0-9749-A9DC25E49ABC}.Release|x64.Build.0 = Release|x64
 		{07906587-B6CA-40A0-9749-A9DC25E49ABC}.Release|x86.ActiveCfg = Release|Win32
 		{07906587-B6CA-40A0-9749-A9DC25E49ABC}.Release|x86.Build.0 = Release|Win32
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Debug|x64.ActiveCfg = Debug|x64
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Debug|x64.Build.0 = Debug|x64
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Debug|x86.Build.0 = Debug|Win32
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Release|x64.ActiveCfg = Release|x64
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Release|x64.Build.0 = Release|x64
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Release|x86.ActiveCfg = Release|Win32
+		{FC8D49FD-9F17-4B16-BE39-E2003758D4B6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
