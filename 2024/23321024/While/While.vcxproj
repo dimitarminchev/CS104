@@ -24,6 +24,7 @@
     <ProjectGuid>{d774e7a3-3d2e-4eb4-82c4-5129b36133cf}</ProjectGuid>
     <RootNamespace>While</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10_while</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
