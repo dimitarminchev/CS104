@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "F2", "F2\F2.vcxproj", "{EC5
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fatoriel", "fatoriel\fatoriel.vcxproj", "{C84D2B3A-8F84-439F-BEAF-5CE005AC78AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combinations", "combinations\combinations.vcxproj", "{4178B023-C5FA-4D1A-95E0-488118B01B09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{C84D2B3A-8F84-439F-BEAF-5CE005AC78AC}.Release|x64.Build.0 = Release|x64
 		{C84D2B3A-8F84-439F-BEAF-5CE005AC78AC}.Release|x86.ActiveCfg = Release|Win32
 		{C84D2B3A-8F84-439F-BEAF-5CE005AC78AC}.Release|x86.Build.0 = Release|Win32
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Debug|x64.ActiveCfg = Debug|x64
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Debug|x64.Build.0 = Debug|x64
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Debug|x86.ActiveCfg = Debug|Win32
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Debug|x86.Build.0 = Debug|Win32
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Release|x64.ActiveCfg = Release|x64
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Release|x64.Build.0 = Release|x64
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Release|x86.ActiveCfg = Release|Win32
+		{4178B023-C5FA-4D1A-95E0-488118B01B09}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
