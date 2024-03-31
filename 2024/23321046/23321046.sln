@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonacci2", "fibonacci2\fi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bubble_sort", "bubble_sort\bubble_sort.vcxproj", "{7D9A82B1-1A4E-438C-AA9B-459AC06B77B8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrix_multiplocation", "matrix_multiplocation\matrix_multiplocation.vcxproj", "{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{7D9A82B1-1A4E-438C-AA9B-459AC06B77B8}.Release|x64.Build.0 = Release|x64
 		{7D9A82B1-1A4E-438C-AA9B-459AC06B77B8}.Release|x86.ActiveCfg = Release|Win32
 		{7D9A82B1-1A4E-438C-AA9B-459AC06B77B8}.Release|x86.Build.0 = Release|Win32
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Debug|x64.ActiveCfg = Debug|x64
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Debug|x64.Build.0 = Debug|x64
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Debug|x86.Build.0 = Debug|Win32
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Release|x64.ActiveCfg = Release|x64
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Release|x64.Build.0 = Release|x64
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Release|x86.ActiveCfg = Release|Win32
+		{4222FC13-9BCF-4E8F-BC3C-94C47FD4DA5D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
