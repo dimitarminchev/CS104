@@ -1,16 +1,20 @@
-// Цикъл с постусловие
+// 13
 #include<iostream>
 #include<cmath>
 using namespace std;
-int main()
+int main() 
 {
-    int i = 1;
-    do
+    int n;
+    cin >> n;
+
+    int sum = 0;
+
+    for(int k=1; k<=n; k++)
     {
-        cout  << i << " ";
-        i = i + 1;
-    } while (i <= 100);
-    cout << endl;
+        sum = sum + k;
+    }
+
+    cout << sum << endl;
+
     return 0;
-    
 }
