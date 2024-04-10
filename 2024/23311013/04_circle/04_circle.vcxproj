@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d72395b2-bd10-4fc3-829e-99dc24f78839}</ProjectGuid>
+    <ProjectGuid>{977396fb-07eb-4cb1-a748-bf507e0553e9}</ProjectGuid>
     <RootNamespace>My04circle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
