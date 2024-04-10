@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d72395b2-bd10-4fc3-829e-99dc24f78839}</ProjectGuid>
-    <RootNamespace>My04circle</RootNamespace>
+    <ProjectGuid>{0800c950-4332-44f3-98a5-8d6f96a361b8}</ProjectGuid>
+    <RootNamespace>My04Circle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="04_circle.cpp" />
+    <ClCompile Include="04.Circle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
