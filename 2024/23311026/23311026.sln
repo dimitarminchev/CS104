@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.circle", "04.circle\04.c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05.pocket.money", "05.pocket.money\05.pocket.money.vcxproj", "{B0370233-1A93-493F-B225-8AF91AD8F0BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06.reverse.number", "06.reverse.number\06.reverse.number.vcxproj", "{07399892-AB87-47E3-92CC-A48A2D0C4C46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{B0370233-1A93-493F-B225-8AF91AD8F0BC}.Release|x64.Build.0 = Release|x64
 		{B0370233-1A93-493F-B225-8AF91AD8F0BC}.Release|x86.ActiveCfg = Release|Win32
 		{B0370233-1A93-493F-B225-8AF91AD8F0BC}.Release|x86.Build.0 = Release|Win32
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Debug|x64.ActiveCfg = Debug|x64
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Debug|x64.Build.0 = Debug|x64
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Debug|x86.ActiveCfg = Debug|Win32
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Debug|x86.Build.0 = Debug|Win32
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Release|x64.ActiveCfg = Release|x64
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Release|x64.Build.0 = Release|x64
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Release|x86.ActiveCfg = Release|Win32
+		{07399892-AB87-47E3-92CC-A48A2D0C4C46}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
