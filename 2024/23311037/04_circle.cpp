@@ -2,17 +2,19 @@
 using namespace std;
 int main ()
 {
-    int a,b;
 
-    cout << "a=";
-    cin >> a;
-    cout << "b=";
-    cin >> b;
+    float r;
 
-    int p = 2 * (a+b);
-    int s = a * b;
+    cout << "r=";
+    cin >> r;
+    
+    float p = 2 * 3.14 * r;
+    float s = 3.14 * r * r;
+    float v = 4 * 3.14 * r * r;
 
-    cout <<"a+b=" << p << endl;
+    cout << "p=" << p << endl;
     cout << "s=" << s << endl;
+    cout << "v" << v << endl;
+
     return 0;
 }
