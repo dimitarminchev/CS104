@@ -5,14 +5,17 @@ using namespace std;
 
 int main()
 {
-	int a, b;
+	int a, b, s, p;
 
 	cout << "a: ";
 	cin >> a;
 	cout << "b: ";
 	cin >> b;
-	
-	cout << "a+b: "<< a + b << endl;
+
+	p = 2 * (a + b);
+	s = a * b;
+
+	cout << "P= " << p << endl << "S= " << s << endl;
 
 	return 0;
 }
