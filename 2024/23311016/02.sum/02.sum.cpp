@@ -7,11 +7,12 @@ int main()
 {
 	int a, b;
 
-	cout << "Enter num 1: ";
+	cout << "a: ";
 	cin >> a;
-	cout << "Enter num 2: ";
+	cout << "b: ";
 	cin >> b;
-	cout << a + b<< endl;
+	
+	cout << "a+b: "<< a + b << endl;
 
 	return 0;
 }
