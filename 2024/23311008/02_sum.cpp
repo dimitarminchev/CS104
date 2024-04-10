@@ -1,7 +1,7 @@
-#include<lostream>
+#include<iostream>
 using namespace std;
 int main()
-    
+{ 
     int a,b;
 
     cout << "a=" ;
@@ -12,5 +12,4 @@ int main()
     cout << "a+b=" << endl ;
 
     return 0;
-
-    
+}
