@@ -1,11 +1,12 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
 int main()
 {
-	float r, s, p, v;
-	float pi = 3.14;
+	double r, s, p, v;
+	double pi = 3.14;
 
 	cout << "r: ";
 	cin >> r;
