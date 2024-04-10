@@ -9,8 +9,10 @@ int main ()
     cout << "b=";
     cin >> b;
 
+    int p = 2 * (a+b);
+    int s = a * b;
 
-    cout <<"a+b=" << a + b << endl;
-
+    cout <<"a+b=" << p << endl;
+    cout << "s=" << s << endl;
     return 0;
 }
