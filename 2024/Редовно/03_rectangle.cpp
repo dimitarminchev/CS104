@@ -6,11 +6,14 @@ int main()
 
     cout << "a=";
     cin >> a;
-
     cout << "b=";
     cin >> b;
 
-    cout << "a+b=" << a+b << endl;
+    int p = 2 * (a+b);
+    int s = a * b;
 
+    cout << "p=" << p << endl;
+    cout << "s=" << s << endl;
+    
     return 0;
 }
