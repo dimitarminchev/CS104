@@ -7,9 +7,9 @@ int main()
     cout << "r=";
     cin >> r;
 
-    int p = 2 * 3.14 * r;
-    int s = 3.14 * r * r;
-    int v = 4 * 3.14 * r * r;
+    float p = 2 * 3.14 * r;
+    float s = 3.14 * r * r;
+    float v = 4 * 3.14 * r * r;
 
     cout << "p=" << p << endl;
     cout << "s=" << s << endl;
