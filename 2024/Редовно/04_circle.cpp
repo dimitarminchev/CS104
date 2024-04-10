@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main()
- {
-    int r;
+{
+    float r;
 
     cout << "r=";
     cin >> r;
@@ -14,5 +14,6 @@ int main()
     cout << "p=" << p << endl;
     cout << "s=" << s << endl;
     cout << "v=" << v << endl;
+    
     return 0;
- }
+}
