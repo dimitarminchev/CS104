@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{800ab552-10a6-49a8-ad24-7da8a5d38077}</ProjectGuid>
-    <RootNamespace>My3Triangle</RootNamespace>
+    <ProjectGuid>{ac545a51-68f1-4d3c-bb50-c39c37ba355f}</ProjectGuid>
+    <RootNamespace>My04circle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="3.Triangle.cpp" />
+    <ClCompile Include="04.circle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
