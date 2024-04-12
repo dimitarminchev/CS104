@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04.Pocket_money.cpp">
+    <ClCompile Include="04.circle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

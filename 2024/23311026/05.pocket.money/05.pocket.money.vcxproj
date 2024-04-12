@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bd061b3d-fb90-4f9b-b8d3-5ba12e3f97cc}</ProjectGuid>
-    <RootNamespace>My03Triagle</RootNamespace>
+    <ProjectGuid>{b0370233-1a93-493f-b225-8af91ad8f0bc}</ProjectGuid>
+    <RootNamespace>My05pocketmoney</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="03.Triagle.cpp" />
+    <ClCompile Include="05.pocket.money.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

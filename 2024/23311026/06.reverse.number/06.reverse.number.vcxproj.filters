@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03.Triagle.cpp">
+    <ClCompile Include="06.reverse.number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
