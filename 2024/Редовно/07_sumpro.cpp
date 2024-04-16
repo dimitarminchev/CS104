@@ -1,4 +1,4 @@
-#include<iostream> 
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -10,8 +10,8 @@ int main()
     int a2 = (a/10)%10;
     int a1 = (a/1)%10;
 
-    cout << a4 + a3 + a2 + a1 << endl;
-    cout << a4 * a3 * a2 * a1 << endl;
-    return 0;
+    cout << a1 + a2 + a3 + a4 << " ";
+    cout << a1 * a2 * a3 * a4 << endl;
 
+    return 0;
 }
