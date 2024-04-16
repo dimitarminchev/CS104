@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-long fak(int n)
+long long fak(int n)
 {
     if (n == 0 || n == 1) {
         return 1;
