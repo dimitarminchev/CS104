@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="8.oddsum.cpp">
+    <ClCompile Include="09.evenpro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

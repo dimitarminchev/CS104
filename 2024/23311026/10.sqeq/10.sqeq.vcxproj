@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{60a397f9-2c02-4edf-abd1-634d32cacd7b}</ProjectGuid>
-    <RootNamespace>My8oddsum</RootNamespace>
+    <ProjectGuid>{bd4358cf-942e-4082-8f6d-118b81e7e38f}</ProjectGuid>
+    <RootNamespace>My10sqeq</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="8.oddsum.cpp" />
+    <ClCompile Include="10.sqeq.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
