@@ -11,6 +11,6 @@ int main() {
     int a4 = (a/1)%10; 
 
     cout << a1 + a2 + a3 + a4 << " ";
-    cout << a1 + a2 + a3 + a4 << endl;
+    cout << a1 * a2 * a3 * a4 << endl;
     return 0;
 }
