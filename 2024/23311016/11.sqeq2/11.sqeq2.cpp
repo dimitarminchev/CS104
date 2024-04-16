@@ -13,8 +13,8 @@ int main()
 	cout << "d=" << d << endl;
 
 	if (d < 0) { cout << "No real solutions." << endl; }
-	else if (d == 0) { cout << "x1=x2=" << (-b) / (2 * a) << endl; }
-	else
+	if (d == 0) { cout << "x1=x2=" << (-b) / (2 * a) << endl; }
+	if (d>0)
 	{
 		float x1 = ((-b) + sqrt(d)) / (2 * a);
 		float x2 = ((-b) - sqrt(d)) / (2 * a);
