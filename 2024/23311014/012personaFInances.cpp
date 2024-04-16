@@ -1,7 +1,10 @@
 #include<iostream>
+
 using namespace std;
+
 int main()
 {
+    
 int n,sum;
 float total;
 
@@ -11,7 +14,7 @@ cout << "3. Interest rate 2,9%" << endl;
 cout << "4. Interest rate 3,3%" << endl;
 cout << "5. Interest rate 3,5%" << endl;
 cout << "6. Interest rate 3,9%" << endl;
-cout << "Please select [1-6]";
+cout << "Please select [1-6] ";
 cin >> n;
 cout << "Enter amount to invest ";
 cin >> sum;
@@ -42,11 +45,3 @@ switch(n)
     return 0;
 
 }
-
-
-// 2.3%
-// 2.6%
-// 2.9%
-// 3.3%
-// 8.5%
-// 3.8%
