@@ -25,7 +25,7 @@ int main()
 	  case 6: total = sum + (sum * 3.8) / 100; break;
 
 	}
-	cout << "Total profit" << total << endl;
+	cout << "Total profit " << total << endl;
 	return 0;
 
 }
