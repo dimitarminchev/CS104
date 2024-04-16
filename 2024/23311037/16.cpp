@@ -22,3 +22,4 @@ int main() {
     std::cout << "Intersection Point 2: (" << intersection2.x << ", " << intersection2.y << ")\n";
 
     return 0;
+}
