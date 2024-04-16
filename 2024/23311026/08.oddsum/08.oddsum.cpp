@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -14,7 +13,6 @@ int main()
     int a5 = (a / 1) % 10;
 
     cout << a1 + a3 + a5 << endl;
-
 
     return 0;
 

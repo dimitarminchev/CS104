@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -44,6 +43,6 @@ int main()
 
 	cout << "Total profit: " << total << endl;
 
+    return 0;
 
-	return 0;
 }
