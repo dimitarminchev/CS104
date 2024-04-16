@@ -6,7 +6,7 @@ int main() {
     int a,b,c;
     cin >> a >> b >> c;
     float d = pow(b,2) - 4*a*c;
-    if(d < 0) cout << "No Real SOlutions" << endl;
+    if(d < 0) cout << "No Real Solutions" << endl;
     if(d == 0) cout << "d=0, x=0" << (-b)/(2*a) << endl;
     if(d>0)
     {
