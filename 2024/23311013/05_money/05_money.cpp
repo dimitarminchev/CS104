@@ -27,7 +27,7 @@ int main()
 	print("Enter a number of levs. ");
 	cin >> lev;
 
-	int money = (one * 0.01) + (two * 0.02) + (five * 0.05) + (ten * 0.1) + (twenty * 0.2) + (fifty * 0.5) + lev;
+	double money = (one * 0.01) + (two * 0.02) + (five * 0.05) + (ten * 0.1) + (twenty * 0.2) + (fifty * 0.5) + lev;
 	int moneti = one + two + five + ten + twenty + fifty + lev;
 
 	print("Total money: " << money);
