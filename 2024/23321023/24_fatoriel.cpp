@@ -1,29 +1,16 @@
 #include <iostream>
-
 using namespace std;
+
+int fak(int n)
+{
+	if (n == 1) return 1;
+	else return n * fak(n - 1);
+}
 
 int main()
 {
-    // int factorial;
-    // int factorialResult = 1;
-
-    // cout << "Sir, which factorial your are looking for?" << endl;
-
-    // cin >> factorial;
-
-    // if (factorial == 0)
-    // {
-    //     cout << "Factorial of 0 is 1, sir" << endl;
-    // }
-    
-
-    // for (int i = 1; i <= factorial; i++)
-    // {
-    //     factorialResult *= i;
-    // }
-
-    // cout << "The result of factorial is " << factorialResult << ", sir." << endl;
-
-    return 0;
+	int n;
+	cout << "n="; cin >> n;
+	cout << "n!=" << fak(n) << endl;
+	return 0;
 }
-
