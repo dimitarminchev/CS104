@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c2d35af6-6ee4-477e-9469-e0fa53ddf3b9}</ProjectGuid>
-    <RootNamespace>My17circleintercepts2</RootNamespace>
+    <ProjectGuid>{46a9cbc3-a080-4b15-ac26-fc74fd51bf29}</ProjectGuid>
+    <RootNamespace>My17Circleintercepts2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="17_circle_intercepts2.cpp" />
+    <ClCompile Include="17_Circle_intercepts2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
