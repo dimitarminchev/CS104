@@ -14,6 +14,6 @@ int main()
 		sum = i + sum;
 	}
 
-	cout << "The sum is: " << sum;
+	cout << "The sum is: " << sum << endl;
 	return 0;
 }
