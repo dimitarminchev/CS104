@@ -14,6 +14,6 @@ int main()
 		fact = i * fact;
 	}
 
-	cout << "The factoriel is: " << fact;
+	cout << n << "!=" << fact << endl;
 	return 0;
 }
