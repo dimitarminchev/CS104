@@ -26,6 +26,6 @@ int main()
 	float sum = (one * 0.01) + (two * 0.02) + (five * 0.05) + (ten * 0.10) + (twenty * 0.20) + (fifty * 0.50) + (oone * 1);
 	cout << "sum=" << sum << endl << "count=" << count << endl;
 
-return 0;
+    return 0;
 
 }
