@@ -6,7 +6,7 @@ int main()
     cin >> n;
     for (int i = 1; i <= 1; i++)
     {
-        pro* pro* i;
+        pro*pro*i;
     }
     cout << pro << endl;
     return 0;
