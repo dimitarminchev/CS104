@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="20.doWhile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

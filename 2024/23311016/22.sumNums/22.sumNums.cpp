@@ -14,6 +14,10 @@ int main()
 		sum = i + sum;
 	}
 
+<<<<<<< HEAD
 	cout << "The sum is: " << sum;
+=======
+	cout << "The sum is: " << sum << endl;
+>>>>>>> ce1ec83750f1db71c32d6cbdbeded7868b7c8484
 	return 0;
 }
