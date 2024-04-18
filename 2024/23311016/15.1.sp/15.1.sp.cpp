@@ -21,7 +21,7 @@ int main()
 		cout << "P=" << 4 * a << endl;
 		cout << "S=" << a * a << endl;
 	}
-	
+
 	if (n == 2)
 	{
 		int a, b;
@@ -32,7 +32,7 @@ int main()
 		cout << "P=" << 2 * (a + b) << endl;
 		cout << "S=" << a * b << endl;
 	}
-	
+
 	if (n == 3)
 	{
 		int r;

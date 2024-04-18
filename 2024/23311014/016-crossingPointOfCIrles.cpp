@@ -17,7 +17,7 @@ int main() {
     //output
     if(d > r1 + r2) cout << "No Common Points" << endl;
     if(d == r1 + r2) cout << "1 Common Points" << endl;
-    if(d > r1 + r2) cout << "2 Common Points" << endl;
+    if(d < r1 + r2) cout << "2 Common Points" << endl;
 
     return 0;
 }
