@@ -15,6 +15,6 @@ int main()
          sum = sum + i;
         }
     }
-    cout << "The sum of the numbers is: " << sum;
+    cout << endl << "The sum of the numbers is: " << sum << endl;
     return 0;
 }

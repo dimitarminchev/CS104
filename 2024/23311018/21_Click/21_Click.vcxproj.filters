@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="17_Circle_intercepts2.cpp">
+    <ClCompile Include="21_Click.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
