@@ -15,18 +15,22 @@ int main()
 
 	float d = sqrt((pow((x2 - x1), 2)) + (pow((y2 - y1), 2)));
 
-	if (d > r1 + r2) {
+	if (d > r1 + r2) 
+	{
 		cout << "The circles do not intersect." << endl;
 	}
-	else if (d < abs(r1 - r2)) {
+	else if (d < abs(r1 - r2))
+	{
 		cout << "One circle is contained within the other." << endl;
 	}
-	else if (d == r1 + r2) {
+	else if (d == r1 + r2) 
+	{
 		float x3 = x1 + (r1 / d) * (x2 - x1);
 		float y3 = y1 + (r1 / d) * (y2 - y1);
 		cout << "There is one common point at (" << x3 << ", " << y3 << ")." << endl;
 	}
-	else {
+	else 
+	{
 		float a = (pow(r1, 2) - pow(r2, 2) + pow(d, 2)) / (2 * d);
 		float h = sqrt(pow(r1, 2) - pow(a, 2));
 
