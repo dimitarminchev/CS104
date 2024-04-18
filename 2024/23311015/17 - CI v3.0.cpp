@@ -13,10 +13,10 @@ int main()
  float d = sqrt(pow((x1 - x2),2) + pow((y1 - y2),2));
  float a = (pow(r1,2) - pow(r2,2) + pow(d,2)) /(2 * d);
  float h = sqrt((pow(r1,2)) - (pow(a,2)));
- float x3 = x1+a*(x2-x1)/d +h*(y2-y1)/d;
+ float x3 = x1+ a*(x2-x1)/d +h*(y2-y1)/d;
  float y3 = y1+ a*(y2-y1)/d +h*(x2-x1)/d;
  float x4 = x1+ a*(x2-x1)/d +h*(y2-y1)/d;
- float y4 = y1+ a*(y2-y1)/d + h*(x2-x1)/d;
+ float y4 = y1+ a*(y2-y1)/d +h*(x2-x1)/d;
 
  cout << "First Point: " << x3 << " " << y3 << endl;
  cout << "Second Point: " << x4 << " " << y4 << endl;
