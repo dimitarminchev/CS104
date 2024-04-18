@@ -1,9 +1,10 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
 int main()
 {
     int a;
+
     cin >> a;
 
     int a6 = (a / 100000) % 10;
@@ -13,9 +14,7 @@ int main()
     int a2 = (a / 10) % 10;
     int a1 = (a / 1) % 10;
 
-
     cout << a2 * a4 * a6 << endl;
 
     return 0;
-
 }
