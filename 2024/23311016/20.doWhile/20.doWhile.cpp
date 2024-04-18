@@ -1,13 +1,16 @@
 #include <iostream>
+
 using namespace std;
+
 int main()
 {
-	int a = 1;
+	int i = 1;
 	do
 	{
-		cout << a << " ";
-		a++;
+		cout << i << " ";
+		i++;
 	} 
-	while (a < 101);
+	while (i <= 100);
+
 	return 0;
 }
