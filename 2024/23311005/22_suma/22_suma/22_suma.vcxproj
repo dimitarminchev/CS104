@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57995791-94d5-421e-9490-61fdb2111736}</ProjectGuid>
+    <ProjectGuid>{ee95d50d-6eb5-4ce9-83ea-0b6f9608fa68}</ProjectGuid>
     <RootNamespace>My22suma</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
