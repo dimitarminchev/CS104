@@ -11,7 +11,7 @@ int main()
     cout << "Please select [1-3]: ";
     cin >> n;
 
-    // square
+    // 1. Square
     if(n==1)
     {   
         int a;
@@ -21,7 +21,7 @@ int main()
         cout << "s=" << a*a << endl;
     }
 
-    // rectangle
+    // 2. Rectangle
     if(n==2)
     {   
         int a,b;
@@ -33,7 +33,7 @@ int main()
         cout << "s=" << a*b << endl;
     }
 
-    // rectangle
+    // 3. Circle
     if(n==3)
     {   
         float r;

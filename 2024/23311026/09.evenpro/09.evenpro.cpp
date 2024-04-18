@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -16,7 +15,6 @@ int main()
 
 
     cout << a2 * a4 * a6 << endl;
-
 
     return 0;
 
