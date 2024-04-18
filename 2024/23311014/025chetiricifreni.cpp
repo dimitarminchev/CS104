@@ -3,8 +3,6 @@ using namespace std;
 
 int main()
 {
-
-
     int i = 1000;
     int total = 0;
 
@@ -19,9 +17,9 @@ int main()
         if((a1 + a2) == (a3 + a4)){
          total = total + a;
         }
+        
         i++;
     }
     cout << total << endl;
     return 0;
-
 }
