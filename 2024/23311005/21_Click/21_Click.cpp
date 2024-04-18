@@ -11,10 +11,8 @@ int main()
 			  cout << "click";
           }
 		  else
-		  {
-			  
+		  {	  
 			  cout << i << " ";
-
 		  }
 		  i++;
 	  }
