@@ -10,7 +10,7 @@ int main()
  cout << "Enter x2, y2, r2: " << endl;
  cin >> x2 >> y2 >> r2;
 
- float d = sqrt(pow(x1 - x2) + pow(y1 - y2));
+ float d = sqrt(pow((x1 - x2),2) + pow((y1 - y2),2));
 
  if (d > r1 + r2) cout << "No Common Points" << endl;
  if (d == r1 + r2) cout << "1 Common Points" << endl;
