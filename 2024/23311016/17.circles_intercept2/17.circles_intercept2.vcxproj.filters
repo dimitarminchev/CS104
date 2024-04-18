@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="15.sp.cpp">
+    <ClCompile Include="17.circles_intercept2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
