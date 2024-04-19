@@ -8,7 +8,7 @@ int main()
 {
 	int x1, y1, x2, y2, r1, r2;
 
-	cout << "Enter x1 y1 r1: ";
+	cout << "x1 y1 r1:" << endl;
 	cin >> x1 >> y1 >> r1;
 
 	cout << "Enter x2 y2 r2: ";
@@ -16,27 +16,9 @@ int main()
 
 	float d = sqrt((pow((x2 - x1), 2)) + (pow((y2 - y1), 2)));
 
-	if (d > r1 + r2) {
-		cout << "The circles do not intersect." << endl;
-	}
-	else if (d < abs(r1 - r2)) {
-		cout << "One circle is contained within the other." << endl;
-	}
-	else {
-		float a = (pow(r1, 2) - pow(r2, 2) + pow(d, 2)) / (2 * d);
-		float h = sqrt(pow(r1, 2) - pow(a, 2));
-
-		float x3 = x1 + a * (x2 - x1) / d;
-		float y3 = y1 + a * (y2 - y1) / d;
-
-		float x4 = x3 + h * (y2 - y1) / d;
-		float y4 = y3 - h * (x2 - x1) / d;
-
-		float x5 = x3 - h * (y2 - y1) / d;
-		float y5 = y3 + h * (x2 - x1) / d;
-
-		cout << "The circles intersect at (" << x4 << ", " << y4 << ") and (" << x5 << ", " << y5 << ")." << endl;
-	}
+	if (d > r1 + r2)  cout << "No Common Points<" << endl;
+	if (d == r1 + r2) cout << "1 Common Points" << endl;
+	if (d < r1 + r2)  cout << "2 Common Points" << endl;
 
 	return 0;
 }
