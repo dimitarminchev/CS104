@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0cb4c4a6-1471-4e7e-9e4b-0256684e1b1d}</ProjectGuid>
-    <RootNamespace>My17Circleintercepts2</RootNamespace>
+    <ProjectGuid>{1579c841-d95a-48ea-ad6c-fa108394ffe4}</ProjectGuid>
+    <RootNamespace>My26fibonacciToNum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="17_Circle_intercepts2.cpp" />
+    <ClCompile Include="26.fibonacciToNum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
