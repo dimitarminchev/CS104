@@ -1,16 +1,15 @@
 #include<iostream>
 using namespace std;
+int fak(int n)
+{
+    if(n==1) return 1;
+    else return n*fak(n-1);
+}
 int main()
 {
     int n;
-    int pro = 1;
     cout << "Eneter max number: " << endl;
     cin >> n;
-
-    for (int i = 1; i <= n; i++)
-    {
-        pro = pro*i;
-    }
-    cout << pro << endl;
+    cout << fak(n) << endl;
     return 0;
 }
