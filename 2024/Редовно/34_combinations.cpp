@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-double fak(double n)
+int fak(int n)
 {
     if(n==1) return 1;
     else return n*fak(n-1);
@@ -9,11 +9,9 @@ double fak(double n)
 
 int main()
 {
-    double n,k;
-    cout << "k=";
-    cin >> k;
-    cout << "n=";
+    int n;
+    cout << "Enter max number: " << endl;
     cin >> n;
-    cout << fak(n) / (fak(k) * fak(n-k)) << endl;
+    cout << fak(n) << endl;
     return 0;
 }
