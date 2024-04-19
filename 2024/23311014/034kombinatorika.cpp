@@ -1,27 +1,20 @@
 #include <iostream>
-#include <cmath>
+
 
 using namespace std; 
 
+double fak(double n)
+{
+    if(n==1) return 1;
+    else return n*fak(n-1);
+}
+
 int main()
 {
-   int N = 35;
-   int K = 5;
-   int totalN = 1;
-   int totalK = 1;
-
-   for(int i = 1;i <= N;i++)
-   {
-    totalN = totalN * i; 
-   }
-
-   for(int d = 1;d <= K;d++)
-   {
-    totalK = totalK * d; 
-   }
-
-
-
-return 0;
-   
+  double n,k;
+  cout << "K= ";
+  cin >> k;
+  cout << "n=";
+  cin >> n;
+  cout << fak(n) / (fak(k) * fak(n-k)) << endl; 
 }
