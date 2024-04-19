@@ -12,7 +12,7 @@ int main()
 
 	for (int i = 1; i <= n; i++)
 	{
-		sum = sum + pow(x, i);
+		sum = sum + (pow((-1), i))  *  (pow(x, i));
 	}
 	cout << "Sum is: " << sum << endl;
 	return 0;
