@@ -14,6 +14,6 @@ int main()
 	{
 		sum = sum + (pow((-1), i))  *  (pow(x, i));
 	}
-	cout << "Sum is: " << sum;
+	cout << "Sum is: " << sum << endl;
 	return 0;
 }

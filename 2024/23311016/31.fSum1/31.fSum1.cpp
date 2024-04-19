@@ -14,6 +14,6 @@ int main()
 	{
 		sum = sum + pow(x, i);
 	}
-	cout << "Sum is: " << sum;
+	cout << "Sum is: " << sum << endl;
 	return 0;
 }
