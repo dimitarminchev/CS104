@@ -21,7 +21,7 @@ int main ()
    cin >> oneLev;
 
    int count =  one + two + five + ten + twenty + fifty + oneLev;
-   float sum= (one * 0.01) + (two * 0.02) + (five * 0.05) + (ten * 0.10) (twenty * 0.20) + (fifty * 0.50) (oneLev * 1.00);
+   float sum= (one * 0.01) + (two * 0.02) + (five * 0.05) + (ten * 0.10) + (twenty * 0.20) + (fifty * 0.50) + (oneLev * 1.00);
 
    cout << " Broi: " << count << endl << "Suma: " << sum << endl;
 
