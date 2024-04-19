@@ -10,8 +10,6 @@ double factorial(double n)
 
 int main()
 {
-
     cout << ((factorial(49.0))) / ((factorial(6.0)) * (factorial(49.0 - 6.0))) << endl;
-
     return 0;
 }
