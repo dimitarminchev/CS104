@@ -3,13 +3,20 @@ using namespace std;
 int main()
 {
     int n;
-    int a = 1;
     cout << "Enter max number: " << endl;
     cin >> n;
 
-    for ( int i = 0; i <= n; i++)
+    for (int i = 1; i <= n; i++)
     {
-        a%i
+        bool isPrime = true;
+        for (int j = 2; j < i; j++)
+        {
+            if (i % j == 0)
+            {
+                isPrime = false;
+            }
+        }
+        if (isPrime = true) cout << i << " ";
     }
-    
+    return 0;
 }
