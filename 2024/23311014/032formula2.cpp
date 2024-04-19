@@ -12,7 +12,7 @@ int main()
    cout << "input x" << endl;;
    cin >> x;     
 
-       
+   
 
    float sum = 0;
 
@@ -20,8 +20,6 @@ int main()
    {
     sum = (sum + (pow((-1),i) * pow(x,i)));
    }
-
     cout << sum << endl;
-
     return 0;
 }
