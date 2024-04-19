@@ -9,7 +9,7 @@ int main()
  
  for (int i = 1; i <= n; i++)
  {
-    float a = 1.0 / pow(i,n);
+    float a = 1.0 / pow(i,i);
     cout << a << " ";
  }
  return 0;
