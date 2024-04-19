@@ -10,6 +10,7 @@ int main()
 		if (i % 5 == 0 && i%3 ==0)
 		{
 			sum = sum + i;
+			cout << i << " ";
 		}
 	}
 	cout << "The sum is: " << sum << endl;
