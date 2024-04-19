@@ -16,7 +16,6 @@ int main()
 	{
 		cout << a << endl;
 	}
-
 	else if (n == 2)
 	{
 		cout << a << " " << b << endl;
@@ -25,22 +24,16 @@ int main()
 	{
 		cout << a << " " << b << " " << fib << endl;
 	}
-
 	else
 
 	{
 		cout << a << " " << b << " " << fib << " ";
 		for (int i = 3; i < n; i++)
 		{
-			if (i < 10)
-			{
-				a = b;
-				b = fib;
-				fib = a + b;
-				cout << fib << " ";
-			}
-		
-					
+			a = b;
+			b = fib;
+			fib = a + b;
+			cout << fib << " ";					
 		}
 	}
 

@@ -2,14 +2,18 @@
 using namespace std;
 int main()
 {
-    int n;
-    int a = 1;
+    int m;
     cout << "Enter max number: " << endl;
-    cin >> n;
+    cin >> m;
 
-    for ( int i = 0; i <= n; i++)
+    for (int i = 1; i <= m; i++)
     {
-        a%i
+        bool isPrime = true;
+        for (int j = 2; j < i; j++)
+        {
+            if (i % j == 0) isPrime = false;
+        }
+        if (isPrime) cout << i << " ";
     }
-    
+    return 0;
 }
