@@ -1,7 +1,5 @@
 #include<iostream>
-
 using namespace std;
-
 int step(int n)
 {
     if (n > 1)
