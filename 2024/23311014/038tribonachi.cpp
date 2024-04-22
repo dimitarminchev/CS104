@@ -13,7 +13,13 @@ int main(){
     }
 
     for(int i = 0; i < n;i++){
-        cout << trib[i] << endl;
+        if(i < 4){
+        cout << trib[i] << " ";
+        }
+        if(i >= 4){
+        cout << trib[i-1] << "+" << trib[i-2] << "+"  << trib[i-3] << " ]= " << trib[i] << "[ ";
+        }
+        
     }
 
 
