@@ -3,18 +3,28 @@ using namespace std;
 
 int main()
 {
-	int n, x, count = 0;
+	int n, m, x, inx = 0;
 	int f[100];
+	int index[100];
 	cout << "Please enter number of array elements: ";
-	cin >> n;
+	cin >> m;
 	cout << "Please enter which number you want to check: ";
 	cin >> x;
-	for (int i = 0; i < n; i++)
+	for (int i = 0; i < m; i++)
 	{
 		cout << "Please enter n" << i + 1 << ": ";
-		cin >> f[i];
-		if (f[i] == x) count++;
+		cin >> n;
+		f[i] = n;
+		if (f[i] == x)
+		{
+			index[inx] = i;
+			inx++;
+		}
 	}
-	cout << x << " repeats " << count <<" times." << endl;
+	cout << "index: ";
+	for (int i = 0; i < inx; i++)
+	{
+		cout << index[i] << ", ";
+	}
 	return 0;
 }
