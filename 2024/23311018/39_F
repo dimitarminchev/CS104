@@ -1,0 +1,3 @@
+﻿  39_F=Sum.3.cpp
+C:\Users\NikoLaptop\Desktop\CS104\2024\23311018\39_F=Sum.3\39_F=Sum.3.cpp(14,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  39_F=Sum.3.vcxproj -> C:\Users\NikoLaptop\Desktop\CS104\2024\23311018\x64\Debug\39_F=Sum.3.exe
