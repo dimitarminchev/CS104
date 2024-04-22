@@ -1,10 +1,9 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 int main()
 {
-	int min = 0, max = 0, n, m;
+	int min = 1000, max = -1000, n, m;
 	int f[100] = { 0 };
 	cout << "Please enter number of array elements: ";
 	cin >> m;
