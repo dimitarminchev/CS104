@@ -16,6 +16,7 @@ int main()
 	if (d < 0) cout << "No real solution" << endl;
 	if (d == 0) cout << "d=0,x=" << (-b) / (2 * a) << endl;
 	if (d > 0)
+
 	{
 		float x1 = ((-b) + sqrt(d)) / (2 * a);
 		float x2 = ((-b) - sqrt(d)) / (2 * a);
@@ -25,6 +26,6 @@ int main()
 		cout << "x2=" << x2 << endl;
 	}
 
+    return 0;
 
-	return 0;
 }

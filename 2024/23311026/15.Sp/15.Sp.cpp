@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -46,8 +45,8 @@ int main()
 		cin >> r;
 		cout << "p=" << 4*3.14*r << endl;
 		cout << "s=" << 3*14*r*r << endl;
+    }
 
-	}
+    return 0;
 
-	return 0;
 }
