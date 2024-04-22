@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
 #define print(x) std::cout<<x<<std::endl;
-#include<cmath>
 
 int main()
 {
