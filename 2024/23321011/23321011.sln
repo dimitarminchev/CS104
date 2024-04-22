@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zad1", "zad1\zad1.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.while", "19.while\19.while.vcxproj", "{28E6F66F-2167-4615-9AAD-4F44698E6135}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20.dowhile", "20.dowhile\20.dowhile.vcxproj", "{3337C4E9-8153-42E9-B930-8785C4C263C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{28E6F66F-2167-4615-9AAD-4F44698E6135}.Release|x64.Build.0 = Release|x64
 		{28E6F66F-2167-4615-9AAD-4F44698E6135}.Release|x86.ActiveCfg = Release|Win32
 		{28E6F66F-2167-4615-9AAD-4F44698E6135}.Release|x86.Build.0 = Release|Win32
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Debug|x64.ActiveCfg = Debug|x64
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Debug|x64.Build.0 = Debug|x64
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Debug|x86.Build.0 = Debug|Win32
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Release|x64.ActiveCfg = Release|x64
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Release|x64.Build.0 = Release|x64
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Release|x86.ActiveCfg = Release|Win32
+		{3337C4E9-8153-42E9-B930-8785C4C263C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
