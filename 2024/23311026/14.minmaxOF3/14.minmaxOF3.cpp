@@ -21,5 +21,6 @@ int main()
 	cout << "max: " << max << endl;
 
 
-	return 0;
+    return 0;
+
 }
