@@ -7,13 +7,12 @@ int power(int a, int n)
 }
 int main()
 {   
-    int a;
-    int n;
+    int a, n;
     cout << "Enter a: " << endl;
     cin >> a;
     cout << "Enter n: " << endl;
     cin >> n;
-    cout << a << " to the power of " << n << " = " << power(a, n) << endl;
+    cout << a << " ^ " << n << " = " << power(a, n) << endl;
 
     return 0;
 }

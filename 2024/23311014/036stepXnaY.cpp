@@ -5,24 +5,24 @@ using namespace std;
 
 
 
-int power (int chastno,int y)
+int power (int chastno,int chislo)
 {
-    if(chastno==1) return y;
-    return y * power(chastno-1,y);
+    if(chastno==1) return chislo;
+    return chislo * power(chastno-1,chislo);
 }
 
 int main()
 {
     
     int chastno;
-    int y;
+    int chislo;
 
     cout << "your num?" << endl;
-    cin >> y;
+    cin >> chislo;
     cout << "pow?" << endl;
     cin >> chastno;
     
-    cout << power(chastno,y) << endl;
+    cout << power(chastno,chislo) << endl;
     return 0;
 
 }
