@@ -13,7 +13,7 @@ int main()
     for (int i = 0; i < n; i++ )
     {
 
-        cin >> a{i};
+        cin >> a[i];
         if(a[i] == x) count;
     }
     cout << x << " repeats " << count << "times. " << endl;
