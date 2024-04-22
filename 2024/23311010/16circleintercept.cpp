@@ -14,6 +14,8 @@ int main()
     float y3 = 
     float y4 =
     float y4 =
+
+    
     cout << "First point: " << x3 << y3 << endl;
     cout << "Second point: " << x4 << y4 << endl;
 
