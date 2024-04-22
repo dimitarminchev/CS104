@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="16. Digit4_special.cpp">
+    <ClCompile Include="15. Digit3_sum_of_3_and_5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

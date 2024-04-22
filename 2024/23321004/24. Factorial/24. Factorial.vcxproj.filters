@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="16. Digit4_special.cpp">
+    <ClCompile Include="24. Factorial.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

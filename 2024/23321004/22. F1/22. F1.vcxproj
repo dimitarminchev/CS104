@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a8064287-6b75-4a2d-95f9-1a32b1eeeac4}</ProjectGuid>
-    <RootNamespace>My16Digit4special</RootNamespace>
+    <ProjectGuid>{39711220-4354-4538-bca9-a521e1b68e90}</ProjectGuid>
+    <RootNamespace>My22F1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="16. Digit4_special.cpp" />
+    <ClCompile Include="22. F1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

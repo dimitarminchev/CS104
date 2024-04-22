@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a8064287-6b75-4a2d-95f9-1a32b1eeeac4}</ProjectGuid>
-    <RootNamespace>My16Digit4special</RootNamespace>
+    <ProjectGuid>{93711884-53c9-4ab3-aee6-aadaab45ebff}</ProjectGuid>
+    <RootNamespace>My2Suma</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="16. Digit4_special.cpp" />
+    <ClCompile Include="2. Suma.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
