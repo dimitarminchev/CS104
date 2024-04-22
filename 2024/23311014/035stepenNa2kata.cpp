@@ -5,28 +5,19 @@ using namespace std;
 
 
 
-// int main()
-// {
-//     int n = 5;
-//     int result = 2;
-
-//     result = (pow(result,n));
-
-//     cout << result;
-//     return 0;
-// }
+int power (int n)
+{
+    if(n==1) return 2;
+    return 2 * power(n-1);
+}
 
 int main()
 {
-    int n = 5;
+    
+    int n;
+    cout << "Enter n: " << endl;
     cin >> n;
-    int result = 2;
-    for(int i = 1; i < n; i++)
-    {
-        result = result*2;
-    };
-
-    cout << result;
+    cout << power(n) << endl;
     return 0;
 
 }

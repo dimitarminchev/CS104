@@ -2,10 +2,8 @@
 using namespace std;
 int step(int n, int a)
 {
-    if (n > 1)
-        return a * step(n - 1, a);
-    else
-        return a;
+    if (n > 1) return a * step(n - 1, a);
+    else return a;
 }
 
 int main()
