@@ -10,9 +10,9 @@ int main()
 	cout << "Please enter n: ";
 	cin >> n;
 
-	for (int i = 1; i <= n; i++)
+	for (float i = 1; i <= n; i++)
 	{
-		result = pow(1.0 + (1.0 / i), i);
+		result = 1.0 / pow(i, 2);
 		cout << result << " ";
 	}
 
