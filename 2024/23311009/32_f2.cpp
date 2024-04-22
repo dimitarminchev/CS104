@@ -6,7 +6,7 @@ using namespace std;
     int main() 
 {
      
-        int x, n;
+   3     int x, n;
         int sum = 0;
 
         cout << "Въведи число x: ";
