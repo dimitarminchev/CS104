@@ -1,4 +1,3 @@
-
 #include <iostream>
 using namespace std;
 
@@ -14,6 +13,6 @@ int main()
 
     cout << a3 << a2 << a1 << endl;
 
-return 0;
+    return 0;
 
 }
