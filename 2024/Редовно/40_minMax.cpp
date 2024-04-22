@@ -20,9 +20,7 @@ int main()
         if(a[i] < min) min = a[i];
         if(a[i] > max) max = a[i];
     }
-    cout << min << endl;
-    cout << max << endl;
+    cout << min << " " << max << endl;
 
     return 0;
 }
-
