@@ -10,8 +10,6 @@ double factorial(double n)
 
 int main()
 {
-
     cout << ((factorial(35.0))) / ((factorial(5.0)) * (factorial(35.0 - 5.0))) << endl;
-
     return 0;
 }
