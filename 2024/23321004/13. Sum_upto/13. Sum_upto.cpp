@@ -1,5 +1,5 @@
-//—умата на естествените числа до зададено число
-#include <iostream>
+//13. —умата на естествените числа до зададено число
+#include<iostream>
 #include<cmath>
 using namespace std;
 int main()
@@ -13,6 +13,7 @@ int main()
     {
         sum = sum + k;
     }
+
     cout << sum << endl;
 
     return 0;
