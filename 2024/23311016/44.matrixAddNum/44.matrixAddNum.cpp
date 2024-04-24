@@ -4,11 +4,11 @@ using namespace std;
 int main()
 {
 	int n, a, b;
-	cout << "Enter n: ";
+	cout << "Enter number to multiply by: ";
 	cin >> n;
-	cout << "Enter a: ";
+	cout << "Enter number of  rows: ";
 	cin >> a;
-	cout << "Enter b: ";
+	cout << "Enter number of columns: ";
 	cin >> b;
 	
 	int ar[50][50];
@@ -26,7 +26,7 @@ int main()
 	{
 		for (int j = 0; j < b; j++)
 		{
-			cout << arRes[i][j] <<"   ";
+			cout << arRes[i][j] << "\t";
 		}
 		cout << "" << endl;
 	}
