@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{24428977-e16c-43c6-9e79-b427b5b47de9}</ProjectGuid>
+    <ProjectGuid>{40004d04-c1fb-4e59-be5f-8026f9294077}</ProjectGuid>
     <RootNamespace>My13Sumupto</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

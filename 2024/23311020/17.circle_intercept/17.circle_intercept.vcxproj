@@ -24,6 +24,7 @@
     <ProjectGuid>{78e0bb2a-2810-4ce8-a773-e40cd381f1b4}</ProjectGuid>
     <RootNamespace>My17circleintercept</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>17.circle_intercept2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
