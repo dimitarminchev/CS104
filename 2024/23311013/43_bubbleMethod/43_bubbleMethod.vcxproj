@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{43A52BC2-1B0A-446A-BF4D-C5DDA7DE5118}</ProjectGuid>
-    <RootNamespace>My07Sumpro</RootNamespace>
+    <ProjectGuid>{1418993b-cd32-4ce2-8141-9f62b0d0c01f}</ProjectGuid>
+    <RootNamespace>My43bubbleMethod</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="07_Sumpro.cpp" />
+    <ClCompile Include="43_bubbleMethod.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

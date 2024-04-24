@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{43A52BC2-1B0A-446A-BF4D-C5DDA7DE5118}</ProjectGuid>
-    <RootNamespace>My07Sumpro</RootNamespace>
+    <ProjectGuid>{cadfa89b-357d-477f-a90c-948502e3235a}</ProjectGuid>
+    <RootNamespace>My47mulMatrix</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="07_Sumpro.cpp" />
+    <ClCompile Include="47_mulMatrix.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
