@@ -3,23 +3,21 @@ using namespace std;
 int main() 
 {
     int n;
-    int matrix[3][3];
+    int a[3][3], b[3][3];
     cout << "Enter the matrix values: " << endl;
-
     for(int i = 0; i < 3; i++) 
         for(int j = 0; j < 3; j++) 
-            cin >> matrix[i][j];
-    cout << "n: " << endl;
-    cin >> n;
+            cin >> a[i][j];
+    for(int i = 0; i < 3; i++) 
+        for(int j = 0; j < 3; j++) 
+            cin >> b[i][j];
     
     for(int i = 0; i < 3; i++) 
     {
         for(int j = 0; j < 3; j++) 
-        {   
-            matrix[i][j] *= n;
-            cout << matrix[i][j] << "\t";
-        }
-            cout << endl;
+        
+            cout << a[i][j] * b[i][j] << "\t";
+        cout << endl;
     }
     return 0;
 }
