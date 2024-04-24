@@ -5,7 +5,7 @@ int main()
     int n, s;
     cout<<"n: ";
     cin >>n;
-    cout<<"s: "
+    cout<<"s: ";
     cin >>s;
 
     int a[100];
