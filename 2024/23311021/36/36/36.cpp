@@ -17,7 +17,7 @@ double myFunc(int a, int b)
 
 int main()
 {
-	double n , v;
+	int n , v;
 	cin >> n >> v;
 	int result = myFunc(n,v);
 	cout << result;

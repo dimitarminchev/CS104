@@ -27,7 +27,7 @@ int main()
     {
         for (int j = 0; j < 3; j++)
         {
-            cout << matrix[i][j] + mat[i][j] << "\t";
+            cout << matrix[i][j] * mat[i][j] << "\t";
         }
     }
     return 0;
