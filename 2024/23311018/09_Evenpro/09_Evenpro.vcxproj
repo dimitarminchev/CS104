@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d29cc62e-b4f2-41ad-838e-2b56095d96bd}</ProjectGuid>
+    <ProjectGuid>{D29CC62E-B4F2-41AD-838E-2B56095D96BD}</ProjectGuid>
     <RootNamespace>My09Evenpro</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
