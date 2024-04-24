@@ -2,7 +2,6 @@
 using namespace std;
 int main() 
 {
-    int n;
     int a[3][3], b[3][3];
     cout << "Enter the matrix values: " << endl;
     for(int i = 0; i < 3; i++) 
