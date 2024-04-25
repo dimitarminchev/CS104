@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b35f3962-52eb-4f32-8894-04befc9032ee}</ProjectGuid>
+    <ProjectGuid>{B35F3962-52EB-4F32-8894-04BEFC9032EE}</ProjectGuid>
     <RootNamespace>My10Sqeq</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

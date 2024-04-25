@@ -3,19 +3,17 @@ using namespace std;
 
 int main()
 {
-	int n, a, b;
-	cout << "Enter n: ";
+	int n, a;
+	cout << "Enter number to multiply by: ";
 	cin >> n;
-	cout << "Enter a: ";
+	cout << "Enter number of  rows and columns: ";
 	cin >> a;
-	cout << "Enter b: ";
-	cin >> b;
 	
 	int ar[50][50];
 	int arRes[50][50];
 	for (int i = 0; i < a; i++)
 	{
-		for (int j = 0; j < b; j++)
+		for (int j = 0; j < a; j++)
 		{
 			cout << "Enter a" << i+1 << j+1 << ": ";
 			cin >> ar[i][j];
@@ -24,11 +22,11 @@ int main()
 	}
 	for (int i = 0; i < a; i++)
 	{
-		for (int j = 0; j < b; j++)
+		for (int j = 0; j < a; j++)
 		{
-			cout << arRes[i][j] <<"   ";
+			cout << arRes[i][j] << "\t";
 		}
-		cout << "" << endl;
+		cout << endl;
 	}
 	return 0;
 }
