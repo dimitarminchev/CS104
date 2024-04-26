@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c9a919c7-478a-4463-86e3-117d14c53f1d}</ProjectGuid>
+    <ProjectGuid>{C9A919C7-478A-4463-86E3-117D14C53F1D}</ProjectGuid>
     <RootNamespace>My08Oddsum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

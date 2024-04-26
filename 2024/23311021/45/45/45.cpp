@@ -2,29 +2,32 @@
 using namespace std;
 int main()
 {
-    int n;
+    int matrix[3][3] = {};
 
-    cout << "Enter the number by which we are multiplying\n";
-    cin >> n;
+    int mat[3][3] = {};
 
-    int matrix[2][2] =
+    for (int i = 0; i < 3; i++)
     {
-        { 1, 3 },
-        { 2, 5 }
-    };
-
-    int mat[2][2] =
-    {
-        { 2, 1 },
-        { 3, 2 }
-    };
-
-    for (int i = 0; i < 2; i++)
-    {
-        for (int j = 0; j < 2; j++)
+        for (int j = 0; j < 3; j++)
         {
-            cout << matrix[i][j] + mat[i][j] << " ";
+            cout << "Enter value for matrix A position (" << i << ", " << j << "): ";
+            cin >> matrix[i][j];
+        }
+    }
 
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 3; j++)
+        {
+            cout << "Enter value for matrix B position (" << i << ", " << j << "): ";
+            cin >> mat[i][j];
+        }
+    }
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 3; j++)
+        {
+            cout << matrix[i][j] + mat[i][j] << "\t";
         }
     }
     return 0;
