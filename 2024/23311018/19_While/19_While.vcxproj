@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1678ce47-c02e-43a7-9727-6afb9678ed29}</ProjectGuid>
+    <ProjectGuid>{1678CE47-C02E-43A7-9727-6AFB9678ED29}</ProjectGuid>
     <RootNamespace>My19While</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
