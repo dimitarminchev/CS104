@@ -20,5 +20,5 @@ int main()
              cout << c[i][j]<< "\t";
         cout << endl;     
     }
-    return 0;                      
+    return 0;+                      
 }
