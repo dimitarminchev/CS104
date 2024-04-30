@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_bubble_sort", "28_bubble
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29_matrix_multiplocation", "29_matrix_multiplocation\29_matrix_multiplocation.vcxproj", "{3DAE1189-0DF8-4CA7-8B26-8BFA807143FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30_matrix_sum", "30_matrix_sum\30_matrix_sum.vcxproj", "{0AD69D97-2C56-462F-8277-284BD962B372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{3DAE1189-0DF8-4CA7-8B26-8BFA807143FB}.Release|x64.Build.0 = Release|x64
 		{3DAE1189-0DF8-4CA7-8B26-8BFA807143FB}.Release|x86.ActiveCfg = Release|Win32
 		{3DAE1189-0DF8-4CA7-8B26-8BFA807143FB}.Release|x86.Build.0 = Release|Win32
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Debug|x64.ActiveCfg = Debug|x64
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Debug|x64.Build.0 = Debug|x64
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Debug|x86.Build.0 = Debug|Win32
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Release|x64.ActiveCfg = Release|x64
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Release|x64.Build.0 = Release|x64
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Release|x86.ActiveCfg = Release|Win32
+		{0AD69D97-2C56-462F-8277-284BD962B372}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
