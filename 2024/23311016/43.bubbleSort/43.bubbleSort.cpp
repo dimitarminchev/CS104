@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int n, curNum;
+	int n;
 	int arr[100];
 	cout << "Please enter number of array elements: ";
 	cin >> n;
@@ -18,7 +18,7 @@ int main()
 		{
 			if (arr[j] > arr[j + 1])
 			{
-				curNum = arr[j];
+				int curNum = arr[j];
 				arr[j] = arr[j + 1];
 				arr[j + 1] = curNum;
 			}
