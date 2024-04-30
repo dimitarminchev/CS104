@@ -1,21 +1,39 @@
+//29.
 #include <iostream>
 using namespace std;
 
 int main() 
 {
-    int A[3][3], B[3][3], N;
-    for(int x=0;x<3;x++) for(int y=0;y<3;y++) cin >>
-    A[x][y];    
-    cin >> N;
-    for(int x=0;x<3;x++)
+    int rows, cols, scalar;
+    
+    cout << "Въведете брой редове на матрицата: ";
+    cin >> rows;
+    cout << "Въведете брой колони на матрицата: ";
+    cin >> cols;
+    cout << "Въведете скаларно число за умножение: ";
+    cin >> scalar;
+
+    int matrix[rows][cols];
+
+    cout << "Въведете елементите на матрицата: " << endl;
+    for (int i = 0; i < rows; i++) 
     {
-    for(int y=0;y<3;y++)
-    {
-    B[x][y] = A[x][y] * N;
-    cout << B[x][y] << '\t';
+        for (int j = 0; j < cols; j++) 
+        {
+            cout << "Елемент [" << i << "][" << j << "]: ";
+            cin >> matrix[i][j];
+        }
     }
-     cout << '\n';
+
+    cout << "Резултат от умножението на матрицата по скалара " << scalar << ":" << endl;
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols; j++) {
+            matrix[i][j] *= scalar;
+            cout << matrix[i][j] << " ";
+        }
+        cout << endl;  
     }
 
     return 0;
 }
+
