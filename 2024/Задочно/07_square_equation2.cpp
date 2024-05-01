@@ -1,4 +1,4 @@
-// Намиране на корените на квадратно уравнение
+// 07.
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7,16 +7,19 @@ int main()
     int a, b, c;    
     cin >> a >> b >> c;
     float d = pow(b,2) - 4*a*c;
+
     // d < 0
     if(d < 0)
     {
         cout << "d < 0" << endl << "Няма реални корени" << endl;
     }
+
     // d = 0
     if(d == 0)
     {
         cout << "d = 0, x1 = x2, x = " << (-b)/(2*a) << endl;
     }
+
     // d > 0
     if(d > 0)
     {

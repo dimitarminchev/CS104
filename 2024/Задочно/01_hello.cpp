@@ -1,4 +1,4 @@
-// Програма "Здравей свят!"
+// 01.
 #include<iostream>
 using namespace std;
 int main() 

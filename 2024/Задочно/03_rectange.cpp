@@ -1,4 +1,4 @@
-// Периметър и лице на правоъгълник по дадени две страни
+// 03.
 #include<iostream>
 using namespace std;
 int main() 
