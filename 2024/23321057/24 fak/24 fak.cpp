@@ -1,6 +1,7 @@
+//24 fak
 #include<iostream>
 using namespace std;
-// fak
+
 int fak(int n)
 {
     if (n == 1) return 1; // exit clause
