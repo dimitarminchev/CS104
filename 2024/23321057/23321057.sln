@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27 fibonacci", "27 fibonacc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28 bubble sort", "28 bubble sort\28 bubble sort.vcxproj", "{916165C1-9BAE-4BE5-8802-4BCED8122672}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29 matrix multiplocation", "29 matrix multiplocation\29 matrix multiplocation.vcxproj", "{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{916165C1-9BAE-4BE5-8802-4BCED8122672}.Release|x64.Build.0 = Release|x64
 		{916165C1-9BAE-4BE5-8802-4BCED8122672}.Release|x86.ActiveCfg = Release|Win32
 		{916165C1-9BAE-4BE5-8802-4BCED8122672}.Release|x86.Build.0 = Release|Win32
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Debug|x64.ActiveCfg = Debug|x64
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Debug|x64.Build.0 = Debug|x64
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Debug|x86.Build.0 = Debug|Win32
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Release|x64.ActiveCfg = Release|x64
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Release|x64.Build.0 = Release|x64
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Release|x86.ActiveCfg = Release|Win32
+		{361EED69-B020-465B-9FD2-C1AD9F0AB0DB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
