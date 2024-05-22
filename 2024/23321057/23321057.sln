@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25 combinations", "25 combi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26 step2", "26 step2\26 step2.vcxproj", "{80F0AE1E-B67D-4839-8A8F-43E8A3CC8542}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27 fibonacci", "27 fibonacci\27 fibonacci.vcxproj", "{7786763A-B473-4041-B4EA-09561D2AEE18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{80F0AE1E-B67D-4839-8A8F-43E8A3CC8542}.Release|x64.Build.0 = Release|x64
 		{80F0AE1E-B67D-4839-8A8F-43E8A3CC8542}.Release|x86.ActiveCfg = Release|Win32
 		{80F0AE1E-B67D-4839-8A8F-43E8A3CC8542}.Release|x86.Build.0 = Release|Win32
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Debug|x64.ActiveCfg = Debug|x64
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Debug|x64.Build.0 = Debug|x64
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Debug|x86.ActiveCfg = Debug|Win32
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Debug|x86.Build.0 = Debug|Win32
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Release|x64.ActiveCfg = Release|x64
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Release|x64.Build.0 = Release|x64
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Release|x86.ActiveCfg = Release|Win32
+		{7786763A-B473-4041-B4EA-09561D2AEE18}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
