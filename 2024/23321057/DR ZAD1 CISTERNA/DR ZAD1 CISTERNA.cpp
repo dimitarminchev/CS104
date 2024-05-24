@@ -2,17 +2,20 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     int n;
     cin >> n;
     int t = n % 5;
     int s = n / 5;
-    if (t == 4) {
+    if (t == 4) 
+    {
         t = 0;
         s++;
     }
     cout << s << " pati dvete kofi." << endl;
-    switch (t) {
+    switch (t) 
+    {
     case 1: {
         cout << "Ostava 1 litar, mojem da izpolzvame kofata ot 2 litra." << endl;
         break;
