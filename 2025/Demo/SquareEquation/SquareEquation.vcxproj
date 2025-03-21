@@ -24,7 +24,7 @@
     <ProjectGuid>{c875cf06-1706-4b13-8f80-8c3266f5e423}</ProjectGuid>
     <RootNamespace>SquareEquation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>6. SquareEquation</ProjectName>
+    <ProjectName>06. SquareEquation</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
