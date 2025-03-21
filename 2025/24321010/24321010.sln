@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "suma", "suma\suma.vcxproj", "{3773D79A-A948-4AA3-920C-CF9AC40CA241}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rectangle", "Rectangle\Rectangle.vcxproj", "{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,14 @@ Global
 		{3773D79A-A948-4AA3-920C-CF9AC40CA241}.Release|x64.Build.0 = Release|x64
 		{3773D79A-A948-4AA3-920C-CF9AC40CA241}.Release|x86.ActiveCfg = Release|Win32
 		{3773D79A-A948-4AA3-920C-CF9AC40CA241}.Release|x86.Build.0 = Release|Win32
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Debug|x64.ActiveCfg = Debug|x64
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Debug|x64.Build.0 = Debug|x64
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Debug|x86.Build.0 = Debug|Win32
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Release|x64.ActiveCfg = Release|x64
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Release|x64.Build.0 = Release|x64
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Release|x86.ActiveCfg = Release|Win32
+		{AF9811D8-D41D-4AF9-A8AE-D9EFC0A91482}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
