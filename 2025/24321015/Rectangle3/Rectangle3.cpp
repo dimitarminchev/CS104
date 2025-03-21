@@ -10,7 +10,7 @@ int main()
 	int P = 2 * (a + b) ;
 	int S = a * b;
 	cout << "P = " << P << endl;
-	cout << "S = " << P << endl;
+	cout << "S = " << S << endl;
 	return 0;  
 }
 
