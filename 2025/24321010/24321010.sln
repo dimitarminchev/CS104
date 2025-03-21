@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circle", "Circle\Circle.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "REVERSE", "REVERSE\REVERSE.vcxproj", "{111D2188-51E0-4E67-BA0F-DC1BEDA3D0B5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SquareEq", "SquareEq\SquareEq.vcxproj", "{58C195D1-DD28-4DAE-9F59-D17A78BE6460}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -63,6 +65,14 @@ Global
 		{111D2188-51E0-4E67-BA0F-DC1BEDA3D0B5}.Release|x64.Build.0 = Release|x64
 		{111D2188-51E0-4E67-BA0F-DC1BEDA3D0B5}.Release|x86.ActiveCfg = Release|Win32
 		{111D2188-51E0-4E67-BA0F-DC1BEDA3D0B5}.Release|x86.Build.0 = Release|Win32
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Debug|x64.ActiveCfg = Debug|x64
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Debug|x64.Build.0 = Debug|x64
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Debug|x86.ActiveCfg = Debug|Win32
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Debug|x86.Build.0 = Debug|Win32
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Release|x64.ActiveCfg = Release|x64
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Release|x64.Build.0 = Release|x64
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Release|x86.ActiveCfg = Release|Win32
+		{58C195D1-DD28-4DAE-9F59-D17A78BE6460}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
