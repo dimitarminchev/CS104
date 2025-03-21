@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿// 02. suma.cpp = Намиране на сумата на две цели числа
+#include <iostream>
 using namespace std;
 int main()
 {

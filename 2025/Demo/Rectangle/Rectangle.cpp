@@ -1,3 +1,4 @@
+﻿// 03. rectangle_cpp = Периметър и лице на правоъгълник по дадени две страни
 #include <iostream>
 using namespace std;
 int main()
@@ -14,5 +15,6 @@ int main()
 
     cout << "p=" << p << endl;
     cout << "s=" << s << endl;
+
     return 0;
 }
