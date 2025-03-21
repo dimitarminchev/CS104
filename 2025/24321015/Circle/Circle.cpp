@@ -13,9 +13,9 @@ int main()
 	float S = pow(M_PI, 2) * r;
 	float V = (4.0 / 3.0) * M_PI * pow(r, 3);
 
-	cout << "P = " << S << endl;
+	cout << "P = " << P << endl;
 	cout << "S = " << S << endl;
-	cout << "V = " << S << endl;
+	cout << "V = " << V << endl;
 
 	return 0;
 }
