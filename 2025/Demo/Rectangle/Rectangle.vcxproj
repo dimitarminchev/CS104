@@ -24,7 +24,7 @@
     <ProjectGuid>{5292e1e2-9e0e-44a5-87a3-fb879263c90b}</ProjectGuid>
     <RootNamespace>Rectangle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>3. Rectangle</ProjectName>
+    <ProjectName>03. Rectangle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
