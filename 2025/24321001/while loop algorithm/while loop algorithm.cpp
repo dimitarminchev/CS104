@@ -9,4 +9,6 @@ int main()
     {
         cout << "k = " << k << endl;
     }
+
+    return 0;
 }
