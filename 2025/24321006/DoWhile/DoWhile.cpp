@@ -4,10 +4,10 @@ using namespace std;
 int main()
 {
 	int k = 1;
-	while (k <= 1000)
+	do
 	{
 		cout << k << " ";
 		k++;
-	}
+	} while (k <= 1000);
 	return 0;
 }
