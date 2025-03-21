@@ -1,4 +1,4 @@
-﻿// 02. suma.cpp = Намиране на сумата на две цели числа
+﻿// 03. rectangle_cpp = Периметър и лице на правоъгълник по дадени две страни
 #include <iostream>
 using namespace std;
 int main()
