@@ -24,6 +24,7 @@
     <ProjectGuid>{ea13d8b3-65fe-4675-9fb6-d5b828733a18}</ProjectGuid>
     <RootNamespace>suma</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Suma</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

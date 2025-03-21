@@ -4,19 +4,18 @@ using namespace std;
 
 int main()
 {
-        int a;
-        int b;
+    int a, b;
 
-        cout << "a= ";
-        cin >> a;
+    cout << "a=";
+    cin >> a;
 
-        cout << "b= ";
-        cin >> b;
+    cout << "b=";
+    cin >> b;
 
-        int c = a + b;
+    int c = a + b;
 
-        cout << "a+b= " << c << endl;
-        return 0;
+    cout << "a+b=" << c << endl;
+    return 0;
 }
 
 
