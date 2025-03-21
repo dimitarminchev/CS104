@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "while loop algorithm", "whi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "do while algorithm", "do while algorithm\do while algorithm.vcxproj", "{A1CA61C5-7D1E-4F9A-9539-E00EE17489AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "click game", "click game\click game.vcxproj", "{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{A1CA61C5-7D1E-4F9A-9539-E00EE17489AA}.Release|x64.Build.0 = Release|x64
 		{A1CA61C5-7D1E-4F9A-9539-E00EE17489AA}.Release|x86.ActiveCfg = Release|Win32
 		{A1CA61C5-7D1E-4F9A-9539-E00EE17489AA}.Release|x86.Build.0 = Release|Win32
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Debug|x64.ActiveCfg = Debug|x64
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Debug|x64.Build.0 = Debug|x64
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Debug|x86.Build.0 = Debug|Win32
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Release|x64.ActiveCfg = Release|x64
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Release|x64.Build.0 = Release|x64
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Release|x86.ActiveCfg = Release|Win32
+		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
