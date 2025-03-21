@@ -4,23 +4,18 @@ using namespace std;
 
 int main()
 {
-        int a;
-        int b;
+    int a, b;
 
-        cout << "Enter A side of the rectangle: ";
-        cin >> a;
+    cout << "a=";
+    cin >> a;
 
-        cout << "Enter A side of the rectangle: ";
-        cin >> b;
+    cout << "b=";
+    cin >> b;
 
-        cout << "The perimeter of the rectangle is :"
-        cout << int c = 2*(a+b);
+    int c = a + b;
 
-        cout << "The face of the rectangle is :"
-        cout int d = a*b;
-
-        cout << "a+b= " << c << endl;
-        return 0;
+    cout << "a+b=" << c << endl;
+    return 0;
 }
 
 
