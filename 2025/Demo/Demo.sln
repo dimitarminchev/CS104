@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. Hello", "Hello\Hello.vcxproj", "{B474171F-9FCA-4CB9-AE00-D7A650EECDED}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Hello", "Hello\Hello.vcxproj", "{B474171F-9FCA-4CB9-AE00-D7A650EECDED}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. Suma", "Suma\Suma.vcxproj", "{A5130656-3206-40F0-A164-5908FBDAA1B6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Suma", "Suma\Suma.vcxproj", "{A5130656-3206-40F0-A164-5908FBDAA1B6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. Rectangle", "Rectangle\Rectangle.vcxproj", "{5292E1E2-9E0E-44A5-87A3-FB879263C90B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Rectangle", "Rectangle\Rectangle.vcxproj", "{5292E1E2-9E0E-44A5-87A3-FB879263C90B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. Circle", "Circle\Circle.vcxproj", "{36900230-5218-4DF9-985C-2F738EB30665}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Circle", "Circle\Circle.vcxproj", "{36900230-5218-4DF9-985C-2F738EB30665}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. Reverse", "Reverse\Reverse.vcxproj", "{CB9212E6-E119-4308-AF16-A70FD791422A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Reverse", "Reverse\Reverse.vcxproj", "{CB9212E6-E119-4308-AF16-A70FD791422A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. SquareEquation", "SquareEquation\SquareEquation.vcxproj", "{C875CF06-1706-4B13-8F80-8C3266F5E423}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. SquareEquation", "SquareEquation\SquareEquation.vcxproj", "{C875CF06-1706-4B13-8F80-8C3266F5E423}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. SquareEquation2", "SquareEquation2\SquareEquation2.vcxproj", "{40C612B7-0AAB-4F73-BCBA-9CF941363520}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07. SquareEquation2", "SquareEquation2\SquareEquation2.vcxproj", "{40C612B7-0AAB-4F73-BCBA-9CF941363520}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For", "For\For.vcxproj", "{840E3657-B43F-451D-8E06-AE9835F3C449}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09. For", "For\For.vcxproj", "{840E3657-B43F-451D-8E06-AE9835F3C449}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10. While", "While\While.vcxproj", "{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,14 @@ Global
 		{840E3657-B43F-451D-8E06-AE9835F3C449}.Release|x64.Build.0 = Release|x64
 		{840E3657-B43F-451D-8E06-AE9835F3C449}.Release|x86.ActiveCfg = Release|Win32
 		{840E3657-B43F-451D-8E06-AE9835F3C449}.Release|x86.Build.0 = Release|Win32
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Debug|x64.ActiveCfg = Debug|x64
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Debug|x64.Build.0 = Debug|x64
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Debug|x86.Build.0 = Debug|Win32
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Release|x64.ActiveCfg = Release|x64
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Release|x64.Build.0 = Release|x64
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Release|x86.ActiveCfg = Release|Win32
+		{CA14033F-B8AA-4DD9-B1B3-F1960FC2C6DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
