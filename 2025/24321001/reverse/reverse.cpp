@@ -1,4 +1,4 @@
-#define _USE_MATH_DEFINES
+#define _USE_MATH_DEFINES1111111111111111
 #include <iostream>
 #include <cmath>
 using namespace std;
