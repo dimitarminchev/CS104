@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e8931a69-00d7-41f9-9c00-bc9a70139b98}</ProjectGuid>
-    <RootNamespace>My123</RootNamespace>
+    <ProjectGuid>{a37c224c-c350-4cca-b1ed-389d56ef6fd3}</ProjectGuid>
+    <RootNamespace>DoWhile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="123.cpp" />
+    <ClCompile Include="DoWhile.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
