@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello", "Hello\Hello.vcxproj", "{66DE6424-3A17-4EED-BB64-A4406AC542AA}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "for", "for\for.vcxproj", "{2EB096EF-6B75-4B1C-A32E-20EC3BD23F9D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "while", "while\while.vcxproj", "{25EFB04A-7AB6-44C7-B200-4F5B8D3AD080}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "click", "click\click.vcxproj", "{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +103,14 @@ Global
 		{25EFB04A-7AB6-44C7-B200-4F5B8D3AD080}.Release|x64.Build.0 = Release|x64
 		{25EFB04A-7AB6-44C7-B200-4F5B8D3AD080}.Release|x86.ActiveCfg = Release|Win32
 		{25EFB04A-7AB6-44C7-B200-4F5B8D3AD080}.Release|x86.Build.0 = Release|Win32
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Debug|x64.ActiveCfg = Debug|x64
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Debug|x64.Build.0 = Debug|x64
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Debug|x86.Build.0 = Debug|Win32
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Release|x64.ActiveCfg = Release|x64
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Release|x64.Build.0 = Release|x64
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Release|x86.ActiveCfg = Release|Win32
+		{9E296C8F-C0DF-44CD-8660-AE7F8FBB91C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
