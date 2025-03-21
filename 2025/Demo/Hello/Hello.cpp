@@ -1,3 +1,4 @@
+﻿// 01. hello.cpp = Програма "Здравей свят!"
 #include <iostream>
 using namespace std;
 int main()
