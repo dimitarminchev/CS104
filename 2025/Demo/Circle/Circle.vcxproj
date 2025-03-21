@@ -24,7 +24,7 @@
     <ProjectGuid>{36900230-5218-4df9-985c-2f738eb30665}</ProjectGuid>
     <RootNamespace>Circle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>4. Circle</ProjectName>
+    <ProjectName>04. Circle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
