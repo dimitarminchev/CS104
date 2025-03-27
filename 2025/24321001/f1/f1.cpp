@@ -1,25 +1,27 @@
-#include <iostream>
+﻿#include <iostream>
 #include <cmath>
 using namespace std;
 
 
 int main()
 {
-	int n;
-	cout << "n = ";
-	cin >> n;
-
-	int x;
+	// Въвеждаме x и n
+	int x, n;
 	cout << "x = ";
 	cin >> x;
 
-	int sum = 0;
+	cout << "n = ";
+	cin >> n;
+
+	// Смятане на резултата
+	double sum = 0;
 
 	for (int k = 1; k <= n; k++)
 	{
-		double Ak = pow(x, k);
-		cout << Ak << endl;
+		sum = sum + pow(x, k);
 	}
 
+	// Отпечатване на резултата
+	cout << sum << endl;
 	return 0;
 }
