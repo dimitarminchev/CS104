@@ -24,6 +24,7 @@
     <ProjectGuid>{1f3ca426-98fb-415e-a194-f2fe527d8881}</ProjectGuid>
     <RootNamespace>forloopalgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>09. for_loop_algorithm</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
