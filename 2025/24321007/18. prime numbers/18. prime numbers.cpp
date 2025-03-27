@@ -1,0 +1,29 @@
+// 18. prime numbers.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+using namespace std;
+int main()
+
+{
+	int n;
+	cout << "n=";
+	cin >> n;
+
+	for (int k = 2; k < n; k++)
+	{
+		bool isPrime = true;
+
+
+		for (int j = 2; j <= k - 1; j++)
+		{
+			if (k % j == 0) isPrime = false;
+		}
+
+		if (isPrime) cout << k << " ";
+
+		return 0;
+	}
+}
+
+
