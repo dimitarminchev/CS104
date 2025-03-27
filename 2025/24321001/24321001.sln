@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello", "Hello\Hello.vcxproj", "{DAEF2FDE-3BE9-4A51-810C-5ADF9DA5768C}"
 EndProject
@@ -24,6 +24,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "do while algorithm", "do while algorithm\do while algorithm.vcxproj", "{A1CA61C5-7D1E-4F9A-9539-E00EE17489AA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "click game", "click game\click game.vcxproj", "{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonacci", "fibonacci\fibonacci.vcxproj", "{A2B9963F-20FD-4C09-A611-B5DF3599C05D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sum_upto", "sum up to\sum up to.vcxproj", "{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "primes", "primes\primes.vcxproj", "{F0A9D529-B687-40B7-B24C-BFE77218F899}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +127,30 @@ Global
 		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Release|x64.Build.0 = Release|x64
 		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Release|x86.ActiveCfg = Release|Win32
 		{1BB274BC-46D9-47A5-8502-58F7BF1B1CC6}.Release|x86.Build.0 = Release|Win32
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Debug|x64.ActiveCfg = Debug|x64
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Debug|x64.Build.0 = Debug|x64
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Debug|x86.Build.0 = Debug|Win32
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Release|x64.ActiveCfg = Release|x64
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Release|x64.Build.0 = Release|x64
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Release|x86.ActiveCfg = Release|Win32
+		{A2B9963F-20FD-4C09-A611-B5DF3599C05D}.Release|x86.Build.0 = Release|Win32
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Debug|x64.ActiveCfg = Debug|x64
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Debug|x64.Build.0 = Debug|x64
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Debug|x86.Build.0 = Debug|Win32
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Release|x64.ActiveCfg = Release|x64
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Release|x64.Build.0 = Release|x64
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Release|x86.ActiveCfg = Release|Win32
+		{45B7C8B0-CA73-453E-AA6A-69FFB5550FC4}.Release|x86.Build.0 = Release|Win32
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Debug|x64.ActiveCfg = Debug|x64
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Debug|x64.Build.0 = Debug|x64
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Debug|x86.Build.0 = Debug|Win32
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Release|x64.ActiveCfg = Release|x64
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Release|x64.Build.0 = Release|x64
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Release|x86.ActiveCfg = Release|Win32
+		{F0A9D529-B687-40B7-B24C-BFE77218F899}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
