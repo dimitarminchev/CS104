@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23.f2", "23.f2\23.f2.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24. factoriel", "24. factoriel\24. factoriel.vcxproj", "{33E9C71B-4500-495A-A43C-637435A3C47E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tototo", "tototo\tototo.vcxproj", "{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{33E9C71B-4500-495A-A43C-637435A3C47E}.Release|x64.Build.0 = Release|x64
 		{33E9C71B-4500-495A-A43C-637435A3C47E}.Release|x86.ActiveCfg = Release|Win32
 		{33E9C71B-4500-495A-A43C-637435A3C47E}.Release|x86.Build.0 = Release|Win32
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Debug|x64.ActiveCfg = Debug|x64
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Debug|x64.Build.0 = Debug|x64
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Debug|x86.Build.0 = Debug|Win32
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Release|x64.ActiveCfg = Release|x64
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Release|x64.Build.0 = Release|x64
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Release|x86.ActiveCfg = Release|Win32
+		{04DFAB82-C0FA-4211-8BEF-995FBAD44BB1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
