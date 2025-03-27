@@ -2,27 +2,24 @@
 #include <cmath>
 using namespace std;
 
+int fak(int n)
+{
+	if (n == 1)	return 1;
+	else return n * fak(n - 1);
+}
+
 
 int main()
 {
-	// Въвеждаме x и n
-	int x, n;
+	// Въвеждаме x
+	int x;
 	cout << "x = ";
 	cin >> x;
 
-	cout << "n = ";
-	cin >> n;
-
 	// Смятане на резултата
-	double sum = 0;
-
-	for (int k = 1; k <= n; k++)
-	{
-		double f = pow(-1, k) * pow(x, k);
-		sum += f;
-	}
+	double result = fak(x);
 
 	// Отпечатване на резултата
-	cout << sum << endl;
+	cout << "fak(x) = " << result << endl;
 	return 0;
 }
