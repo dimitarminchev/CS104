@@ -1,21 +1,21 @@
 #include <iostream>
 using namespace std;
 
-int step2(int n)
+unsigned long step2(unsigned long n)
 {
     if (n == 1) return 2;
     else return 2 * step2(n - 1);
 }
 
-int main()
+unsigned  long main()
 {
  
     
-    int n;
-    cout << "vuvedi n brato ";
+    unsigned  long n;
+    cout << "Enter power: ";
     cin >> n;
     
-    for (int k = 1; k <= n; k++)
+    for (unsigned long k = 1; k <= n; k++)
     {
         cout << "2^" << k << "=" << step2(k) << endl;
     }
