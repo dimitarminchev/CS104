@@ -8,7 +8,7 @@ int main()
     int matrixA[3][3], matrixB[3][3], matrixC[3][3];
 
     // Въвеждаме от клавиатурата матрица А
-    for (int x = 0; x < 3; x++) 
+    for (int x = 0; x < 3; x++)
         for (int y = 0; y < 3; y++)
             cin >> matrixA[x][y];
 
@@ -22,7 +22,7 @@ int main()
     {
         for (int y = 0; y < 3; y++)
         {
-            matrixC[x][y] = matrixA[x][y] * matrixB[x][y];
+            matrixC[x][y] = matrixA[x][y] + matrixB[x][y];
             cout << matrixC[x][y] << "\t";
         }
         cout << "\n";
