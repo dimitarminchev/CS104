@@ -2,13 +2,14 @@
 #include <cmath>
 using namespace std;
 
-int fak(int n)
+	// Рекурсивна функция за намиране на факториел
+double fak(int n)
 {
 	if (n == 1)	return 1;
 	else return n * fak(n - 1);
 }
 
-
+	// Главна функция
 int main()
 {
 	// Въвеждаме x
