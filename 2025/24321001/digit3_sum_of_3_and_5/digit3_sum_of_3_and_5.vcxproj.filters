@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Suma.cpp">
+    <ClCompile Include="digit3_sum_of_3_and_5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
