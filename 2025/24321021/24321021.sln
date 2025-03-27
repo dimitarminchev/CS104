@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverse.cpp", "reverse.cpp\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sequare eqation", "sequare eqation\sequare eqation.vcxproj", "{164EFE60-2943-46BC-8F8A-B723B0C5F8DB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reatngle", "reatngle\reatngle.vcxproj", "{759E8147-EDBB-44A3-A141-CEE0A7969C3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{164EFE60-2943-46BC-8F8A-B723B0C5F8DB}.Release|x64.Build.0 = Release|x64
 		{164EFE60-2943-46BC-8F8A-B723B0C5F8DB}.Release|x86.ActiveCfg = Release|Win32
 		{164EFE60-2943-46BC-8F8A-B723B0C5F8DB}.Release|x86.Build.0 = Release|Win32
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Debug|x64.ActiveCfg = Debug|x64
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Debug|x64.Build.0 = Debug|x64
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Debug|x86.Build.0 = Debug|Win32
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Release|x64.ActiveCfg = Release|x64
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Release|x64.Build.0 = Release|x64
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Release|x86.ActiveCfg = Release|Win32
+		{759E8147-EDBB-44A3-A141-CEE0A7969C3D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
