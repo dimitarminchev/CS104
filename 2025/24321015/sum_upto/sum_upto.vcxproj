@@ -24,6 +24,7 @@
     <ProjectGuid>{02f0544e-4e82-4ce4-9069-c16967cba90d}</ProjectGuid>
     <RootNamespace>sumupto</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>13sum_upto</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
