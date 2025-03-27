@@ -24,6 +24,7 @@
     <ProjectGuid>{69c16759-d6f1-4997-861d-b542eca7fe06}</ProjectGuid>
     <RootNamespace>fakupto</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14fak_upto</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

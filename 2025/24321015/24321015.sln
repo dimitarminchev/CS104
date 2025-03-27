@@ -5,53 +5,55 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.1Hello", "Hello\Hello.vcxproj", "{63C9DC19-6D27-41C0-872A-C9CEF5C8B4C6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Suma", "Suma\Suma.vcxproj", "{2F32516F-68C5-497C-ADEC-260034A1B5B9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.2Suma", "Suma\Suma.vcxproj", "{2F32516F-68C5-497C-ADEC-260034A1B5B9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rectangle3", "Rectangle3\Rectangle3.vcxproj", "{19FDACB6-0C9E-4FAC-8C58-1125CA6788BB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.3Rectangle", "Rectangle3\Rectangle3.vcxproj", "{19FDACB6-0C9E-4FAC-8C58-1125CA6788BB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circle", "Circle\Circle.vcxproj", "{55E3D0B6-74A1-4413-87B0-1F054A5EA21F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.4Circle", "Circle\Circle.vcxproj", "{55E3D0B6-74A1-4413-87B0-1F054A5EA21F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Square_equation", "Square_equation\Square_equation.vcxproj", "{CD136961-2C10-41C2-BAC2-37B94198243F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.6Square_equation", "Square_equation\Square_equation.vcxproj", "{CD136961-2C10-41C2-BAC2-37B94198243F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse", "Reverse\Reverse.vcxproj", "{096E3BCB-27A7-418B-A2A2-B7D4AD8D37B9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.5Reverse", "Reverse\Reverse.vcxproj", "{096E3BCB-27A7-418B-A2A2-B7D4AD8D37B9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Square_equation2", "Square_equation2\Square_equation2.vcxproj", "{BB6E41FD-0FC6-4134-8769-6B6F90D429B9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.7Square_equation2", "Square_equation2\Square_equation2.vcxproj", "{BB6E41FD-0FC6-4134-8769-6B6F90D429B9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For", "For\For.vcxproj", "{7999DBE2-B46B-42A8-A336-88A0046CCCE1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.9For", "For\For.vcxproj", "{7999DBE2-B46B-42A8-A336-88A0046CCCE1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "While", "While\While.vcxproj", "{62A1ACD3-E4BF-4D44-8F89-86A278AB705A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10While", "While\While.vcxproj", "{62A1ACD3-E4BF-4D44-8F89-86A278AB705A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoWhile", "DoWhile\DoWhile.vcxproj", "{A37C224C-C350-4CCA-B1ED-389D56EF6FD3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11DoWhile", "DoWhile\DoWhile.vcxproj", "{A37C224C-C350-4CCA-B1ED-389D56EF6FD3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Click", "Click\Click.vcxproj", "{57B56486-DE88-4D70-BB5C-F2CA200084D0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12Click", "Click\Click.vcxproj", "{57B56486-DE88-4D70-BB5C-F2CA200084D0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sum_upto", "sum_upto\sum_upto.vcxproj", "{02F0544E-4E82-4CE4-9069-C16967CBA90D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13sum_upto", "sum_upto\sum_upto.vcxproj", "{02F0544E-4E82-4CE4-9069-C16967CBA90D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fak_upto", "fak_upto\fak_upto.vcxproj", "{69C16759-D6F1-4997-861D-B542ECA7FE06}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14fak_upto", "fak_upto\fak_upto.vcxproj", "{69C16759-D6F1-4997-861D-B542ECA7FE06}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "digit3_ sum_of_3_and_5", "digit3_ sum_of_3_and_5\digit3_ sum_of_3_and_5.vcxproj", "{6A250E37-0DD5-46F6-B115-1D04C33EC89A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15digit3_ sum_of_3_and_5", "digit3_ sum_of_3_and_5\digit3_ sum_of_3_and_5.vcxproj", "{6A250E37-0DD5-46F6-B115-1D04C33EC89A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "digit4_special", "digit4_special\digit4_special.vcxproj", "{A0613FD0-8A8C-47FC-B131-CA4E3E783F44}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16digit4_special", "digit4_special\digit4_special.vcxproj", "{A0613FD0-8A8C-47FC-B131-CA4E3E783F44}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonacci", "fibonacci\fibonacci.vcxproj", "{55F9643B-F8C8-49CC-81A3-D6B4DC2DA172}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17fibonacci", "fibonacci\fibonacci.vcxproj", "{55F9643B-F8C8-49CC-81A3-D6B4DC2DA172}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "primes", "primes\primes.vcxproj", "{1F4448F9-42B8-4FB2-9466-AAE6443463FD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18primes", "primes\primes.vcxproj", "{1F4448F9-42B8-4FB2-9466-AAE6443463FD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "an1", "an1\an1.vcxproj", "{E0E3B0E8-2395-4933-98F0-17C739DEEB17}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19an1", "an1\an1.vcxproj", "{E0E3B0E8-2395-4933-98F0-17C739DEEB17}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "an2", "an2\an2.vcxproj", "{FF49A487-DD73-45B2-A2B4-44D9C93053FC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20an2", "an2\an2.vcxproj", "{FF49A487-DD73-45B2-A2B4-44D9C93053FC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "an3", "an3\an3.vcxproj", "{A307D153-3CE3-4E03-A800-E8CC77F5B7DC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21an3", "an3\an3.vcxproj", "{A307D153-3CE3-4E03-A800-E8CC77F5B7DC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "f1", "f1\f1.vcxproj", "{566E9D2A-CF90-47D6-A699-00D237F1027F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22f1", "f1\f1.vcxproj", "{566E9D2A-CF90-47D6-A699-00D237F1027F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "f2", "f2\f2.vcxproj", "{9C83F83F-FBF2-4387-A313-06F3948A3F06}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23f2", "f2\f2.vcxproj", "{9C83F83F-FBF2-4387-A313-06F3948A3F06}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "faktoriel", "faktoriel\faktoriel.vcxproj", "{772353A0-5556-4348-96BE-975D9C6022A9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24faktoriel", "faktoriel\faktoriel.vcxproj", "{772353A0-5556-4348-96BE-975D9C6022A9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Combinations", "Combinations\Combinations.vcxproj", "{45FE98A9-50CB-4BD3-827B-B66DE1318AA0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25Combinations", "Combinations\Combinations.vcxproj", "{45FE98A9-50CB-4BD3-827B-B66DE1318AA0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "step2", "step2\step2.vcxproj", "{C09E9CF1-7C9A-4D02-B150-4BE90AFD14A6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26step2", "step2\step2.vcxproj", "{C09E9CF1-7C9A-4D02-B150-4BE90AFD14A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27fibonacci2", "27fibonacci2\27fibonacci2.vcxproj", "{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,14 @@ Global
 		{C09E9CF1-7C9A-4D02-B150-4BE90AFD14A6}.Release|x64.Build.0 = Release|x64
 		{C09E9CF1-7C9A-4D02-B150-4BE90AFD14A6}.Release|x86.ActiveCfg = Release|Win32
 		{C09E9CF1-7C9A-4D02-B150-4BE90AFD14A6}.Release|x86.Build.0 = Release|Win32
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Debug|x64.ActiveCfg = Debug|x64
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Debug|x64.Build.0 = Debug|x64
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Debug|x86.Build.0 = Debug|Win32
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Release|x64.ActiveCfg = Release|x64
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Release|x64.Build.0 = Release|x64
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Release|x86.ActiveCfg = Release|Win32
+		{5EAAC0DB-6D45-45FC-8C49-E6F6C151E45B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
