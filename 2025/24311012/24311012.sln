@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24 factoriel", "24 factorie
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25 combinations", "25 combinations\25 combinations.vcxproj", "{63A7F0F5-008E-40F7-BF1D-A23CFA48A783}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26 step 2", "26 step 2\26 step 2.vcxproj", "{7F97622A-A309-477F-AE9D-055AC978B522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{63A7F0F5-008E-40F7-BF1D-A23CFA48A783}.Release|x64.Build.0 = Release|x64
 		{63A7F0F5-008E-40F7-BF1D-A23CFA48A783}.Release|x86.ActiveCfg = Release|Win32
 		{63A7F0F5-008E-40F7-BF1D-A23CFA48A783}.Release|x86.Build.0 = Release|Win32
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Debug|x64.ActiveCfg = Debug|x64
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Debug|x64.Build.0 = Debug|x64
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Debug|x86.Build.0 = Debug|Win32
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Release|x64.ActiveCfg = Release|x64
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Release|x64.Build.0 = Release|x64
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Release|x86.ActiveCfg = Release|Win32
+		{7F97622A-A309-477F-AE9D-055AC978B522}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
