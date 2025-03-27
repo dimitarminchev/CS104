@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Step2", "Step2\Step2.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci2", "Fibonacci2\Fibonacci2.vcxproj", "{B6B1ABC0-EAAD-464C-ABBD-BD083E25E987}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bubble_sort", "Bubble_sort\Bubble_sort.vcxproj", "{6694DFCF-E490-4D95-B02F-242F818351E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{B6B1ABC0-EAAD-464C-ABBD-BD083E25E987}.Release|x64.Build.0 = Release|x64
 		{B6B1ABC0-EAAD-464C-ABBD-BD083E25E987}.Release|x86.ActiveCfg = Release|Win32
 		{B6B1ABC0-EAAD-464C-ABBD-BD083E25E987}.Release|x86.Build.0 = Release|Win32
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Debug|x64.ActiveCfg = Debug|x64
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Debug|x64.Build.0 = Debug|x64
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Debug|x86.Build.0 = Debug|Win32
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Release|x64.ActiveCfg = Release|x64
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Release|x64.Build.0 = Release|x64
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Release|x86.ActiveCfg = Release|Win32
+		{6694DFCF-E490-4D95-B02F-242F818351E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
