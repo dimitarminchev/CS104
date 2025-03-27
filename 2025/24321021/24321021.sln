@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "square equasion 2.cpp", "sq
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17 zadca", "17 zadca\17 zadca.vcxproj", "{C15BDCE4-E245-4808-BA7B-1A93D37E01ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18 zadaca", "18 zadaca\18 zadaca.vcxproj", "{2B3A007F-DE45-4561-8276-A39E6B649CB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{C15BDCE4-E245-4808-BA7B-1A93D37E01ED}.Release|x64.Build.0 = Release|x64
 		{C15BDCE4-E245-4808-BA7B-1A93D37E01ED}.Release|x86.ActiveCfg = Release|Win32
 		{C15BDCE4-E245-4808-BA7B-1A93D37E01ED}.Release|x86.Build.0 = Release|Win32
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Debug|x64.ActiveCfg = Debug|x64
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Debug|x64.Build.0 = Debug|x64
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Debug|x86.Build.0 = Debug|Win32
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Release|x64.ActiveCfg = Release|x64
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Release|x64.Build.0 = Release|x64
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Release|x86.ActiveCfg = Release|Win32
+		{2B3A007F-DE45-4561-8276-A39E6B649CB8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
