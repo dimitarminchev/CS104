@@ -18,7 +18,7 @@ int main()
 
 	for (int k = 1; k <= n; k++)
 	{
-		cout << "2^" << k << " = " << step2(k) << endl;
+		printf("2^%d = %d\n", k, step2(k));
 	}
 
 }

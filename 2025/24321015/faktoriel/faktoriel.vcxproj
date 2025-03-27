@@ -24,6 +24,7 @@
     <ProjectGuid>{772353a0-5556-4348-96be-975d9c6022a9}</ProjectGuid>
     <RootNamespace>faktoriel</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>24faktoriel</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
