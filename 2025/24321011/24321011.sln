@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13-та задача sum_up
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14-та задача fal", "14-та задача fal\14-та задача fal.vcxproj", "{66BF0EAD-6A09-4056-A6E7-F1D58F62322A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14-та задача fak_upto", "14-та задача fak_upto\14-та задача fak_upto.vcxproj", "{367708E3-6E95-478D-B9AD-8BEBDA462FB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{66BF0EAD-6A09-4056-A6E7-F1D58F62322A}.Release|x64.Build.0 = Release|x64
 		{66BF0EAD-6A09-4056-A6E7-F1D58F62322A}.Release|x86.ActiveCfg = Release|Win32
 		{66BF0EAD-6A09-4056-A6E7-F1D58F62322A}.Release|x86.Build.0 = Release|Win32
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Debug|x64.ActiveCfg = Debug|x64
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Debug|x64.Build.0 = Debug|x64
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Debug|x86.Build.0 = Debug|Win32
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Release|x64.ActiveCfg = Release|x64
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Release|x64.Build.0 = Release|x64
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Release|x86.ActiveCfg = Release|Win32
+		{367708E3-6E95-478D-B9AD-8BEBDA462FB5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
