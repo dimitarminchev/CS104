@@ -23,7 +23,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10. While", "While\While.vc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11. DoWhile", "DoWhile\DoWhile.vcxproj", "{65CD5BFF-EDBB-4B2C-ABB9-4C394CA4DD8D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Click", "Click\Click.vcxproj", "{B2984816-6BA2-4F65-A446-4961C43998F3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12. Click", "Click\Click.vcxproj", "{B2984816-6BA2-4F65-A446-4961C43998F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13. sum_upto", "13. sum_upto\13. sum_upto.vcxproj", "{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,14 @@ Global
 		{B2984816-6BA2-4F65-A446-4961C43998F3}.Release|x64.Build.0 = Release|x64
 		{B2984816-6BA2-4F65-A446-4961C43998F3}.Release|x86.ActiveCfg = Release|Win32
 		{B2984816-6BA2-4F65-A446-4961C43998F3}.Release|x86.Build.0 = Release|Win32
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Debug|x64.ActiveCfg = Debug|x64
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Debug|x64.Build.0 = Debug|x64
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Debug|x86.Build.0 = Debug|Win32
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Release|x64.ActiveCfg = Release|x64
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Release|x64.Build.0 = Release|x64
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Release|x86.ActiveCfg = Release|Win32
+		{85D09F06-CAAE-48AE-90DC-E02A913FA1BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
