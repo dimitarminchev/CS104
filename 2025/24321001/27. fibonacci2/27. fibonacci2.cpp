@@ -12,13 +12,20 @@ int step2(int n)
 // Главна функция
 int main()
 {
-	int n;
-	cout << "n = ";
-	cin >> n;
 
-	for (int k = 1; k <= n; k++)
+	// Създаваме масив с 10 елемента, и първите два са единици
+	int fibArr[10] = { 1,1 };
+
+	// Изчисляване на останалите елементи
+	for (int k = 2; k < 10; k++)
 	{
-		printf("2^%d = %d\n", k, step2(k));
+		fibArr[k] = fibArr[k - 2] + fibArr[k - 1];
+	}
+
+	// Отпечатване на резултата
+	for (int k = 0; k < 10; k++)
+	{
+		printf("%d ", fibArr[k]);
 	}
 
 }
