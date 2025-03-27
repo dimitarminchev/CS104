@@ -3,7 +3,7 @@
 using namespace std;
 
 // Рекурсивна функция за намиране степен на двойката
-	int step2(int n)
+int step2(int n)
 {
 	if (n == 1)	return 2;
 	else return 2 * step2(n - 1);
