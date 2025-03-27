@@ -19,7 +19,7 @@ int main()
 			C[x][y] = A[x][y] * B[x][y];
 			cout << C[x][y] << "\t";
 		}
-		cout << "\n"; // cout << endl;
+		cout << "\n";
 	}
 	return 0;
 }
