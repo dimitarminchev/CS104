@@ -16,7 +16,7 @@ int main()
 	{
 		for (int y = 0; y < 3; y++)
 		{
-			C[x][y] = A[x][y] * B[x][y];
+			C[x][y] = A[x][y] + B[x][y];
 			cout << C[x][y] << "\t";
 		}
 		cout << "\n"; // cout << endl;
