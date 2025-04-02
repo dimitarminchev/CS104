@@ -2,8 +2,6 @@
 using namespace std;
 int main()
 {
-   cout << "Teodora Teodosieva Todorova!\n";
+    cout << "Todor Todorov Popov" << endl;
     return 0;
 }
-
-
