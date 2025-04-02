@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Rechtangle", "03_Rechtan
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Circle", "04_Circle\04_Circle.vcxproj", "{1F9E8647-F4B7-4724-A22C-3AE6082BC8D9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Money_in_your_pocket", "05_Money_in_your_pocket\05_Money_in_your_pocket.vcxproj", "{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{1F9E8647-F4B7-4724-A22C-3AE6082BC8D9}.Release|x64.Build.0 = Release|x64
 		{1F9E8647-F4B7-4724-A22C-3AE6082BC8D9}.Release|x86.ActiveCfg = Release|Win32
 		{1F9E8647-F4B7-4724-A22C-3AE6082BC8D9}.Release|x86.Build.0 = Release|Win32
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Debug|x64.ActiveCfg = Debug|x64
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Debug|x64.Build.0 = Debug|x64
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Debug|x86.Build.0 = Debug|Win32
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Release|x64.ActiveCfg = Release|x64
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Release|x64.Build.0 = Release|x64
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Release|x86.ActiveCfg = Release|Win32
+		{4C75DD80-24C1-418B-BEE4-CE5DD53CF3CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
