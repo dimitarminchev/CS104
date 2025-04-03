@@ -1,4 +1,4 @@
-#include <iostream>
+// Moneti d dgoba
 using namespace std;
 int main()
 {

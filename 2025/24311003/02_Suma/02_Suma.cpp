@@ -1,4 +1,4 @@
-#include <iostream>
+// Suma na dve celi chisla
 using namespace std;
 int main()
 {
