@@ -12,17 +12,17 @@ int main()
 
     cout << "m20 =";
     cin >> m20;
-     
+
     cout << "m50 =";
     cin >> m50;
 
     cout << "m1 =";
     cin >> m1;
-     
+
     cout << "m2 =";
     cin >> m2;
 
     float c = (m05 * 0.05) + (m10 * 0.1) + (m20 * 0.2) + (m50 * 0.5) + (m1 * 1) + (m2 * 2);
     cout << "total=" << c << endl;
-    return 0; 
+    return 0;
 }
