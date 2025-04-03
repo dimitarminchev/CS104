@@ -12,7 +12,7 @@ int main()
 	cin >> a >> b >> c;
 
 	// Изисляваме квадратното уравнение
-	float d = pow(b, 2) + (4 * a * c);
+	float d = pow(b, 2) - (4 * a * c);
 	float x1 = ((-b) + sqrt(d)) / (2 * a);
 	float x2 = ((-b) - sqrt(d)) / (2 * a);
 
