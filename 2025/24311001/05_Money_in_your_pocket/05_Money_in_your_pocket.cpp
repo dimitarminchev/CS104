@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int main()
-
 {
     int m05, m10, m20, m50, m1, m2;
 
