@@ -1,4 +1,4 @@
-#include <iostream>
+// Otcepvane na cifrite na triciferno chislo
 using namespace std;
 int main()
 {

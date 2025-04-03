@@ -1,5 +1,4 @@
-// 01_Hello.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Zdravei svyat
 
 #include <iostream>
 using namespace std;
