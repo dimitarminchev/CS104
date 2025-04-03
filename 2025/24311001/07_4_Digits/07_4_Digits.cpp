@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
+
 {
     int n;
     cout << "Enter 4 digit number:" << endl;
