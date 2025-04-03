@@ -1,4 +1,4 @@
-#include <iostream>
+// lice i perimeter na pravoigilnik
 using namespace std;
 int main()
 {

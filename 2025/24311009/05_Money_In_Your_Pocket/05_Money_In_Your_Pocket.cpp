@@ -12,13 +12,13 @@ int main()
 
     cout << "m20 =";
     cin >> m20;
-
+     
     cout << "m50 =";
     cin >> m50;
 
     cout << "m1 =";
     cin >> m1;
-
+     
     cout << "m2 =";
     cin >> m2;
 

@@ -14,6 +14,6 @@ int main()
     cout << "p=" << p << endl;
     cout << "s=" << s << endl;
     cout << "v=" << v << endl;
-
+      
     return 0;
 }

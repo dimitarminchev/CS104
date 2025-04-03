@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6039ca30-1c48-43d1-84ba-9fc546afd57f}</ProjectGuid>
-    <RootNamespace>z3</RootNamespace>
+    <ProjectGuid>{23549423-4d8c-4116-b15a-383c83c10cc0}</ProjectGuid>
+    <RootNamespace>My074digits</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="z3.cpp" />
+    <ClCompile Include="07_4digits.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
