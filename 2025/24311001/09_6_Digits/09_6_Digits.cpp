@@ -11,7 +11,7 @@ int main()
     int b = (n / 1000) % 10;
     int c = (n / 10) % 10;
 
-    int d = a * b * c;
-    cout << d << endl;
+    int p = a * b * c;
+    cout << p << endl;
     return 0;
 }
