@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d4a9a731-74d9-4b00-bd5e-3281961cf812}</ProjectGuid>
-    <RootNamespace>My05Circle</RootNamespace>
+    <ProjectGuid>{3cd71a6b-265b-493b-af3a-43fbb7107cf0}</ProjectGuid>
+    <RootNamespace>My05Money</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="05_Circle.cpp" />
+    <ClCompile Include="05_Money.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
