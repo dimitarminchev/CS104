@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="05_Circle.cpp">
+    <ClCompile Include="11_square_equation_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
