@@ -24,5 +24,5 @@ int main()
 
     float c = (m05 * 0.05) + (m10 * 0.1) + (m20 * 0.2) + (m50 * 0.5) + (m1 * 1) + (m2 * 2);
     cout << "total=" << c << endl;
-    return 0;
+    return 0; 
 }
