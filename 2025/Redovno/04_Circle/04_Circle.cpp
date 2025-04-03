@@ -1,4 +1,5 @@
-﻿#include <iostream> 
+﻿// Намиране на лице, периметър и обем на кръг и сфера
+#include <iostream> 
 using namespace std;
 int main()
 {

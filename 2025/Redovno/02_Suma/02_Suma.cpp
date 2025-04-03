@@ -1,4 +1,5 @@
-﻿#include <iostream> 
+﻿// Сума на две цели числа
+#include <iostream> 
 using namespace std;
 int main()
 {
