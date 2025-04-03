@@ -7,7 +7,7 @@ int main()
 	vector<int>counts(denominations.size());
 
 	cout << "Vuvedete broq na monetite i banknotite:\n";
-	for (size_t i = 0; i < denominations.size(); i++)
+	for (size_t i = 0; i < denominations.size(); i++) 
 	{ 
 		cout << denominations[i] << "lv";
 		cin >> counts[i];
