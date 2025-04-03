@@ -12,7 +12,7 @@ int main()
 
     int c = a + b;
     cout << "a+b=" << c << endl;
-
+ 
     return 0;
 }
 

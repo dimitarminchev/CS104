@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="z3.cpp">
+    <ClCompile Include="07_4_Digits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
