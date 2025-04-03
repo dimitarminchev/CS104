@@ -1,7 +1,8 @@
-// Moneti d dgoba
+// Moneti v dgoba
 using namespace std;
 int main()
 {
+
     float a, b, c, d, e, f;
     cout << "a=";
     cin >> a;
