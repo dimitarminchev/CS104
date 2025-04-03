@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "..\C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Money_in_your_pocket", "..\05_Money_in_your_pocket\05_Money_in_your_pocket.vcxproj", "{9933BA34-838F-483C-91AB-313B838B5691}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_5_Digits", "..\08_5_Digits\08_5_Digits.vcxproj", "{74CBA467-4F6B-4690-8E04-8B585714887C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{9933BA34-838F-483C-91AB-313B838B5691}.Release|x64.Build.0 = Release|x64
 		{9933BA34-838F-483C-91AB-313B838B5691}.Release|x86.ActiveCfg = Release|Win32
 		{9933BA34-838F-483C-91AB-313B838B5691}.Release|x86.Build.0 = Release|Win32
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Debug|x64.ActiveCfg = Debug|x64
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Debug|x64.Build.0 = Debug|x64
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Debug|x86.ActiveCfg = Debug|Win32
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Debug|x86.Build.0 = Debug|Win32
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Release|x64.ActiveCfg = Release|x64
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Release|x64.Build.0 = Release|x64
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Release|x86.ActiveCfg = Release|Win32
+		{74CBA467-4F6B-4690-8E04-8B585714887C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
