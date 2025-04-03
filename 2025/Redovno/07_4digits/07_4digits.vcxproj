@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7782d575-adde-4c9d-b56b-f1a6093e77da}</ProjectGuid>
-    <RootNamespace>My03perimetr</RootNamespace>
+    <ProjectGuid>{b80085b2-d22e-4cb4-98d7-9e9d2fda34e7}</ProjectGuid>
+    <RootNamespace>My074digits</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="03_perimetr.cpp" />
+    <ClCompile Include="07_4digits.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

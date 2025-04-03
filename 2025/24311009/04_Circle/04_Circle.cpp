@@ -11,9 +11,9 @@ int main()
     float s = 3.1415 * r * r;
     float v = (4.0/3.0) + 3.1415 * r * r * r;
 
-    cout << "p=" << s << endl;
+    cout << "p=" << p << endl;
     cout << "s=" << s << endl;
-    cout << "v=" << s << endl;
-
+    cout << "v=" << v << endl;
+      
     return 0;
 }

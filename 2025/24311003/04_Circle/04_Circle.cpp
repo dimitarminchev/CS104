@@ -1,7 +1,8 @@
-#include <iostream>
+// Namirane na lice, perimeter i obem na krig i sfera
 using namespace std;
 int main()
 {
+
 	float r;
 
 	cout << "r=";
