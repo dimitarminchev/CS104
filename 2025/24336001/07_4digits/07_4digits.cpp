@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    
     int n;
     cout << "Please, enter 4 digit number:" << endl;
     cin >> n;
