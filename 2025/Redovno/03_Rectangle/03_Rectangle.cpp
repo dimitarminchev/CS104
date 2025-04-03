@@ -1,4 +1,5 @@
-﻿#include <iostream> 
+﻿// Лице и периметър на правоъгълник
+#include <iostream> 
 using namespace std;
 int main()
 {
