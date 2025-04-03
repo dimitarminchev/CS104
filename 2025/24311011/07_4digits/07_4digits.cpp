@@ -1,8 +1,9 @@
-﻿#include <iostream>
+﻿﻿#include <iostream>
+
 using namespace std;
 int main()
 {
-// Декларираме променлива, цяло число
+	// Декларираме променлива, цяло число
 	int n;
 
 	// Извеждаме подканващ текст и въвеждаме числото
@@ -20,8 +21,8 @@ int main()
 	int p = a * b * c * d;
 
 	// Извеждаме получения резултат
-	cout << s << " " << p << endl; 
-
+	cout << s << "" << p << endl;
 	return 0;
 
 }
+
