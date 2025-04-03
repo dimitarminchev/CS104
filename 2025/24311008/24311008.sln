@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Rectangle", "03_Rectangl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_circle", "04_circle\04_circle.vcxproj", "{80B9CBC9-D533-46D9-BC4E-A3A8BD3FECAE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Money_in_your_pocket", "05_Money_in_your_pocket\05_Money_in_your_pocket.vcxproj", "{804451A4-52E2-45D2-9957-FEF3AF6201F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{80B9CBC9-D533-46D9-BC4E-A3A8BD3FECAE}.Release|x64.Build.0 = Release|x64
 		{80B9CBC9-D533-46D9-BC4E-A3A8BD3FECAE}.Release|x86.ActiveCfg = Release|Win32
 		{80B9CBC9-D533-46D9-BC4E-A3A8BD3FECAE}.Release|x86.Build.0 = Release|Win32
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Debug|x64.ActiveCfg = Debug|x64
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Debug|x64.Build.0 = Debug|x64
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Debug|x86.Build.0 = Debug|Win32
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Release|x64.ActiveCfg = Release|x64
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Release|x64.Build.0 = Release|x64
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Release|x86.ActiveCfg = Release|Win32
+		{804451A4-52E2-45D2-9957-FEF3AF6201F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
