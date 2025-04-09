@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     float rate, invest;
+
     
     cout << "Bank interest rates :" << endl;
     cout << "1. 2,3%" << endl;
