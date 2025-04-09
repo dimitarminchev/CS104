@@ -21,7 +21,7 @@ int main()
         cout << "The perimether of the square is " << 4 * a << endl;
         cout << "The surface of the square is " << a * a << endl;
     }
-    if (n == 2)
+    if (n == 2) 
     {
         cout << "Thank you, you have selected figure RECTANGLE!" << endl;
         int a, b;
