@@ -1,4 +1,4 @@
-//Diljim danik kim NAP
+//Diljim danik kim NAP za 2016
 #include <iostream>
 using namespace std;
 int main()
