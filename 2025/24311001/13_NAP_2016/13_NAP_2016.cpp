@@ -1,4 +1,3 @@
-//Diljim danik kim NAP za 2016
 #include <iostream>
 using namespace std;
 int main()
@@ -14,6 +13,6 @@ int main()
 	else tax = 1072 + (income - 7200) * 0.22;
 
 	cout << "Tax = " << tax << endl;
-
 	return 0;
 }
+
