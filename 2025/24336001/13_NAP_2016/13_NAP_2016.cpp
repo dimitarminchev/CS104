@@ -14,5 +14,7 @@ int main()
     else  tax = 1072 + (income - 7200) * 0.22;
 
     cout << "Tax = " << tax << endl;
+
+    return 0
 }
 
