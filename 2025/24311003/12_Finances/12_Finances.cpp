@@ -1,7 +1,7 @@
 //Financi 
 #include <iostream>
 using namespace std;
-int main()
+int main() 
 {
 	float rate, invest;
 	cout << "Bank interest rates:" << endl;
