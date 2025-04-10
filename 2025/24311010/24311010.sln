@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_Sp", "15_Sp\15_Sp.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_Circle_Intercept", "16_Circle_Intercept\16_Circle_Intercept.vcxproj", "{260AB3D9-98C8-433E-946C-5EEC77AE630A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_Circle_Intercept_Advanced", "17_Circle_Intercept_Advanced\17_Circle_Intercept_Advanced.vcxproj", "{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{260AB3D9-98C8-433E-946C-5EEC77AE630A}.Release|x64.Build.0 = Release|x64
 		{260AB3D9-98C8-433E-946C-5EEC77AE630A}.Release|x86.ActiveCfg = Release|Win32
 		{260AB3D9-98C8-433E-946C-5EEC77AE630A}.Release|x86.Build.0 = Release|Win32
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Debug|x64.ActiveCfg = Debug|x64
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Debug|x64.Build.0 = Debug|x64
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Debug|x86.Build.0 = Debug|Win32
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Release|x64.ActiveCfg = Release|x64
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Release|x64.Build.0 = Release|x64
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Release|x86.ActiveCfg = Release|Win32
+		{1FBA0411-B4DE-4F60-856D-9A41CB02FBF8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
