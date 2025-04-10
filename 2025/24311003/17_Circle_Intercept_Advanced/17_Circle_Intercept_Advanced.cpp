@@ -1,4 +1,4 @@
-// Koordinati na tochki
+// Podobrena versia na namirane na presechnite tochki na okrijnosti
 #include <iostream>
 #include <cmath>
 using namespace std;
