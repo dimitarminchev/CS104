@@ -1,3 +1,4 @@
+//DoWhile
 #include <iostream>
 using namespace std;
 int main()
@@ -7,7 +8,6 @@ int main()
     {
         cout << k << " ";
         k++;
-    } 
-    while (k <= 1000);
-    return 0;
+    } while (k <= 1000);
+    return 0; 
 }
