@@ -3,12 +3,12 @@ using namespace std;
 int main()
 {
 	int n;
-		cout << "n=";
+	cout << "n=";
 	cin >> n;
 
-	for (float i = 1; i <= n; i++)
+	for (int i = 1; i <= n; i++)
 	{
-		cout << (1 / i) << endl;
+		cout << (1.0 / i) << endl;
 	}
 	return 0;
 }
