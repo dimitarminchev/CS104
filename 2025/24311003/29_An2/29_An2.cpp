@@ -1,4 +1,4 @@
-//Redica An = 1 / (n'2)
+//Redica An = 1 / (n'2) 
 #include <iostream>
 #include <cmath>
 using namespace std;
