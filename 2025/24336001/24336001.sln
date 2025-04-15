@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_4digits", "25_4digits\25
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_fibonacci", "26_fibonacci\26_fibonacci.vcxproj", "{D41886C5-437E-4193-B95D-F3AB65B007C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27_primes", "27_primes\27_primes.vcxproj", "{8C13EB29-B72F-4CFF-929F-4FB225EC6972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{D41886C5-437E-4193-B95D-F3AB65B007C4}.Release|x64.Build.0 = Release|x64
 		{D41886C5-437E-4193-B95D-F3AB65B007C4}.Release|x86.ActiveCfg = Release|Win32
 		{D41886C5-437E-4193-B95D-F3AB65B007C4}.Release|x86.Build.0 = Release|Win32
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Debug|x64.ActiveCfg = Debug|x64
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Debug|x64.Build.0 = Debug|x64
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Debug|x86.Build.0 = Debug|Win32
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Release|x64.ActiveCfg = Release|x64
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Release|x64.Build.0 = Release|x64
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Release|x86.ActiveCfg = Release|Win32
+		{8C13EB29-B72F-4CFF-929F-4FB225EC6972}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
