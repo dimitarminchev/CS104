@@ -10,7 +10,6 @@ int main()
 	{
 		cout << (1 / i) << endl;
 	}
-
 	return 0;
 }
 
