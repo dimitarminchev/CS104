@@ -16,5 +16,5 @@ int main()
 	int s = a * b;
 	cout << "p=" << s << endl;
 
-	return 0;
+	return 0; 
 }
