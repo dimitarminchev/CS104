@@ -1,0 +1,15 @@
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+	int n;
+	cout << "n=";
+	cin >> n;
+	for (float i = 1; i <= n; i++)
+	{
+		cout << pow((1.0+(1.0 / i)),i) << endl;
+	}
+	return 0;
+}
