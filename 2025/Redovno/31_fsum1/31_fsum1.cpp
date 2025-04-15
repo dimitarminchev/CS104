@@ -7,7 +7,7 @@ int main()
     cout << "n=";
     cin >> n;
     cout << "x=";
-    cin >> x;
+    cin >> x; 
 
     float sum = 0;
     for (int k = 1; k <= n; k++)
