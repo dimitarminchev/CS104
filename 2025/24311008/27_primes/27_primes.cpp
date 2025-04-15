@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    int = n;
+    int  n;
     cout << "n=";
         cin >> n;
         for (int k = 2; k <= n; k++)
@@ -17,7 +17,7 @@ int main()
 
             }
 
-            if (isPrime) cout << k<< ""
+            if (isPrime) cout << k << "";
         }
     return 0;
 }
