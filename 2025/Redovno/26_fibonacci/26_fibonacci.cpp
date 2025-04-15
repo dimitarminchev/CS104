@@ -14,7 +14,7 @@ int main()
         a = b;
         b = c;
         c = a + b;
-        if (c >= n) break;
+        if(c >= n) break;
         cout << c << " ";
     } 
 
