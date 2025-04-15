@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30_An3", "30_An3\30_An3.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31_fsum1", "31_fsum1\31_fsum1.vcxproj", "{68366070-1610-4D97-85EF-563D025976EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32_fsum2", "32_fsum2\32_fsum2.vcxproj", "{A3197AAE-A240-422E-AF36-62E4EA0B42AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{68366070-1610-4D97-85EF-563D025976EE}.Release|x64.Build.0 = Release|x64
 		{68366070-1610-4D97-85EF-563D025976EE}.Release|x86.ActiveCfg = Release|Win32
 		{68366070-1610-4D97-85EF-563D025976EE}.Release|x86.Build.0 = Release|Win32
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Debug|x64.ActiveCfg = Debug|x64
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Debug|x64.Build.0 = Debug|x64
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Debug|x86.Build.0 = Debug|Win32
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Release|x64.ActiveCfg = Release|x64
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Release|x64.Build.0 = Release|x64
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Release|x86.ActiveCfg = Release|Win32
+		{A3197AAE-A240-422E-AF36-62E4EA0B42AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
