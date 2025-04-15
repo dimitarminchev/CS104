@@ -16,10 +16,6 @@ int main()
 		c = a + b;
 		if (c >= n) break;
 		cout << c << " ";
-
-
-
-
 	}
 
 	return 0;
