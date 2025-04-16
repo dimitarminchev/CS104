@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-int step(int x, int n)
+int step2(int x, int n)
 {
     if (n == 1) return x;
-    else return x * step(x, n - 1);
+    else return x * step2(x,n - 1);
 }
 int main()
 {
@@ -12,6 +12,8 @@ int main()
     cin >> x;
     cout << "n=";
     cin >> n;
-    cout << x << "^" << n << "=" << step(x, n) << endl;
+    cout << x << "^" << n << "=" << step2(x, n) << endl;
+    
     return 0;
 }
+
