@@ -8,7 +8,7 @@ int step2(int n)
 }
 // Главна функция
 int main()
-{
+{ 
 	int n;
 	cout << "n=";
 	cin >> n;
