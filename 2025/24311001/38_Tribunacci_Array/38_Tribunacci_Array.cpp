@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     const int N = 50;
-    double tri[N] = { 1,1 };
+    double tri[N] = { 1,1,1 };
 
     for (int k = 2; k < N; k++)
     {
