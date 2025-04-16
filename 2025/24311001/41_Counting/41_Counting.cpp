@@ -1,9 +1,21 @@
-// 41_Counting.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    int A[100], count = 0;
+    int x;
+    cout << "x=";
+    cin >> x;
+    for (int i = 0; i < 10; i++)
+    {
+
+        cin >> A[i];
+        if (A[i] == x) count++;
+        
+    }
+    cout << "Count:" << count;
+
+
+
+    return 0;
 }
