@@ -1,5 +1,4 @@
-﻿
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 // Рекурсивна функция за намиране на факториел
 int fak(int n)
