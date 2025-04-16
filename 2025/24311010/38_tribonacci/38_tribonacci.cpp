@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    const int N = 100;
+    const int N = 50;
     double tri[N] = { 1,1,1 };
 
     for (int k = 3; k < N; k++)
@@ -11,5 +11,6 @@ int main()
     }
     for (int k = 0; k < N; k++)
         cout << tri[k] << " ";
+
     return 0;
 }
