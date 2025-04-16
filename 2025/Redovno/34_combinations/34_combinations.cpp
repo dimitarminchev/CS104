@@ -6,7 +6,7 @@ double fak(int n)
     if (n == 1) return 1;
     else return n * fak(n - 1);
 }
-// Главна функция
+// Главна функция 
 int main()
 {
     // Намираме комбинаците от тотото
