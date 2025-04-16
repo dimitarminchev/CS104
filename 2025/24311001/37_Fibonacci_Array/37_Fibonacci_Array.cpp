@@ -9,5 +9,7 @@ int main()
     {
         fib[k] = fib[k - 1] + fib[k - 2];
     }
+    for (int k = 0; k < N; k++)
+        cout << fib[k] << " ";
     return 0;
 }
