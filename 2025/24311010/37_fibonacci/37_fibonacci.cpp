@@ -11,5 +11,7 @@ int main()
     }
     for (int k = 0; k < N; k++)
         cout << fib[k] << " ";
+
     return 0;
 }
+
