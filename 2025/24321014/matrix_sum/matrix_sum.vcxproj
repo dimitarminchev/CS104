@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bb1b5bd3-d748-4acf-b53e-2f639f2ede55}</ProjectGuid>
-    <RootNamespace>Rectangle8</RootNamespace>
+    <ProjectGuid>{8d7e5b9f-004d-4720-952c-54d5f7ee5371}</ProjectGuid>
+    <RootNamespace>matrixsum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Rectangle8.cpp" />
+    <ClCompile Include="matrix_sum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
