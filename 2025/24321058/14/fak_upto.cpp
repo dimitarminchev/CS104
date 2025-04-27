@@ -2,7 +2,7 @@
 #include <climits>
 using namespace std;
 
-int main(int argc, char *argv[]) {
+int main() {
 	int prod, upto;
 
 	prod = 1;

@@ -1,21 +1,19 @@
 #include <iostream>
-#include <math.h>
+#include <cmath>
 using namespace std;
 
-int main(int argc, char *argv[]) {
-	if (argc != 2) {
-		cout << "Usage: circle r : get circumference, surface of circle with radius r and volume of sphere with redius r\n";
-		exit(1);
-	}
-	int r;
-	double circumference, surface, volume;
-	r = atoi(argv[1]);
+int main() {
+	double r, p, s, v;
 
-	circumference = 2 * M_PI * r;
-	surface = M_PI * pow(r, 2);
-	volume = (4 / 3) * M_PI * pow(r, 3);
+	cin >> r;
 
-	printf("Circumference = %lf\nSurface = %lf\nVolume = %lf\n", circumference, surface, volume);
+	p = 2 * M_PI * r;
+	s = M_PI * r * r;
+	v = (4.0 / 3.0) * M_PI * r * r * r;
+
+	cout << "Circle perimeter is " << p << '\n';
+	cout << "Circle surface is " << s << '\n';
+	cout << "Sphere volume is " << v << '\n';
 
 	return 0;
 }

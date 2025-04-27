@@ -4,6 +4,8 @@
 #include <climits>
 using namespace std;
 
+#define MAX 500
+
 int main() {
 	int n;
 	cout << "n = ";
@@ -11,26 +13,27 @@ int main() {
 
 	int *arr = (int *)calloc(n, sizeof(int));
 
-	// Initialize and print the array
+	// Initialize the array with random values and print it
 	for (int i = 0; i < n; i++) {
-		arr[i] = rand() % INT_MAX;
+		arr[i] = rand() % MAX;
 		cout << arr[i] << " ";
 	}
 	cout << "\n";
 
 	// Sort the array
 	for (int i = 0; i < n - 1; i++) {
-		for (int j = i; j < n - 1; j++) {
+		for (int j = 0; j < n - 1 - i; j++) {
 			if (arr[j] > arr[j + 1]) {
-				int t = arr[j];
+				int tmp = arr[j];
 				arr[j] = arr[j + 1];
-				arr[j + 1] = t;
+				arr[j + 1] = tmp;
 			}
 		}
 	}
 
+	// Print the array
 	for (int i = 0; i < n; i++) cout << arr[i] << " ";
-	cout << "\n"
+	cout << "\n";
 
 	return 0;
 }

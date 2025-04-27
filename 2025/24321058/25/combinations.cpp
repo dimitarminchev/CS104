@@ -1,13 +1,17 @@
 #include <iostream>
 using namespace std;
 
-int fac(int n) {
-	if (n == 1) return 1;
-	else return n * fac(n - 1);
+double fac(int n) {
+	double f = 1;
+	for (int i = 2; i <= n; i++) {
+		f *= i;
+	}
+	return f;
 }
 
 int main() {
 	int n, k;
+	double p;
 	cout << "k = ";
 	cin >> k;
 	cout << "n = ";
@@ -18,7 +22,10 @@ int main() {
 		exit(1);
 	}
 
-	cout << k << ":" << n << " - probalility is " << fac(n) / (fac(k) * fac(n - k));
+	p = (double)fac(n) / (fac(k) * fac(n - k));
+	cout << fac(n) << " " << fac(k) << " " << fac(n - k) << '\n';
+
+	cout << k << ":" << n << " - probablility is 1 out of " << p << '\n';
 
 	return 0;
 }
