@@ -3,12 +3,12 @@ using namespace std;
 int main()
 {
 	int number;
-	cout << "Vyvedete 6 chisla:";
+	cout << "Insert 6 digits:";
 	cin >> number;
 
 	if (number < 100000 || number > 999999)
 	{
-		cout << "Molq vuvedete validno shestcifreno chislo:" << endl;
+		cout << "Please insert a valid digit" << endl;
 		return 1;
 	}
 	int product = 1;
@@ -23,7 +23,7 @@ int main()
 	{
 		product *= digits[i];
 	}
-	cout << "Proizvedenieto na cifrite e:" << product << endl;
+	cout << "The sum is:" << product << endl;
 	return 0;
 
 }
