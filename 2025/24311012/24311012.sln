@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "43.Copirane po metod na meh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31.fsum1", "31.fsum1\31.fsum1.vcxproj", "{243586FB-69C8-4786-BA5D-99B057BBA107}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32_fsum2", "32_fsum2\32_fsum2.vcxproj", "{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{243586FB-69C8-4786-BA5D-99B057BBA107}.Release|x64.Build.0 = Release|x64
 		{243586FB-69C8-4786-BA5D-99B057BBA107}.Release|x86.ActiveCfg = Release|Win32
 		{243586FB-69C8-4786-BA5D-99B057BBA107}.Release|x86.Build.0 = Release|Win32
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Debug|x64.ActiveCfg = Debug|x64
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Debug|x64.Build.0 = Debug|x64
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Debug|x86.Build.0 = Debug|Win32
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Release|x64.ActiveCfg = Release|x64
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Release|x64.Build.0 = Release|x64
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Release|x86.ActiveCfg = Release|Win32
+		{6A14F946-85FF-42E1-BC6E-CB0DBDC48F5B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
