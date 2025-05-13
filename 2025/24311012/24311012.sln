@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "g", "g\g.vcxproj", "{52B102
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "h", "h\h.vcxproj", "{A10C4FE0-D131-405B-ADD1-D255E37AF009}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "42. indeksi chisla se sreshta", "42. indeksi chisla se sreshta\42. indeksi chisla se sreshta.vcxproj", "{C613D5BA-0704-49BC-AA85-8707E7A4838C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{A10C4FE0-D131-405B-ADD1-D255E37AF009}.Release|x64.Build.0 = Release|x64
 		{A10C4FE0-D131-405B-ADD1-D255E37AF009}.Release|x86.ActiveCfg = Release|Win32
 		{A10C4FE0-D131-405B-ADD1-D255E37AF009}.Release|x86.Build.0 = Release|Win32
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Debug|x64.ActiveCfg = Debug|x64
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Debug|x64.Build.0 = Debug|x64
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Debug|x86.Build.0 = Debug|Win32
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Release|x64.ActiveCfg = Release|x64
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Release|x64.Build.0 = Release|x64
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Release|x86.ActiveCfg = Release|Win32
+		{C613D5BA-0704-49BC-AA85-8707E7A4838C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
