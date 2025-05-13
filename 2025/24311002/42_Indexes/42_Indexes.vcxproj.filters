@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="06_DIGITS3.cpp">
+    <ClCompile Include="42_Indexes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
