@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MinMaxOf3.cpp">
+    <ClCompile Include="43_BubbleSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

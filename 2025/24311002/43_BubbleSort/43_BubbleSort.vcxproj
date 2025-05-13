@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b9e67d61-c7ad-4aa3-aae0-884263e445ea}</ProjectGuid>
-    <RootNamespace>MinMaxOf3</RootNamespace>
+    <ProjectGuid>{dd4d9a0d-9c89-449b-9c36-d5114fab2c81}</ProjectGuid>
+    <RootNamespace>My43BubbleSort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MinMaxOf3.cpp" />
+    <ClCompile Include="43_BubbleSort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,3 +1,4 @@
+// Sortirane po metoda na mehurcheto
 #include <iostream>
 using namespace std;
 int main()
@@ -14,13 +15,10 @@ int main()
 			{
 				int temp = A[i];
 				A[i] = A[j];
-				A[i] = temp;
-
+				A[j] = temp;
 			}
 		}
 	}
-
 	for (int i = 0; i < 10; i++) cout << A[i] << " ";
-
 	return 0;
 }
