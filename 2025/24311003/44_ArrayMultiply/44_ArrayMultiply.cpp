@@ -1,3 +1,4 @@
+// Umnojenie na matrica s chislo
 #include <iostream>
 using namespace std;
 int main()
@@ -8,9 +9,8 @@ int main()
 		for (int y = 0; y < 3; y++)
 			cin >> A[x][y];
 	int m;
-	cout << "Multyplay by: ";
+	cout << "Multiply ny: ";
 	cin >> m;
-
 	for (int x = 0; x < 3; x++)
 	{
 		for (int y = 0; y < 3; y++)
