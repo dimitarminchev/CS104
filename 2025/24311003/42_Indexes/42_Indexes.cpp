@@ -1,4 +1,4 @@
-// Indeksite kideto chisloto se sresha 
+// Indeksite kideto chisloto se sresha
 #include <iostream>
 using namespace std;
 int main()
