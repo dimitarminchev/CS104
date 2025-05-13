@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="06_DIGITS3.cpp">
+    <ClCompile Include="42. indeksi chisla se sreshta.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
