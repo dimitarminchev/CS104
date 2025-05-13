@@ -93,6 +93,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "43_BubbleSor", "43_BubbleSo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "44_ArrayMultiply", "44_ArrayMultiply\44_ArrayMultiply.vcxproj", "{EB32DBBD-DB46-4148-A636-F122E4AC26A0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45_ArraySum", "45_ArraySum\45_ArraySum.vcxproj", "{95E4892A-0096-4295-98CF-E1FCB540DBB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -461,6 +463,14 @@ Global
 		{EB32DBBD-DB46-4148-A636-F122E4AC26A0}.Release|x64.Build.0 = Release|x64
 		{EB32DBBD-DB46-4148-A636-F122E4AC26A0}.Release|x86.ActiveCfg = Release|Win32
 		{EB32DBBD-DB46-4148-A636-F122E4AC26A0}.Release|x86.Build.0 = Release|Win32
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Debug|x64.ActiveCfg = Debug|x64
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Debug|x64.Build.0 = Debug|x64
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Debug|x86.ActiveCfg = Debug|Win32
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Debug|x86.Build.0 = Debug|Win32
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Release|x64.ActiveCfg = Release|x64
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Release|x64.Build.0 = Release|x64
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Release|x86.ActiveCfg = Release|Win32
+		{95E4892A-0096-4295-98CF-E1FCB540DBB8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
