@@ -3,9 +3,7 @@ using namespace std;
 int main()
 {
 	int A[10];
-
 	for (int i = 0; i < 10; i++) cin >> A[i];
-
 	for (int i = 0; i < 10; i++)
 	{
 		for (int j = 0; j < 10; j++)
@@ -14,8 +12,7 @@ int main()
 			{
 				int temp = A[i];
 				A[i] = A[j];
-				A[i] = temp;
-
+				A[j] = temp;
 			}
 		}
 	}
