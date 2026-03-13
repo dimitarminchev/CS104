@@ -1,10 +1,13 @@
 #include<iostream>
 using namespace std;
+
 int main()
 {
-	for (int i = 1; i <= 1000; i=i+1)
+	int i = 1;
+	while (i <= 1000)
 	{
 		cout << i << " ";
+		i = i + 1;
 	}
 	return 0;
 }
