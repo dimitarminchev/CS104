@@ -8,4 +8,6 @@
   <Project Path="03_rectangle/03_rectangle.vcxproj" Id="67a56d43-62f8-4b1a-95ee-3c378489f8f9" />
   <Project Path="04_circle/04_circle.vcxproj" Id="64a80627-8d3c-4605-bf6a-1739bb2abfe6" />
   <Project Path="05_reverse/05_reverse.vcxproj" Id="8ff4fa7c-610b-488c-9df4-81d0a146c290" />
+  <Project Path="06_square_equation/06_square_equation.vcxproj" Id="0ac14f0a-2a25-488c-9c32-59a430490ed6" />
+  <Project Path="07_square_equation_2/07_square_equation_2.vcxproj" Id="f918ee92-37ed-4830-b9fe-345b7705fd5c" />
 </Solution>
