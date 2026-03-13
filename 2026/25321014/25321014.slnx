@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="01_Hello/01_Hello.vcxproj" />
+  <Project Path="02_Sum/02_Sum.vcxproj" />
 </Solution>
