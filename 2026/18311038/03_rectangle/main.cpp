@@ -6,7 +6,7 @@ int main()
 	cout << "a=";
 	cin >> a;
 	cout << "b";
-	cin >> b;
+	cin >> b; 
 
 	int p = 2 * (a + b);
 	int s = a * b;
