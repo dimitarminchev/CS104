@@ -5,4 +5,7 @@
   </Configurations>
   <Project Path="01_Hello/01_Hello.vcxproj" Id="4c6ff8c9-1488-41e4-9a02-5c7fa8658925" />
   <Project Path="02_Suma/02_Suma.vcxproj" Id="09cf157f-3f69-46d2-9fd4-2aae0daec9e8" />
+  <Project Path="03_rectangle/03_rectangle.vcxproj" Id="67a56d43-62f8-4b1a-95ee-3c378489f8f9" />
+  <Project Path="04_circle/04_circle.vcxproj" Id="64a80627-8d3c-4605-bf6a-1739bb2abfe6" />
+  <Project Path="05_reverse/05_reverse.vcxproj" Id="8ff4fa7c-610b-488c-9df4-81d0a146c290" />
 </Solution>
