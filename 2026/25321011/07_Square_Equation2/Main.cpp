@@ -1,39 +1,25 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
 int main()
 {
-    // Declare 3 variables for integer numbers
-    int a, b, c;
+	float a, b, c;
 
+	cout << "Enter a,b and c:\n";
+	cin >> a >> b >> c;
 
-    // User interface (UI/UX)
+	float d = pow(b, 2) - (4 * a * c);
 
-    cout << "a = ";
-    cin >> a;
-    cout << "b = ";
-    cin >> b;
-    cout << "c = ";
-    cin >> c;
-    double D = b * b - 4 * a * c;
+	if (d < 0) cout << "No Solution";
+	if (d == 0) cout << "d=0, x1=x2, x=" << (-b) / (2 * a) << endl;
+	if (d > 0)
+	{
+		float x1 = ((-b) + sqrt(d)) / (2 * a);
+		float x2 = ((-b) - sqrt(d)) / (2 * a);;
+		cout << "d=" << d << endl;
+		cout << "x1=" << x1 << endl;
+		cout << "x2=" << x2 << endl;
+	}
 
-    if (D > 0)
-        // Solve the task
-    {
-        double x1 = (-b + sqrt(D)) / (2 * a);
-        double x2 = (-b - sqrt(D)) / (2 * a);
-        cout << "x1 =" << x1;
-        cout << "x2 =" << x2;
-    }
-
-    else if (D == 0)
-    {
-        double x = -b / (2 * a);
-        cout << "x = " << x << endl;
-
-    }
-    else
-    {
-        cout << "No real roots" << endl;
-    }
-    return 0;
+	return 0;
 }
