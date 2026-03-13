@@ -3,7 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_Hello/01_Hello.vcxproj" />
-  <Project Path="02_Sum/02_Sum.vcxproj" />
-  <Project Path="03_Rectangle/03_Rectangle.vcxproj" />
+  <Project Path="01_Hello/01_Hello.vcxproj" Id="b55052a9-0231-41e0-bcfa-c60ae1c42099" />
+  <Project Path="02_Sum/02_Sum.vcxproj" Id="26906d7f-f868-418c-860c-ce8e5ba0a9b4" />
+  <Project Path="03_Rectangle/03_Rectangle.vcxproj" Id="eff55be0-faa9-4019-b32b-94a019d07cf9" />
+  <Project Path="04_Circle/04_Circle.vcxproj" Id="4af04114-c137-4666-b328-fb9026b31bb5" />
+  <Project Path="04_Reverse/04_Reverse.vcxproj" Id="6ce6eea9-190f-4f31-8fa9-cbb9355f11eb" />
+  <Project Path="06_square_equation/06_square_equation.vcxproj" Id="0043012a-57e3-4f91-8b00-26a27509a0f9" />
 </Solution>
