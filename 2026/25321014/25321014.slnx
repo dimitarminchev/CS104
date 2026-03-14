@@ -13,4 +13,5 @@
   <Project Path="08_nap_2016/08_nap_2016.vcxproj" Id="eacc8d13-65c9-4aa4-a8fe-1a16db396c42" />
   <Project Path="09_for/09_for.vcxproj" Id="91ad0a7d-c4aa-4c9d-a20a-c0d2f3272f5b" />
   <Project Path="10_while/10_while.vcxproj" Id="6fd08962-901e-4b8a-8fd1-0d6f3b123ac2" />
+  <Project Path="11_do_while/11_do_while.vcxproj" Id="effe3b62-0f4e-45f9-bd42-edfcb2662936" />
 </Solution>
