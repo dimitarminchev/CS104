@@ -10,4 +10,8 @@
   <Project Path="05_reverse/05_reverse.vcxproj" Id="8ff4fa7c-610b-488c-9df4-81d0a146c290" />
   <Project Path="06_square_equation/06_square_equation.vcxproj" Id="0ac14f0a-2a25-488c-9c32-59a430490ed6" />
   <Project Path="07_square_equation_2/07_square_equation_2.vcxproj" Id="f918ee92-37ed-4830-b9fe-345b7705fd5c" />
+  <Project Path="08_nap_2016/08_nap_2016.vcxproj" Id="d86ae36d-1179-4f45-ba90-bb80cf296339" />
+  <Project Path="09_for/09_for.vcxproj" Id="f692c08a-1732-4735-9bad-eaf813df3c09" />
+  <Project Path="10_while/10_while.vcxproj" Id="1b61d8bd-72e8-4bcb-bebe-6b5f17e54393" />
+  <Project Path="11_do_while/11_do_while.vcxproj" Id="c0126060-e094-40f5-aca2-e49be96bbab2" />
 </Solution>
