@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11605.240 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Hello.cpp", "01_Hello.cpp\01_Hello.cpp.vcxproj", "{1B06103F-00E8-4017-9BDE-75383048A242}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Square_Equation", "06_Square_Equation\06_Square_Equation.vcxproj", "{BA85CAD4-1ED9-4EF4-B3B9-EF0A03C841A3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_Square_Equation2", "07_Square_Equation2\07_Square_Equation2.vcxproj", "{3638F2AC-1621-49A5-9219-D3A02B427053}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_nap_2016", "08_nap_2016\08_nap_2016.vcxproj", "{9DC02C93-A813-4D4C-92C7-15BDF855E379}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{3638F2AC-1621-49A5-9219-D3A02B427053}.Release|x64.Build.0 = Release|x64
 		{3638F2AC-1621-49A5-9219-D3A02B427053}.Release|x86.ActiveCfg = Release|Win32
 		{3638F2AC-1621-49A5-9219-D3A02B427053}.Release|x86.Build.0 = Release|Win32
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Debug|x64.ActiveCfg = Debug|x64
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Debug|x64.Build.0 = Debug|x64
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Debug|x86.ActiveCfg = Debug|Win32
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Debug|x86.Build.0 = Debug|Win32
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Release|x64.ActiveCfg = Release|x64
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Release|x64.Build.0 = Release|x64
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Release|x86.ActiveCfg = Release|Win32
+		{9DC02C93-A813-4D4C-92C7-15BDF855E379}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
