@@ -1,22 +1,18 @@
-#include<iostream>
-#include<cmath>
+#include <iostream>
 using namespace std;
-
 int main()
 {
 	int x, n;
-
-	cout << "x = ";
+	cout << "enter x => " << endl;
 	cin >> x;
-		
-	cout << "n = ";
+	cout << "enter n => " << endl;
 	cin >> n;
 
 	float sum = 0;
 	for (int k = 1; k <= n; k++)
 	{
 		sum = sum + pow(x, k);
+		cout << sum << endl;
 	}
-	cout << sum << endl;
 	return 0;
 }
