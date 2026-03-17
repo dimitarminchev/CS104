@@ -16,4 +16,7 @@
   <Project Path="11_do_while/11_do_while.vcxproj" Id="c0126060-e094-40f5-aca2-e49be96bbab2" />
   <Project Path="12_click/12_click.vcxproj" Id="14488c6f-3cb9-4b1f-a394-7248ebefbd5a" />
   <Project Path="13_sum_upto/13_sum_upto.vcxproj" Id="75ddcc7b-9305-458d-a773-00a9d362cd02" />
+  <Project Path="14_fak_upto/14_fak_upto.vcxproj" Id="06b6335e-f6f2-42b2-ac6f-233117cd274d" />
+  <Project Path="15_digit3_sum_of_3_and_5/15_digit3_sum_of_3_and_5.vcxproj" Id="661de3cf-6327-4bb9-81e6-607fedf51b8c" />
+  <Project Path="16_digit4_special/16_digit4_special.vcxproj" Id="26c71bc4-b180-4a5f-9387-3732b5b09c63" />
 </Solution>
