@@ -4,9 +4,9 @@ int main()
 {
 	int sum = 0;
 
-	for (int k = 100; k <= 999; k++)
+	for (int k = 100; k <= 999; k++ )
 	{
-		// :3 &  :5
+		// :3 & :5
 		if (k % 15 == 0)
 		{
 			sum = sum + k;
@@ -14,5 +14,5 @@ int main()
 	}
 
 	cout << sum << endl;
-	return 0;
+		return 0;
 }

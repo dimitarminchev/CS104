@@ -1,7 +1,9 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
+
+
 	for (int i = 1000; i <= 9999; i++)
 	{
 		int a = (i / 1000) % 10;
@@ -11,7 +13,7 @@ int main()
 
 		if (a + b == c + d)
 		{
-			cout << i << endl;
+			cout << i << " ";
 		}
 	}
 	return 0;

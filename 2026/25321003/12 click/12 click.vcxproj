@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{808eea65-f16a-4105-8b9b-8c3278ee503c}</ProjectGuid>
-    <RootNamespace>digit3sumof3and5</RootNamespace>
+    <ProjectGuid>{ba296059-75f4-4f9a-a802-6957e2392779}</ProjectGuid>
+    <RootNamespace>My12click</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
