@@ -8,6 +8,6 @@ int main()
 
 	for (double i = 1; i <= n; i++)
 	{
-		cout << 1 / i << endl;
+		cout << 1 / (i * i) << endl;
 	}
 }
