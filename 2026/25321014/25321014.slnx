@@ -16,6 +16,7 @@
   <Project Path="11_do_while/11_do_while.vcxproj" Id="effe3b62-0f4e-45f9-bd42-edfcb2662936" />
   <Project Path="12_click.cpp/12_click.cpp.vcxproj" Id="7d74d97c-22a8-4472-a79c-9bc83ca8007a" />
   <Project Path="13_sum_upto/13_sum_upto.vcxproj" Id="0038fb72-9fe5-44ce-a6a8-ba0934ee7528" />
+  <Project Path="14_fak_upto/fak_upto.vcxproj" Id="7a62746a-7926-4718-a181-a3aaf8874eb0" />
   <Project Path="15_digit3_sum_of_3_and_5/15_digit3_sum_of_3_and_5.vcxproj" Id="3ded4a07-935b-4a15-b7c4-576c15335f4d" />
   <Project Path="16_digit4_special/16_digit4_special.vcxproj" Id="2deeb800-f97c-44b7-a345-0ef9d63c6759" />
   <Project Path="17_fibonacci/17_fibonacci.vcxproj" Id="9e3c4bac-6add-46f2-acce-66c0d4172948" />
@@ -24,5 +25,5 @@
   <Project Path="20_an2/20_an2.vcxproj" Id="ce382e07-0aef-4c80-b218-e0b1dc8da8da" />
   <Project Path="21_an3/21_an3.vcxproj" Id="4023b59b-0d9a-485b-be16-bffa5492ba3c" />
   <Project Path="22_f1/22_f1.vcxproj" Id="3950a51e-ad50-4ec0-ac15-3d6e2883195c" />
-  <Project Path="14_fak_upto/fak_upto.vcxproj" Id="7a62746a-7926-4718-a181-a3aaf8874eb0" />
+  <Project Path="23_f2/23_f2.vcxproj" Id="6b71fb3d-1542-4e1c-bfe2-31f9d627f8c7" />
 </Solution>
