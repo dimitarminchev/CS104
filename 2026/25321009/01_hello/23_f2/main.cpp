@@ -12,7 +12,7 @@ int main()
 	float sum = 0;
 	for (int k = 1; k <= n; k++)
 	{
-		sum = sum + pow(x, k);
+		sum = sum + pow((-1), k) * pow(x, k);
 		
 	}
 	cout << sum << endl;
