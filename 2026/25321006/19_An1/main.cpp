@@ -7,7 +7,7 @@
 
 		for (int k = 1; k <= n; k++)
 		{
-			cout << (1.0 / k) << endl;
+			cout << (1.0 / pow(k,2)) << endl;
 		}
 		return 0;
 	}
