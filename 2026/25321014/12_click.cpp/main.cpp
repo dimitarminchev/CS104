@@ -12,6 +12,7 @@ bool IsContains7(int a)
 
 		a /= 10;
 	}
+	return false;
 }
 
 
