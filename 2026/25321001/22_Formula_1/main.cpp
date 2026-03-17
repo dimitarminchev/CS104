@@ -1,8 +1,10 @@
-#include <iostream>
+#include<iostream>
+#include<cmath>
 using namespace std;
+
 int main()
 {
-	int x, n;
+	int x,n;
 	cout << "x=";
 	cin >> x;
 	cout << "n=";
@@ -13,7 +15,7 @@ int main()
 	{
 		sum = sum + pow(x, k);
 	}
-
-	cout << sum << endl;
-	return 0;
+	
+		cout << sum << endl;
+		return 0;
 }

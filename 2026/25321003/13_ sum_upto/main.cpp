@@ -1,17 +1,13 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
-	int x, n;
-	cout << "x=";
-	cin >> x;
-	cout << "n=";
+	int n, sum = 0;
 	cin >> n;
 
-	float sum = 0;
 	for (int k = 1; k <= n; k++)
 	{
-		sum = sum + pow(x, k);
+		sum = sum + k;
 	}
 
 	cout << sum << endl;
