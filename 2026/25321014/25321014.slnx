@@ -16,4 +16,5 @@
   <Project Path="11_do_while/11_do_while.vcxproj" Id="effe3b62-0f4e-45f9-bd42-edfcb2662936" />
   <Project Path="12_click.cpp/12_click.cpp.vcxproj" Id="7d74d97c-22a8-4472-a79c-9bc83ca8007a" />
   <Project Path="13_sum_upto/13_sum_upto.vcxproj" Id="0038fb72-9fe5-44ce-a6a8-ba0934ee7528" />
+  <Project Path="fak_upto/fak_upto.vcxproj" Id="7a62746a-7926-4718-a181-a3aaf8874eb0" />
 </Solution>
