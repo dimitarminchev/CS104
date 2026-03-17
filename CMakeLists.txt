@@ -13,7 +13,10 @@ add_executable(25321005_Circle            2026/25321005/04_Circle/circle.cpp
         2026/25321005/14_Fak_UP_To/main.cpp
         2026/25321005/15_Digit3_3&5/main.cpp
         2026/25321005/16_Digit_Special/main.cpp
-        2026/25321005/17_Fibonacci/main.cpp)
+        2026/25321005/17_Fibonacci/main.cpp
+        2026/25321005/18_Primes/main.cpp
+        2026/25321005/19_An_1_N/main.cpp
+        2026/25321005/20_An_1_N2/main.cpp)
 add_executable(25321005_Reverse           2026/25321005/05_Reverse/reverce.cpp)
 add_executable(25321005_Square_Equation   2026/25321005/06_Square_equation/Square_1.cpp)
 add_executable(25321005_Square_Equation_2 2026/25321005/07_Square_equation_2/Square_2.cpp)
