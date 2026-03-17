@@ -19,4 +19,9 @@
   <Project Path="14_fak_upto/14_fak_upto.vcxproj" Id="06b6335e-f6f2-42b2-ac6f-233117cd274d" />
   <Project Path="15_digit3_sum_of_3_and_5/15_digit3_sum_of_3_and_5.vcxproj" Id="661de3cf-6327-4bb9-81e6-607fedf51b8c" />
   <Project Path="16_digit4_special/16_digit4_special.vcxproj" Id="26c71bc4-b180-4a5f-9387-3732b5b09c63" />
+  <Project Path="17_fibonacci/17_fibonacci.vcxproj" Id="ff095801-0755-4b3a-aca7-76442cd24666" />
+  <Project Path="18_primes/18_primes.vcxproj" Id="71524d39-6ac2-40cf-b6ad-9ff8f4a08de6" />
+  <Project Path="19_A1/19_A1.vcxproj" Id="2146eff6-0571-4162-9a28-2efb83f9fc32" />
+  <Project Path="20_A2/20_A2.vcxproj" Id="ec725b47-582d-48a0-9d32-bf6ad450c1b6" />
+  <Project Path="21_A3/22_A3.vcxproj" Id="bc031fb4-c0df-45ca-90e9-c092ee53bf66" />
 </Solution>
