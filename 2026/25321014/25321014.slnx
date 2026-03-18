@@ -29,4 +29,6 @@
   <Project Path="24_fatoriel/24_fatoriel.vcxproj" Id="3dc17cd1-2f7e-4f33-ba3c-9b7188a96929" />
   <Project Path="25_combinations/25_combinations.vcxproj" Id="34416350-8f6a-4db1-aa12-9dff81be3f33" />
   <Project Path="26_step2/26_step2.vcxproj" Id="bde06c44-d339-4079-95e5-4508b0ccb01e" />
+  <Project Path="27_fibonacci2/27_fibonacci2.vcxproj" Id="4fa96d36-db06-4747-93fe-6da5c606ebe9" />
+  <Project Path="28_bubble_sort/28_bubble_sort.vcxproj" Id="f27bfef4-caf5-4a89-a897-0c66f27821b5" />
 </Solution>
