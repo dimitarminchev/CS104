@@ -24,4 +24,8 @@
   <Project Path="19_A1/19_A1.vcxproj" Id="2146eff6-0571-4162-9a28-2efb83f9fc32" />
   <Project Path="20_A2/20_A2.vcxproj" Id="ec725b47-582d-48a0-9d32-bf6ad450c1b6" />
   <Project Path="21_A3/22_A3.vcxproj" Id="bc031fb4-c0df-45ca-90e9-c092ee53bf66" />
+  <Project Path="22_f1/22_f1.vcxproj" Id="70758e6d-360a-4f48-958f-d23787eb19c4" />
+  <Project Path="23_f2/23_f2.vcxproj" Id="3f16f082-1145-498c-bfa8-26cc184451e2" />
+  <Project Path="24_factorial/24_factorial.vcxproj" Id="cd08d836-9858-481e-bb77-9fa63ea8e445" />
+  <Project Path="25_combinations/25_combinations.vcxproj" Id="f0e8cd26-78cd-4654-be2d-8549084f57d8" />
 </Solution>
