@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main()
 {
 	int n, sum = 0;
@@ -10,7 +9,7 @@ int main()
 	{
 		sum = sum + k;
 	}
-	
+
 	cout << sum << endl;
 	return 0;
 }
