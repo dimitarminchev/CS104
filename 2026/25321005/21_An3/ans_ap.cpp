@@ -1,15 +1,13 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
-    int n, pro = 1;
+    int n;
     cin >> n;
 
     for (int k = 1; k <= n; k++)
     {
-        pro = pro * k;
+        cout << pow((1.0 + (1.0 / k )),k) << endl;
     }
-
-    cout << pro << endl;
     return 0;
 }
