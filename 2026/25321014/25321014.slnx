@@ -32,4 +32,5 @@
   <Project Path="27_fibonacci2/27_fibonacci2.vcxproj" Id="4fa96d36-db06-4747-93fe-6da5c606ebe9" />
   <Project Path="28_bubble_sort/28_bubble_sort.vcxproj" Id="f27bfef4-caf5-4a89-a897-0c66f27821b5" />
   <Project Path="29_matrix_multiplication/29_matrix_multiplication.vcxproj" Id="b53e6f61-9f63-49ba-9e7f-1b233acec02a" />
+  <Project Path="30_matrix_sum/30_matrix_sum.vcxproj" Id="dd1ac841-ce0c-4a9a-88bf-e356e2c1fe28" />
 </Solution>
