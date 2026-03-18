@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_bubblesort", "28_bubbles
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29_matrixmultiplication", "29_matrixmultiplication\29_matrixmultiplication.vcxproj", "{0A813780-96E4-4CFF-B3D8-24F4E665F331}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30_matrixsum", "30_matrixsum\30_matrixsum.vcxproj", "{49A35B37-A478-47B0-93DB-44B08D63912D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{0A813780-96E4-4CFF-B3D8-24F4E665F331}.Release|x64.Build.0 = Release|x64
 		{0A813780-96E4-4CFF-B3D8-24F4E665F331}.Release|x86.ActiveCfg = Release|Win32
 		{0A813780-96E4-4CFF-B3D8-24F4E665F331}.Release|x86.Build.0 = Release|Win32
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Debug|x64.ActiveCfg = Debug|x64
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Debug|x64.Build.0 = Debug|x64
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Debug|x86.ActiveCfg = Debug|Win32
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Debug|x86.Build.0 = Debug|Win32
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Release|x64.ActiveCfg = Release|x64
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Release|x64.Build.0 = Release|x64
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Release|x86.ActiveCfg = Release|Win32
+		{49A35B37-A478-47B0-93DB-44B08D63912D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
