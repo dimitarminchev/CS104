@@ -3,7 +3,7 @@
 using namespace std;
 int fak(int n)
 {
-    if (n == 1) return 1;
+    if (n <= 1) return 1;
     else return n * fak(n - 1);
 }
 

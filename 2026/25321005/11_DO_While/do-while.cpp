@@ -7,6 +7,6 @@ int main()
 	{
 		cout << i << " ";
 		i = i + 1;
-	} while (i = 1000);
+	} while (i <= 1000);
 	return 0;
 }
