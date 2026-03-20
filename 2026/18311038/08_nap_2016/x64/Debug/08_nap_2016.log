@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\08_nap_2016\main.cpp(13,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\08_nap_2016\main.cpp(14,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\08_nap_2016\main.cpp(15,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  08_nap_2016.vcxproj -> C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\x64\Debug\08_nap_2016.exe
