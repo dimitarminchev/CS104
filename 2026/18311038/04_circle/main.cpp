@@ -13,8 +13,7 @@ int main()
 
 	cout << "Perimeter=" << p << endl;
 	cout << "Area=" << s << endl;
-	cout << "Volume" << v << endl;
+	cout << "Volume=" << v << endl;
 
 	return 0;
-
 }

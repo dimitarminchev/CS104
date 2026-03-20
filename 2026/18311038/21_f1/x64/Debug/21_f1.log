@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\21_f1\main.cpp(15,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  21_f1.vcxproj -> C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\x64\Debug\21_f1.exe
