@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\04_circle\main.cpp(10,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\04_circle\main.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\04_circle\main.cpp(12,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  04_circle.vcxproj -> C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\x64\Debug\04_circle.exe
