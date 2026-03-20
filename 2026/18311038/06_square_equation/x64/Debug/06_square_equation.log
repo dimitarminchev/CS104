@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\06_square_equation\main.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  06_square_equation.vcxproj -> C:\Users\vcher\source\repos\dimitarminchev\CS104\2026\18311038\x64\Debug\06_square_equation.exe
