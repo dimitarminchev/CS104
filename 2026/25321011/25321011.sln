@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11605.240 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Hello.cpp", "01_Hello.cpp\01_Hello.cpp.vcxproj", "{1B06103F-00E8-4017-9BDE-75383048A242}"
 EndProject
@@ -62,6 +62,11 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29_matrix_multipl", "29_matrix_multipl\29_matrix_multipl.vcxproj", "{80908FBD-5018-4BB7-AC3B-DC99DE59910C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30_matrix_sum", "30_matrix_sum\30_matrix_sum.vcxproj", "{CBCCD742-E4A0-4F03-AB19-7631A3CB235E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AB4CCAFD-58E3-43A9-8835-D5DB9C13B8A4}"
+	ProjectSection(SolutionItems) = preProject
+		..\25321011.zip = ..\25321011.zip
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
