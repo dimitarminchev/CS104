@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="24_factorial.cpp">
+    <ClCompile Include="01_Hello.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
