@@ -9,5 +9,8 @@
   <Project Path="04_circle/04_circle.vcxproj" Id="d40c32f2-6dd7-4ba3-b4c3-8ee5ecb6ca7c" />
   <Project Path="06_Splitting the digits of a 3-digit number/06_Splitting the digits of a 3-digit number.vcxproj" Id="d7882050-1ba5-4d74-8e14-e62b5ee257cc" />
   <Project Path="07_SumPro/07_SumPro.vcxproj" Id="894a37b4-7a89-489e-9f77-a55083bf9875" />
+  <Project Path="08_5-digit/08_5-digit.vcxproj" Id="4f158403-0de8-4668-bbad-f81645aafd53" />
+  <Project Path="09_6-digits/09_6-digits.vcxproj" Id="519533d1-bc21-45cc-9938-400f036fe650" />
+  <Project Path="10_sqeq/10_sqeq.vcxproj" Id="24915e2f-1ebd-45be-9655-2dcd8341c8a0" />
   <Project Path="Money in the pocket/Money in the pocket.vcxproj" Id="bdc6565a-34c4-4c9b-8837-e937d8b0aa27" />
 </Solution>
