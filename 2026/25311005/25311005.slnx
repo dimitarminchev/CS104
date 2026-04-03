@@ -11,4 +11,5 @@
   <Project Path="05_pocet_money/05_pocet_money.vcxproj" Id="7f439e35-6d09-4c8f-9810-e904950a0791" />
   <Project Path="06_reverse/06_reverse.vcxproj" Id="40a7313a-1e6a-4213-b928-d4b90ad7c515" />
   <Project Path="07_sum_pro/07_sum_pro.vcxproj" Id="0e2b4582-7837-4aba-987c-e0d17306b5db" />
+  <Project Path="08_5digits/08_5digits.vcxproj" Id="45b96542-6eb6-4856-839e-005a2ff1c170" />
 </Solution>
