@@ -6,6 +6,8 @@ int main()
 
     std::cout << "Enter value: "; std::cin >> value;
 
-    std::cout << "Sum: "            << value % 10 + (value / 10) % 10 + (value / 100) % 10 + (value / 1000) % 10 << "\n"
-              << "Multiplication: " << value % 10 * (value % 10) / 10 * (value % 100) / 10 * (value % 1000) / 10 << "\n";
+    //std::cout << "Sum: "            << (value % 10) + (value / 10) % 10 + (value / 100) % 10 + (value / 1000) % 10 << "\n"
+    //          << "Multiplication: " << (value % 10) * (value % 10) / 10 * (value % 100) / 10 * (value % 1000) / 10 << "\n";
+
+    std::cout << value - value % 1000 * value - value % 1000 / 10;
 }

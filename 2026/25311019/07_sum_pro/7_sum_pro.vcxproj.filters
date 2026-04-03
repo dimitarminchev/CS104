@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07_sum_pro.cpp">
+    <ClCompile Include="7_sum_pro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
