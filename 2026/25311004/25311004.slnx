@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="03_perimeter/03_perimeter.vcxproj" />
+  <Project Path="03_rectangle/03_rectangle.vcxproj" />
 </Solution>
