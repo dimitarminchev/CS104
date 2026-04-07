@@ -3,6 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_Hello/01_Hello.vcxproj" Id="52a3e546-17fa-4bae-a3ad-cd7622aeea31" />
-  <Project Path="02_sum/02_sum.vcxproj" Id="b8af0b1c-3d4d-4273-a0c2-28def780fb86" />
+  <Project Path="03_perimeter/03_perimeter.vcxproj" />
 </Solution>
