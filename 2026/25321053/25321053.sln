@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_do_while", "11_do_while\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_click", "12_click\12_click.vcxproj", "{319D018C-9109-4B54-961B-604A2BADDBC9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_sum_upto", "13_sum_upto\13_sum_upto.vcxproj", "{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{319D018C-9109-4B54-961B-604A2BADDBC9}.Release|x64.Build.0 = Release|x64
 		{319D018C-9109-4B54-961B-604A2BADDBC9}.Release|x86.ActiveCfg = Release|Win32
 		{319D018C-9109-4B54-961B-604A2BADDBC9}.Release|x86.Build.0 = Release|Win32
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Debug|x64.ActiveCfg = Debug|x64
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Debug|x64.Build.0 = Debug|x64
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Debug|x86.Build.0 = Debug|Win32
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Release|x64.ActiveCfg = Release|x64
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Release|x64.Build.0 = Release|x64
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Release|x86.ActiveCfg = Release|Win32
+		{DE1EEC45-B1FC-4988-A0CA-42209BEC8683}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
