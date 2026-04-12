@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1775840011 source:c:\users\user\desktop\Курсова задача\kursova_zadacha_4\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
