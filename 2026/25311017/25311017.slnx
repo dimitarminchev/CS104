@@ -7,5 +7,8 @@
   <Project Path="02_Sum/02_Sum.vcxproj" Id="e20121e9-4489-4996-8428-4447aae4fa17" />
   <Project Path="03_Rectangle/03_Rectangle.vcxproj" Id="2d1c77fd-8415-47dc-b222-5288664a6e49" />
   <Project Path="04_circle/04_circle.vcxproj" Id="d40c32f2-6dd7-4ba3-b4c3-8ee5ecb6ca7c" />
+  <Project Path="06_Splitting the digits of a 3-digit number/06_Splitting the digits of a 3-digit number.vcxproj" Id="d7882050-1ba5-4d74-8e14-e62b5ee257cc" />
+  <Project Path="07_SumPro/07_SumPro.vcxproj" Id="894a37b4-7a89-489e-9f77-a55083bf9875" />
+  <Project Path="08_5-digit/08_5-digit.vcxproj" Id="4f158403-0de8-4668-bbad-f81645aafd53" />
   <Project Path="Money in the pocket/Money in the pocket.vcxproj" Id="bdc6565a-34c4-4c9b-8837-e937d8b0aa27" />
 </Solution>
