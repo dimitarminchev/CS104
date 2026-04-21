@@ -3,6 +3,14 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_Hello/01_Hello.vcxproj" />
-  <Project Path="sum/sum.vcxproj" />
+  <Project Path="01_Hello/01_Hello.vcxproj" Id="b67f507a-7fc6-4baf-8878-59ddd1391075" />
+  <Project Path="03_rectangle/03_rectangle.vcxproj" Id="3f97a28f-f05f-4cd0-b324-d4c0ef94097b" />
+  <Project Path="04_circle/04_circle.vcxproj" Id="ddbffd1d-7dd9-49f7-ad53-79bce3b81396" />
+  <Project Path="05_pocket_money/05_pocket_money.vcxproj" Id="c0f7822a-23a4-4b70-9987-e2b626724f9a" />
+  <Project Path="06_reverse/06_reverse.vcxproj" Id="d582cb29-90f2-4497-977c-3b1bf0d0fac9" />
+  <Project Path="08_5digits/08_5digits.vcxproj" Id="82dbbdc8-0d6c-4d63-b5e3-b42fd5b95d01" />
+  <Project Path="09_6digits/09_6digits.vcxproj" Id="62f35aa7-6300-4e5c-b3f7-4b5309555741" />
+  <Project Path="10_square_equation/10_square_equation.vcxproj" Id="cf020f46-c286-4ee1-b998-c2e9d0d42705" />
+  <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
+  <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
