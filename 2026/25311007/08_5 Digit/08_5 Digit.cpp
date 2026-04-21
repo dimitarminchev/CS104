@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 	int a;
+
 	cin >> a;
 	int a5 = (a / 10000) % 10;
 	int a4 = (a / 1000) % 10;
@@ -10,7 +11,8 @@ int main()
 	int a2 = (a / 10) % 10;
 	int a1 = (a / 1) % 10;
 
-	cout << "Sum: " << a1 + a3 + a5;
+	cout << a1 + a2 + a3 + a4 + a5 << endl;
+	cout << a1 * a2 * a3 * a4 * a5 << endl;
 
 	return 0;
 }
