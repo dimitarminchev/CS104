@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_Hello/01_Hello.vcxproj" />
+  <Project Path="02_sum.cpp/02_sum.cpp.vcxproj" />
+  <Project Path="04_circle/04_circle.vcxproj" />
+</Solution>

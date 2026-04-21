@@ -7,4 +7,5 @@
   <Project Path="02_Sum/02_Sum.vcxproj" Id="e20121e9-4489-4996-8428-4447aae4fa17" />
   <Project Path="03_Rectangle/03_Rectangle.vcxproj" Id="2d1c77fd-8415-47dc-b222-5288664a6e49" />
   <Project Path="04_circle/04_circle.vcxproj" Id="d40c32f2-6dd7-4ba3-b4c3-8ee5ecb6ca7c" />
+  <Project Path="Money in the pocket/Money in the pocket.vcxproj" Id="bdc6565a-34c4-4c9b-8837-e937d8b0aa27" />
 </Solution>
