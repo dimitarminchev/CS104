@@ -9,4 +9,6 @@
   <Project Path="06_Reverse/06_Reverse.vcxproj" Id="1e0ccfeb-966a-4f22-a58b-3b409eb0b3c3" />
   <Project Path="07_SumPro/07_SumPro.vcxproj" Id="6c487a59-5e76-4fea-a854-bdbfbc6a820b" />
   <Project Path="08_5digit/08_5digit.vcxproj" Id="3dff1a02-5d17-4ef3-aa04-08d9e0cd838c" />
+  <Project Path="09_6digit/09_6digit.vcxproj" Id="d3d16cbd-f65e-44a3-aa67-04cf932977c4" />
+  <Project Path="0_10 Square_Equation/0_10 Square_Equation.vcxproj" Id="a58242e4-b6f8-4961-ba09-5bd9b3ad6f61" />
 </Solution>

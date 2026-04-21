@@ -1,16 +1,9 @@
 #include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-
 using namespace std;
-
 int main()
 {
 	int a;
-
 	cin >> a;
-
 	int a4 = (a / 1000) % 10;
 	int a3 = (a / 100) % 10;
 	int a2 = (a / 10) % 10;
