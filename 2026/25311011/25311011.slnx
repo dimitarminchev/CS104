@@ -5,4 +5,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="01_Hello/01_Hello.vcxproj" Id="7629bc4d-f376-4b87-8086-3ba74cef6613" />
+  <Project Path="02_Sum/02_Sum.vcxproj" Id="b254b793-ea90-4d5a-b4a9-bddbac3a413c" />
 </Solution>
