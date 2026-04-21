@@ -8,4 +8,5 @@
   <Project Path="03_rectangle/03_rectangle.vcxproj" Id="09fc8e6b-dc5c-417c-b4c9-8d83564341fb" />
   <Project Path="04_circle/04_circle.vcxproj" Id="44f61ad8-4488-4e73-b6a9-70f4016300ec" />
   <Project Path="04_circlee/04_circlee.vcxproj" Id="a5fc0fea-3028-4ce9-8cbc-9c71c738d785" />
+  <Project Path="05_pocet_money/05_pocet_money.vcxproj" Id="7f439e35-6d09-4c8f-9810-e904950a0791" />
 </Solution>
