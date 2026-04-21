@@ -1,10 +1,5 @@
 #include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-
 using namespace std;
-
 int main()
 {
 	int a;
@@ -15,9 +10,9 @@ int main()
 	int a3 = (a / 100) % 10;
 	int a2 = (a / 10) % 10;
 	int a1 = (a / 1) % 10;
-
+	
 	cout << a1 + a2 + a3 + a4 << endl;
 	cout << a1 * a2 * a3 * a4 << endl;
-
+	
 	return 0;
 }
