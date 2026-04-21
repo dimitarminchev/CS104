@@ -11,4 +11,5 @@
   <Project Path="05_MoneyInThePocket/05_MoneyInThePocket.vcxproj" Id="ce3ec2e2-985b-4856-b3d7-0e9322285edd" />
   <Project Path="06_3Digits/06_3Digits.vcxproj" Id="137c0d09-b956-473b-8129-31715916eea9" />
   <Project Path="07_SumPro/07_SumPro.vcxproj" Id="79328b9d-ff6f-4025-a923-a875e517bc31" />
+  <Project Path="08_5Digit/08_5Digit.vcxproj" Id="a5e64277-dd81-447f-bda7-ba1726f824aa" />
 </Solution>
