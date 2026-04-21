@@ -11,8 +11,7 @@ int main()
 	int a2 = (a / 10) % 10;
 	int a1 = (a / 1) % 10;
 
-	cout << a1 + a2 + a3 + a4 + a5 + a6 << endl;
-	cout << a1 * a2 * a3 * a4 + a5 + a6 << endl;
+	ccout << "Sum: " << a2 * a4 * a5;
 
 	return 0;
 }
