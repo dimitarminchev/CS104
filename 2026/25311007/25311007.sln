@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Hello", "01_Hello\01_Hello.vcxproj", "{EAF4E5FF-B8DE-4AD6-AF47-5662141D55BD}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Sum", "01_Sum\01_Sum.vcxproj", "{6A65BDF0-68E2-4F2B-98C3-530CF346E4A5}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Rectangle", "03_Rectangle\03_Rectangle.vcxproj", "{4F842D05-D862-49B3-9D33-3E9D7494CE31}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Circle", "04_Circle\04_Circle.vcxproj", "{EB0B06B2-6636-4730-AB8B-459D875063ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{4F842D05-D862-49B3-9D33-3E9D7494CE31}.Release|x64.Build.0 = Release|x64
 		{4F842D05-D862-49B3-9D33-3E9D7494CE31}.Release|x86.ActiveCfg = Release|Win32
 		{4F842D05-D862-49B3-9D33-3E9D7494CE31}.Release|x86.Build.0 = Release|Win32
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Debug|x64.ActiveCfg = Debug|x64
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Debug|x64.Build.0 = Debug|x64
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Debug|x86.Build.0 = Debug|Win32
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Release|x64.ActiveCfg = Release|x64
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Release|x64.Build.0 = Release|x64
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Release|x86.ActiveCfg = Release|Win32
+		{EB0B06B2-6636-4730-AB8B-459D875063ED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

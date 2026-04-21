@@ -11,7 +11,7 @@ int main()
 	cin >> b;
 
 	int area = a * b;
-	cout << "The area of the rectangle is: " << area << endl;
+	cout << "The area of the rectangle is: " << area << endl;	
 	int perimeter = 2 * (a + b);
 	cout << "The perimeter of the rectangle is: " << perimeter << endl;
 

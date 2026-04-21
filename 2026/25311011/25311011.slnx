@@ -6,4 +6,6 @@
   </Configurations>
   <Project Path="01_Hello/01_Hello.vcxproj" Id="7629bc4d-f376-4b87-8086-3ba74cef6613" />
   <Project Path="02_Sum/02_Sum.vcxproj" Id="b254b793-ea90-4d5a-b4a9-bddbac3a413c" />
+  <Project Path="03_Rectangle/03_Rectangle.vcxproj" Id="e5cff7fe-fa7b-464d-9cd6-b92b33a13571" />
+  <Project Path="04_Circle/04_Circle.vcxproj" Id="cd730355-6a88-4c6d-bca3-3f5a77487339" />
 </Solution>
