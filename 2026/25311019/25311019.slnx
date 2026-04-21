@@ -8,5 +8,6 @@
   <Project Path="04_circle/04_circle.vcxproj" Id="ddbffd1d-7dd9-49f7-ad53-79bce3b81396" />
   <Project Path="05_pocket_money/05_pocket_money.vcxproj" Id="c0f7822a-23a4-4b70-9987-e2b626724f9a" />
   <Project Path="06_reverse/06_reverse.vcxproj" Id="d582cb29-90f2-4497-977c-3b1bf0d0fac9" />
+  <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
