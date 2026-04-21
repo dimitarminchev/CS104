@@ -8,4 +8,5 @@
   <Project Path="05_MITP/05_MITP.vcxproj" Id="52dafeb3-d4eb-49b4-9908-330ea432489b" />
   <Project Path="06_Reverse/06_Reverse.vcxproj" Id="1e0ccfeb-966a-4f22-a58b-3b409eb0b3c3" />
   <Project Path="07_SumPro/07_SumPro.vcxproj" Id="6c487a59-5e76-4fea-a854-bdbfbc6a820b" />
+  <Project Path="08_5digit/08_5digit.vcxproj" Id="3dff1a02-5d17-4ef3-aa04-08d9e0cd838c" />
 </Solution>
