@@ -6,5 +6,7 @@
   <Project Path="01_Hello/01_Hello.vcxproj" Id="b67f507a-7fc6-4baf-8878-59ddd1391075" />
   <Project Path="03_rectangle/03_rectangle.vcxproj" Id="3f97a28f-f05f-4cd0-b324-d4c0ef94097b" />
   <Project Path="04_circle/04_circle.vcxproj" Id="ddbffd1d-7dd9-49f7-ad53-79bce3b81396" />
+  <Project Path="05_pocket_money/05_pocket_money.vcxproj" Id="c0f7822a-23a4-4b70-9987-e2b626724f9a" />
+  <Project Path="06_reverse/06_reverse.vcxproj" Id="d582cb29-90f2-4497-977c-3b1bf0d0fac9" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
