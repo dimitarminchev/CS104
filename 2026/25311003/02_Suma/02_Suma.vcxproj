@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{00b431c3-3b3f-4cbc-9087-f973d10a53e5}</ProjectGuid>
-    <RootNamespace>My01Hello</RootNamespace>
+    <ProjectGuid>{6197a160-e160-46b8-b7f8-d6cf43be105b}</ProjectGuid>
+    <RootNamespace>My02Suma</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_Hello.cpp" />
+    <ClCompile Include="02_Suma.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
