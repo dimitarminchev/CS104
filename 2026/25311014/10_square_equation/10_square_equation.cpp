@@ -12,8 +12,8 @@ int main()
 
     if (D > 0) 
     { 
-        std::cout << "x1: " << (-b + sqrt(D)) / 2 * a << "\n" 
-                  << "x2: " << (-b - sqrt(D)) / 2 * a; 
+        std::cout << "x1: " << (-b + sqrt(D)) / (2 * a) << "\n" 
+                  << "x2: " << (-b - sqrt(D)) / (2 * a); 
     }
     else if (D == 0) { std::cout << "x1: " << -b / 2 * a; }
     else { std::cout << "No roots"; }

@@ -2,22 +2,13 @@
 
 int main()
 {
-	double sum = 0.0, amount[8]{};
-	int multiplier[8]{ 1, 2, 5, 10, 20, 50, 1, 2 };
+	double sum = 0.0, amount[8]{}, multiplier[8]{ 0.01, 0.02, 0.05, 0.1, 0.2, 0.5, 1, 2 };
 
 	std::cout << "Enter how many money you have:\n";
 
-	for (int i = 0; i <= 7; i++)
-	{
-		std::cin >> amount[i];
+	for (int i = 0; i <= 7; i++) { std::cin >> amount[i]; sum += amount[i] * multiplier[i]; }
 
-		if (i == 7 || i == 8) { std::cout << " euro(s)"; }
-		else { std::cout << " euro cent(s)"; }
-	}
-
-	for (int i = 0; i <= 7; i++) { if (i < 7) { amount[i] /= 100; } sum += amount[i] * multiplier[i]; }
-
-	std::cout << "You have" << sum << "euro(s)";
+	std::cout << "You have " << sum << " euro(s)";
 
 	system("pause");
 }
