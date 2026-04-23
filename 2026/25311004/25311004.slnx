@@ -14,4 +14,5 @@
   <Project Path="11_SqrEquation2/11_SqrEquation2.vcxproj" Id="78d8896d-1079-40a0-aa73-35b31bb4b882" />
   <Project Path="12_Finance/12_Finance.vcxproj" Id="0253adf7-ebc2-45c6-b7b7-2d2a62744b8d" />
   <Project Path="13_NAP/13_NAP.vcxproj" Id="f95b7227-3ccc-42a7-9fad-00a72cdaaf40" />
+  <Project Path="14_MinMax/14_MinMax.vcxproj" Id="87b32d91-9adf-4359-94b2-7b9324e05adb" />
 </Solution>
