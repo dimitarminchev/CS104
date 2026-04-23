@@ -13,4 +13,5 @@
   <Project Path="07_SumPro/07_SumPro.vcxproj" Id="79328b9d-ff6f-4025-a923-a875e517bc31" />
   <Project Path="08_5Digit/08_5Digit.vcxproj" Id="a5e64277-dd81-447f-bda7-ba1726f824aa" />
   <Project Path="09_6Digit/09_6Digit.vcxproj" Id="5aa1291b-5124-4342-a00e-8b4c3594b739" />
+  <Project Path="10_QuadraticEquation/10_QuadraticEquation.vcxproj" Id="1cf56532-8ace-4acc-96bd-69420bf1de3a" />
 </Solution>
