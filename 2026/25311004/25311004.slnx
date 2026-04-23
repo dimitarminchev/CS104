@@ -13,4 +13,9 @@
   <Project Path="0_10 Square_Equation/0_10 Square_Equation.vcxproj" Id="a58242e4-b6f8-4961-ba09-5bd9b3ad6f61" />
   <Project Path="11_SqrEquation2/11_SqrEquation2.vcxproj" Id="78d8896d-1079-40a0-aa73-35b31bb4b882" />
   <Project Path="12_Finance/12_Finance.vcxproj" Id="0253adf7-ebc2-45c6-b7b7-2d2a62744b8d" />
+  <Project Path="13_NAP/13_NAP.vcxproj" Id="f95b7227-3ccc-42a7-9fad-00a72cdaaf40" />
+  <Project Path="14_MinMax/14_MinMax.vcxproj" Id="87b32d91-9adf-4359-94b2-7b9324e05adb" />
+  <Project Path="15_spc/15_spc.vcxproj" Id="fdbc40c8-b65e-4ab2-8733-b768f4a8f287" />
+  <Project Path="16_CircleIntercept/16_CircleIntercept.vcxproj" Id="e71aeb1d-f11f-4dc3-b936-89e945411a2f" />
+  <Project Path="17_InterceptWithCoordinates/17_InterceptWithCoordinates.vcxproj" Id="9a8e3bad-4629-4435-a53c-671050be7236" />
 </Solution>
