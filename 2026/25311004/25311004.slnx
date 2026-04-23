@@ -16,4 +16,6 @@
   <Project Path="13_NAP/13_NAP.vcxproj" Id="f95b7227-3ccc-42a7-9fad-00a72cdaaf40" />
   <Project Path="14_MinMax/14_MinMax.vcxproj" Id="87b32d91-9adf-4359-94b2-7b9324e05adb" />
   <Project Path="15_spc/15_spc.vcxproj" Id="fdbc40c8-b65e-4ab2-8733-b768f4a8f287" />
+  <Project Path="16_CircleIntercept/16_CircleIntercept.vcxproj" Id="e71aeb1d-f11f-4dc3-b936-89e945411a2f" />
+  <Project Path="17_InterceptWithCoordinates/17_InterceptWithCoordinates.vcxproj" Id="9a8e3bad-4629-4435-a53c-671050be7236" />
 </Solution>

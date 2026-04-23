@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bdc6565a-34c4-4c9b-8837-e937d8b0aa27}</ProjectGuid>
-    <RootNamespace>Moneyinthepocket</RootNamespace>
+    <ProjectGuid>{9a8e3bad-4629-4435-a53c-671050be7236}</ProjectGuid>
+    <RootNamespace>My17InterceptWithCoordinates</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Money in the pocket.cpp" />
+    <ClCompile Include="17_InterceptWithCoordinates.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
