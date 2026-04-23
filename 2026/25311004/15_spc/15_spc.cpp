@@ -41,5 +41,4 @@ int main() {
 		cout << "p = " << p << endl;
 		cout << "s = " << s << endl;
 	}
-	return 0;
 }
