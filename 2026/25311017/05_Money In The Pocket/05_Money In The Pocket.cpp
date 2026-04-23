@@ -31,7 +31,7 @@ int main()
 
     float total = ec1 * 1 + ec2 * 2 + ec5 * 5 + ec10 * 10
         + ec20 * 20 + ec50 * 50 + e1 * 100 + e2 * 200;
-    
+
     float total2 = total / 100;
 
     cout << "Obshto: " << total2 << " EUR" << endl;
