@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Money in the pocket.cpp">
+    <ClCompile Include="14_MinMax of 3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
