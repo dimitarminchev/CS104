@@ -15,5 +15,6 @@
   <Project Path="09_6digits/09_6digits.vcxproj" Id="6cbee3b3-769d-4555-8f1e-85ad1025e994" />
   <Project Path="10_square_equation/10_square_equation.vcxproj" Id="22cdb842-1bec-4704-b848-19fdc952bf6e" />
   <Project Path="12_finances/12_finances.vcxproj" Id="d0dc0d56-a6be-421d-8dd9-23ff80bb1bd4" />
+  <Project Path="13_Nap2026/13_Nap2026.vcxproj" Id="9ea7a440-09e9-4073-856d-f6c84c82c366" />
   <Project Path="SQ.EQ.2/SQ.EQ.2.vcxproj" Id="c40bab7f-b4b0-453e-af37-32bd49f0c7f8" />
 </Solution>
