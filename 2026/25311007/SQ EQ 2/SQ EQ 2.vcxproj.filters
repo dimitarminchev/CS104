@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07_sum_pro.cpp">
+    <ClCompile Include="SQ EQ 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

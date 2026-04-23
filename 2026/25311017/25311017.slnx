@@ -12,5 +12,7 @@
   <Project Path="08_5-digit/08_5-digit.vcxproj" Id="4f158403-0de8-4668-bbad-f81645aafd53" />
   <Project Path="09_6-digits/09_6-digits.vcxproj" Id="519533d1-bc21-45cc-9938-400f036fe650" />
   <Project Path="10_sqeq/10_sqeq.vcxproj" Id="24915e2f-1ebd-45be-9655-2dcd8341c8a0" />
+  <Project Path="11_SQEQ2/11_SQEQ2.vcxproj" Id="567eff19-e0cf-4de9-bf98-9be3c8b2d01f" />
+  <Project Path="12_BankFinance/12_BankFinance.vcxproj" Id="53f5631a-5d4e-4938-a03c-8345a301d401" />
   <Project Path="Money in the pocket/Money in the pocket.vcxproj" Id="bdc6565a-34c4-4c9b-8837-e937d8b0aa27" />
 </Solution>
