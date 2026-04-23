@@ -3,5 +3,14 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="03_rectangle/03_rectangle.vcxproj" />
+  <Project Path="03_rectangle/03_rectangle.vcxproj" Id="6e8896f6-944c-49ba-8d41-8a5b5b5445ab" />
+  <Project Path="04_Circle/04_Circle.vcxproj" Id="58533a11-d591-4e2e-8b64-082879a858c4" />
+  <Project Path="05_MITP/05_MITP.vcxproj" Id="52dafeb3-d4eb-49b4-9908-330ea432489b" />
+  <Project Path="06_Reverse/06_Reverse.vcxproj" Id="1e0ccfeb-966a-4f22-a58b-3b409eb0b3c3" />
+  <Project Path="07_SumPro/07_SumPro.vcxproj" Id="6c487a59-5e76-4fea-a854-bdbfbc6a820b" />
+  <Project Path="08_5digit/08_5digit.vcxproj" Id="3dff1a02-5d17-4ef3-aa04-08d9e0cd838c" />
+  <Project Path="09_6digit/09_6digit.vcxproj" Id="d3d16cbd-f65e-44a3-aa67-04cf932977c4" />
+  <Project Path="0_10 Square_Equation/0_10 Square_Equation.vcxproj" Id="a58242e4-b6f8-4961-ba09-5bd9b3ad6f61" />
+  <Project Path="11_SqrEquation2/11_SqrEquation2.vcxproj" Id="78d8896d-1079-40a0-aa73-35b31bb4b882" />
+  <Project Path="12_Finance/12_Finance.vcxproj" Id="0253adf7-ebc2-45c6-b7b7-2d2a62744b8d" />
 </Solution>
