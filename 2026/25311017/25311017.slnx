@@ -15,5 +15,6 @@
   <Project Path="11_SQEQ2/11_SQEQ2.vcxproj" Id="567eff19-e0cf-4de9-bf98-9be3c8b2d01f" />
   <Project Path="12_BankFinance/12_BankFinance.vcxproj" Id="53f5631a-5d4e-4938-a03c-8345a301d401" />
   <Project Path="13_kidNAP/13_kidNAP.vcxproj" Id="cdaebffe-7cc8-4007-aedd-2b91d9433020" />
+  <Project Path="14_MinMax of 3/14_MinMax of 3.vcxproj" Id="def9bf23-31d4-4b8a-81ed-67f3f994b93e" />
   <Project Path="Money in the pocket/Money in the pocket.vcxproj" Id="bdc6565a-34c4-4c9b-8837-e937d8b0aa27" />
 </Solution>
