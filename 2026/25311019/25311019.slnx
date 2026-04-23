@@ -15,6 +15,9 @@
   <Project Path="12_finances/12_finances.vcxproj" Id="18e91c6e-3842-429d-a3ac-63d7b69afccc" />
   <Project Path="13_nap2016/13_nap2016.vcxproj" Id="835702dc-df57-4245-92f1-c81af793a8cd" />
   <Project Path="14_MinMaxOf3/14_MinMaxOf3.vcxproj" Id="2ddaf568-de39-4349-aa25-afda91f3f432" />
+  <Project Path="15_sp/15_sp.vcxproj" Id="c6fc7ec0-431c-4b4e-81e5-63949aa81581" />
+  <Project Path="17_circle_cordinates/17_circle_cordinates.vcxproj" Id="75da03c8-6da2-4002-8c1b-2732978e79f2" />
+  <Project Path="17_circle_intercept/17_circle_intercept.vcxproj" Id="a926b822-5aa2-41ac-86c9-990c299f88f7" />
   <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
