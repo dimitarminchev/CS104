@@ -6,15 +6,14 @@ using namespace std;
 
 int main()
 {
-	int n;
-	int sum = 1;
+	int n, fak = 1;
 	cout << "Enter number: ";
 	cin >> n;
 	for (int k = 1; k <= n; k++)
 	{
-		sum = sum * k;
+		fak *= k;
 	}
-	cout << sum << endl;
+	cout << fak << endl;
 	return 0;
 }
 
