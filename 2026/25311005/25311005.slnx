@@ -19,5 +19,6 @@
   <Project Path="14_MinMaxOf3/14_MinMaxOf3.vcxproj" Id="039f36c5-08fa-4455-850b-c113b58a3b3b" />
   <Project Path="15_sp/15_sp.vcxproj" Id="12412c79-0765-475e-99c7-e01ab4703175" />
   <Project Path="16_circle_intercept/16_circle_intercept.vcxproj" Id="76c8ca6e-cbf9-4b3e-aff4-2cd151fc3847" />
+  <Project Path="17_circle_coordinates/17_circle_coordinates.vcxproj" Id="d47f64b1-ef48-4dc2-b618-7ef479cf0e65" />
   <Project Path="SQ.EQ.2/SQ.EQ.2.vcxproj" Id="c40bab7f-b4b0-453e-af37-32bd49f0c7f8" />
 </Solution>
