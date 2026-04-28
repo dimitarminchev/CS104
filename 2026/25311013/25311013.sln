@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_circle_Coordinates", "17
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_sum3and5", "24_sum3and5\24_sum3and5.vcxproj", "{9A3F6CDC-380B-40F4-AE38-995B0EEBBB34}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22_sumcipto", "22_sumcipto\22_sumcipto.vcxproj", "{3E87B236-8012-4B36-8CE2-0F0E04A63544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{9A3F6CDC-380B-40F4-AE38-995B0EEBBB34}.Release|x64.Build.0 = Release|x64
 		{9A3F6CDC-380B-40F4-AE38-995B0EEBBB34}.Release|x86.ActiveCfg = Release|Win32
 		{9A3F6CDC-380B-40F4-AE38-995B0EEBBB34}.Release|x86.Build.0 = Release|Win32
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Debug|x64.ActiveCfg = Debug|x64
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Debug|x64.Build.0 = Debug|x64
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Debug|x86.Build.0 = Debug|Win32
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Release|x64.ActiveCfg = Release|x64
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Release|x64.Build.0 = Release|x64
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Release|x86.ActiveCfg = Release|Win32
+		{3E87B236-8012-4B36-8CE2-0F0E04A63544}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
