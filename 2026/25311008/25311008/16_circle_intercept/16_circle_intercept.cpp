@@ -1,0 +1,34 @@
+// 16_circle_intercept.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+using namespace std;
+int main()
+{
+	float Xa, Ya, Ra, Xb, Yb, Rb;
+	cout << "Enter circle A(x,y,r):" << endl;
+	cin >> Xa >> Ya >> Ra;
+	cout << "Enter circle B(x,y,r):" << endl;
+	cin >> Xb >> Yb >> Rb;
+
+
+	float d = sqrt(pow(Xa - Xb, 2) + pow(Ya - Yb, 2));
+	if (d == 0 and Ra == Rb) cout << "The circles are the same";
+	else if (d > Ra + Rb or d == 0 and Ra != Rb) cout << "The cirlces have NO common points of interception";
+	else if (d == Ra + Rb) cout << "The circles have ONE common point of interception";
+	else if (d < Ra + Rb) cout << "The circles have TWO common points of interception";
+
+
+	return 0;
+}
+
+// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
+// Debug program: F5 or Debug > Start Debugging menu
+
+// Tips for Getting Started: 
+//   1. Use the Solution Explorer window to add/manage files
+//   2. Use the Team Explorer window to connect to source control
+//   3. Use the Output window to see build output and other messages
+//   4. Use the Error List window to view errors
+//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
+//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
