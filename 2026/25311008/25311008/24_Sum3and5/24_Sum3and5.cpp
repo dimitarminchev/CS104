@@ -1,25 +1,20 @@
-// 06_Revere.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 24_Sum3and5.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
 int main()
 {
-	int a;
-
-
-	cout << "Enter a 3 digit number:";
-	cin >> a;
-
-
-	int a3 = (a / 100) % 10;
-	int a2 = (a / 10) % 10;
-	int a1 = (a / 1) % 10;
-
-
-	cout << a1 << a2 << a3 << endl;
-
-
+	int sum = 0;
+	for (int k = 100; k <= 999; k++)
+	{
+		if (k % 15 == 0) // :3 and :5
+		{
+			cout << k << " ";
+			sum = sum + k;
+		}
+	}
+	cout << endl << "sum=" << sum << endl;
 	return 0;
 }
 

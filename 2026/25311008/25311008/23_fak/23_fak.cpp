@@ -1,25 +1,18 @@
-// 06_Revere.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 23_fak.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
 int main()
 {
-	int a;
-
-
-	cout << "Enter a 3 digit number:";
-	cin >> a;
-
-
-	int a3 = (a / 100) % 10;
-	int a2 = (a / 10) % 10;
-	int a1 = (a / 1) % 10;
-
-
-	cout << a1 << a2 << a3 << endl;
-
-
+	int n, fak = 1;
+	cout << "n=";
+	cin >> n;
+	for (int i = 1; i <= n; i++)
+	{
+		fak *= i; // fak = fak * i;
+	}
+	cout << "n!=" << fak << endl;
 	return 0;
 }
 

@@ -1,25 +1,17 @@
-// 06_Revere.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 19_While.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
 int main()
 {
-	int a;
-
-
-	cout << "Enter a 3 digit number:";
-	cin >> a;
-
-
-	int a3 = (a / 100) % 10;
-	int a2 = (a / 10) % 10;
-	int a1 = (a / 1) % 10;
-
-
-	cout << a1 << a2 << a3 << endl;
-
-
+	int k = 1;
+	while (k <= 1000)
+	{
+		cout << k << " ";
+		k = k + 1; // k++
+	}
+	cout << endl;
 	return 0;
 }
 
