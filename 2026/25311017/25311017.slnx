@@ -22,4 +22,8 @@
   <Project Path="17_Circle_Coordinates/17_Circle_Coordinates.vcxproj" Id="b1d9c24c-8fe8-4279-b7e8-e3d2af86c2aa" />
   <Project Path="18_for/18_for.vcxproj" Id="75e5aa5b-9681-469e-bffb-3a9a4bc52aa0" />
   <Project Path="19_while/19_while.vcxproj" Id="1014829d-4986-4b1d-8317-124029fad4d3" />
+  <Project Path="20_do_while/20_do_while.vcxproj" Id="74f924bb-51c9-4313-a9d2-df94fc9b92fa" />
+  <Project Path="21_click/21_click.vcxproj" Id="29e72abf-bdeb-4997-acb7-36a4ab58f166" />
+  <Project Path="22_sumupto/22_sumupto.vcxproj" Id="9fb1aad9-f63d-4228-ab1f-f460bca2f754" />
+  <Project Path="23_FAK/23_FAK.vcxproj" Id="0069cda2-9667-490e-ab80-1df52ae08072" />
 </Solution>

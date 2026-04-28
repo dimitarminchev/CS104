@@ -20,6 +20,8 @@
   <Project Path="17_circle_intercept/17_circle_intercept.vcxproj" Id="a926b822-5aa2-41ac-86c9-990c299f88f7" />
   <Project Path="18_for/18_for.vcxproj" Id="109c34eb-936c-4d7d-a888-aeffa50415fc" />
   <Project Path="19_while/19_while.vcxproj" Id="e4373e56-10b8-4e26-873a-bfb3c406a9ed" />
+  <Project Path="20_do_while/20_do_while.vcxproj" Id="0955ede1-2f45-4a01-afaa-4ea13a766c70" />
+  <Project Path="21_Click/21_Click.vcxproj" Id="4f2d03a8-87c9-4e8e-9580-531cd5ddb0bd" />
   <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
