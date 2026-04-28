@@ -1,4 +1,4 @@
-// 20_Do.While.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 22_SumUpTo.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -6,15 +6,14 @@ using namespace std;
 
 int main()
 {
-	int k = 1;
-	do
+	int n, sum = 0;
+	cout << "Enter number: ";
+	cin >> n;
+	for (int k = 1; k <= n; k++)
 	{
-		cout << k << " ";
-		k = k + 1;
+		sum += k;
 	}
-	while (k <= 1000);
-
-	cout << endl;
+	cout << sum << endl;
 	return 0;
 }
 

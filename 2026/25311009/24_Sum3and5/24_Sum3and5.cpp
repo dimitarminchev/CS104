@@ -1,4 +1,4 @@
-// 20_Do.While.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 24_Sum3and5.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -6,15 +6,16 @@ using namespace std;
 
 int main()
 {
-	int k = 1;
-	do
+	int sum = 0;
+	for (int k = 100; k <= 999; k++)
 	{
-		cout << k << " ";
-		k = k + 1;
+		if (k % 15 == 0)
+		{
+			cout << k << " ";
+			sum = sum + k;
+		}
 	}
-	while (k <= 1000);
-
-	cout << endl;
+	cout << endl << "sum=" << sum << endl;
 	return 0;
 }
 
