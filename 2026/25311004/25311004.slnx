@@ -22,4 +22,5 @@
   <Project Path="19_While/19_While.vcxproj" Id="c2c8e7e1-dc3b-470a-8611-2783993ac913" />
   <Project Path="20_DoWhile/20_DoWhile.vcxproj" Id="7a09d75f-101e-4d16-b67d-73edd5d6f412" />
   <Project Path="21_Click/21_Click.vcxproj" Id="f091cfb8-ce2f-4bbe-8101-f78758e99aad" />
+  <Project Path="22_SumUpTo/22_SumUpTo.vcxproj" Id="58b8b42d-c87d-4e61-90f0-977616b456fb" />
 </Solution>
