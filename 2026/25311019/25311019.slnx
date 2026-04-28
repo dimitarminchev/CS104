@@ -26,6 +26,7 @@
   <Project Path="23_fal/23_fal.vcxproj" Id="1c019903-fc5f-4c1d-841d-a2123f398970" />
   <Project Path="24_sum3and5/24_sum3and5.vcxproj" Id="4d9b8550-3768-4890-ab66-340677a77d29" />
   <Project Path="25_4digit/25_4digit.vcxproj" Id="670c92f5-3874-4999-a18d-360506c4f66b" />
+  <Project Path="26_fib/26_fib.vcxproj" Id="4ae2b766-a0b0-4b2d-a9f2-a92e3027ff92" />
   <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
