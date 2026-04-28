@@ -1,4 +1,4 @@
-// 20_Do.While.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 21_Click.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -7,14 +7,21 @@ using namespace std;
 int main()
 {
 	int k = 1;
+	string g = "click";
 	do
 	{
-		cout << k << " ";
-		k = k + 1;
-	}
-	while (k <= 1000);
+		if (k % 7 == 0)
+			cout << g << " ";
+		else if (k % 10 == 7)
+			cout << g << " ";
+		else if (k / 10 == 7)
+			cout << g << " "; 
+		else
+			cout << k << " ";
 
-	cout << endl;
+		k++;
+
+	} while (k <= 100);
 	return 0;
 }
 
