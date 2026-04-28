@@ -21,4 +21,8 @@
   <Project Path="18_For1000/18_For1000.vcxproj" Id="4f05492a-d531-4a23-b278-9d87c057a722" />
   <Project Path="19_While/19_While.vcxproj" Id="c2c8e7e1-dc3b-470a-8611-2783993ac913" />
   <Project Path="20_DoWhile/20_DoWhile.vcxproj" Id="7a09d75f-101e-4d16-b67d-73edd5d6f412" />
+  <Project Path="21_Click/21_Click.vcxproj" Id="f091cfb8-ce2f-4bbe-8101-f78758e99aad" />
+  <Project Path="22_SumUpTo/22_SumUpTo.vcxproj" Id="58b8b42d-c87d-4e61-90f0-977616b456fb" />
+  <Project Path="23_fak/23_fak.vcxproj" Id="e04d540c-4d66-4245-adcb-f6ba4ab4cab4" />
+  <Project Path="24_sum3n5/24_sum3n5.vcxproj" Id="46cf17fb-795f-4563-9d96-b14a93f99cee" />
 </Solution>

@@ -1,21 +1,11 @@
-// 20_Do.While.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 22_sum_up_to.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
-using namespace std;
 
 int main()
 {
-	int k = 1;
-	do
-	{
-		cout << k << " ";
-		k = k + 1;
-	}
-	while (k <= 1000);
-
-	cout << endl;
-	return 0;
+    std::cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
