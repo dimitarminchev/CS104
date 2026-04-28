@@ -10,6 +10,6 @@ int main()
         a = b;
         b = c;
         c = a + b;
-        cout << c << " ";
+        if (c < n) cout << c << " ";
     } 
 }
