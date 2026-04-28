@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int k = 1;
+	do
+	{
+		cout << k << "";
+		k = k + 1;//k++
+	} 
+	while (k <= 1000);
+	cout << endl;
+	return 0;
+}
