@@ -6,6 +6,9 @@ using namespace std;
 int main()
 {
 	int a;
+
+
+	cout << "Enter a 3 digit number:";
 	cin >> a;
 
 
