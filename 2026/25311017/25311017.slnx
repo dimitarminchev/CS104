@@ -20,4 +20,5 @@
   <Project Path="15_sp/15_sp.vcxproj" Id="bc493b8a-4679-4355-a05d-f0757e8b35a8" />
   <Project Path="16_circle_intercept/16_circle_intercept.vcxproj" Id="9fec6655-8c98-4882-8b0e-8c26ff7dd1b5" />
   <Project Path="17_Circle_Coordinates/17_Circle_Coordinates.vcxproj" Id="b1d9c24c-8fe8-4279-b7e8-e3d2af86c2aa" />
+  <Project Path="18_for/18_for.vcxproj" Id="75e5aa5b-9681-469e-bffb-3a9a4bc52aa0" />
 </Solution>
