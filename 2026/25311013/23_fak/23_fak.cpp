@@ -14,7 +14,7 @@ int main()
 		
 	}
 
-	cout << endl << "sum=" << sum << endl;
+	cout << endl << "n!=" << sum << endl;
 
 	return 0;
 }
