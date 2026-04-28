@@ -25,18 +25,18 @@ int main()
 	}
 	else if (d < Ar + Br)
 	{
-		cout << "Circles have TWO common points of intercept";
-		a = (pow(Ar, 2) - pow(Br, 2) + pow(d, 2)) / 2 * d;
+		cout << "Circles have TWO common points of intercept" << endl;
+		a = (pow(Ar, 2) - pow(Br, 2) + pow(d, 2)) / (2 * d);
 		h = sqrt(pow(Ar, 2) - pow(a, 2));
 
-		float x = Ax + a * (Bx - Ax) / d;
-		float y = Ay + a * (By - Ay) / d;
+		float x = (a * (Bx - Ax) / d) + Ax;
+		float y = (a * (By - Ay) / d) + Ay;
 
-		Cx = x + h * (By - Ay) / d;
-		Cy = y - h * (Bx - Ax) / d;
+		Cx = (h * (By - Ay) / d) + x;
+		Cy = (h * (Bx - Ax) / d) - y;
 
-		Dx = x - h * (By - Ay) / d;
-		Dy = y + h * (Bx - Ax) / d;
+		Dx = (h * (By - Ay) / d) - x;
+		Dy = (h * (Bx - Ax) / d) + y;
 
 		cout << "Cx = " << Cx << " ; " << "Cy = " << Cy << endl;
 		cout << "Dx = " << Dx << " ; " << "Dy = " << Dy << endl;
