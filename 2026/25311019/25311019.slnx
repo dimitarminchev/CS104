@@ -22,6 +22,11 @@
   <Project Path="19_while/19_while.vcxproj" Id="e4373e56-10b8-4e26-873a-bfb3c406a9ed" />
   <Project Path="20_do_while/20_do_while.vcxproj" Id="0955ede1-2f45-4a01-afaa-4ea13a766c70" />
   <Project Path="21_Click/21_Click.vcxproj" Id="4f2d03a8-87c9-4e8e-9580-531cd5ddb0bd" />
+  <Project Path="22_sumcrpto/22_sumcrpto.vcxproj" Id="2f03ba81-11f2-499c-9a11-728335a99ed8" />
+  <Project Path="23_fal/23_fal.vcxproj" Id="1c019903-fc5f-4c1d-841d-a2123f398970" />
+  <Project Path="24_sum3and5/24_sum3and5.vcxproj" Id="4d9b8550-3768-4890-ab66-340677a77d29" />
+  <Project Path="25_4digit/25_4digit.vcxproj" Id="670c92f5-3874-4999-a18d-360506c4f66b" />
+  <Project Path="26_fib/26_fib.vcxproj" Id="4ae2b766-a0b0-4b2d-a9f2-a92e3027ff92" />
   <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
