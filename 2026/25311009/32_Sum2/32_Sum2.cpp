@@ -1,22 +1,22 @@
-// 26_Fib.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
 {
-	int a = 1, b = 1, c = a + b, n;
+	int n, x;
+	double sum = 0;
+	cout << "Enter x: ";
+	cin >> x;
+
 	cout << "Enter n: ";
 	cin >> n;
-	cout << "1 1 2 ";
-	while (c < n)
+
+	for (int k = 1; k <= n; k++)
 	{
-		a = b;
-		b = c;
-		cout << c << " ";
-		c = a + b;
+		sum = sum + pow(-1,k) * pow(x, k);
 	}
+	cout << "SUM = " << sum << endl;
 	return 0;
 }
 

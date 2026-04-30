@@ -1,4 +1,4 @@
-// 26_Fib.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 28_An1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -6,16 +6,14 @@ using namespace std;
 
 int main()
 {
-	int a = 1, b = 1, c = a + b, n;
+	int n;
 	cout << "Enter n: ";
 	cin >> n;
-	cout << "1 1 2 ";
-	while (c < n)
+
+	for (float k = 1; k <= n; k++)
 	{
-		a = b;
-		b = c;
-		cout << c << " ";
-		c = a + b;
+		float An = (1 / k);
+		cout << An << endl;
 	}
 	return 0;
 }

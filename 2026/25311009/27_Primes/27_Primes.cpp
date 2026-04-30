@@ -1,21 +1,24 @@
-// 26_Fib.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 27_Primes.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
 {
-	int a = 1, b = 1, c = a + b, n;
-	cout << "Enter n: ";
+	int n;
+	cout << "n=";
 	cin >> n;
-	cout << "1 1 2 ";
-	while (c < n)
+	for (int k = 2; k < n; k++)
 	{
-		a = b;
-		b = c;
-		cout << c << " ";
-		c = a + b;
+		bool isPrime = true;
+		for (int j = 2; j < k; j++)
+		{
+			if (k % j == 0) isPrime = false;
+		}
+
+		if (isPrime) cout << k << " ";
 	}
 	return 0;
 }

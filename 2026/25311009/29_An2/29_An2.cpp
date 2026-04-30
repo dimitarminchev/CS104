@@ -1,25 +1,23 @@
-// 26_Fib.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 29_An2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
 {
-	int a = 1, b = 1, c = a + b, n;
+	int n;
 	cout << "Enter n: ";
 	cin >> n;
-	cout << "1 1 2 ";
-	while (c < n)
+
+	for (float k = 1; k <= n; k++)
 	{
-		a = b;
-		b = c;
-		cout << c << " ";
-		c = a + b;
+		float An = (1 / pow(k,2));
+		cout << An << endl;
 	}
 	return 0;
 }
-
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
