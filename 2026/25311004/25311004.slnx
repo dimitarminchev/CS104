@@ -27,4 +27,5 @@
   <Project Path="24_sum3n5/24_sum3n5.vcxproj" Id="46cf17fb-795f-4563-9d96-b14a93f99cee" />
   <Project Path="25_4digit/25_4digit.vcxproj" Id="eed25e37-8b04-4bb8-9339-6b1bfc836cac" />
   <Project Path="26_Fibo/26_Fibo.vcxproj" Id="a40f1e25-ca3a-4736-a9de-0a04be07f9cf" />
+  <Project Path="27_Primes/27_Primes.vcxproj" Id="2664a84a-bcb9-427c-9292-2d3a6c70a70f" />
 </Solution>
