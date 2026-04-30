@@ -16,4 +16,5 @@
   <Project Path="10_QuadraticEquation/10_QuadraticEquation.vcxproj" Id="1cf56532-8ace-4acc-96bd-69420bf1de3a" />
   <Project Path="11_SQ EQ 2/11_SQ EQ 2.vcxproj" Id="a764d01d-d8ae-4bb0-b4d3-393bb2c9b9c9" />
   <Project Path="12_Finance/12_Finance.vcxproj" Id="9573ed02-098a-4854-98e7-2d70f4534945" />
+  <Project Path="13_NAP/13_NAP.vcxproj" Id="1169cc38-31a0-476b-964f-b6839622a439" />
 </Solution>
