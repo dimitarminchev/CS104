@@ -18,4 +18,5 @@
   <Project Path="12_Finance/12_Finance.vcxproj" Id="9573ed02-098a-4854-98e7-2d70f4534945" />
   <Project Path="13_NAP/13_NAP.vcxproj" Id="1169cc38-31a0-476b-964f-b6839622a439" />
   <Project Path="14_MaxMin3numbers/14_MaxMin3numbers.vcxproj" Id="460c006f-0523-4bf7-916d-0ab974677737" />
+  <Project Path="15_SP/15_SP.vcxproj" Id="a54c50a1-07d1-4a62-963b-474fc49c50d9" />
 </Solution>
