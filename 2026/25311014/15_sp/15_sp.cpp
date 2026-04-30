@@ -18,8 +18,6 @@ void r_square()
 
 	std::cout << "Perimeter: " << (a + b) * 2 << "\n"
 		      << "Square: "    << a * b;
-
-
 }
 
 void c_square()
