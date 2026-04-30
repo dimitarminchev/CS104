@@ -31,4 +31,6 @@
   <Project Path="25_4digit/25_4digit.vcxproj" Id="1d18ab8e-db4a-412d-99e0-3480c9c7145b" />
   <Project Path="26_Fib/26_Fib.vcxproj" Id="e53b8e82-b42c-45cf-9754-a9ae6a51905f" />
   <Project Path="27_Prime/27_Prime.vcxproj" Id="88ccd8df-55be-4733-9c8d-f58f67657803" />
+  <Project Path="28_An1/28_An1.vcxproj" Id="805d5ff2-c3b9-490c-adf7-113d2c74cfca" />
+  <Project Path="29_An2/29_An2.vcxproj" Id="3245f1f1-35b8-4b0e-bfa7-191156caf1fe" />
 </Solution>
