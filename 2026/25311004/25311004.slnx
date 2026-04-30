@@ -26,5 +26,11 @@
   <Project Path="23_fak/23_fak.vcxproj" Id="e04d540c-4d66-4245-adcb-f6ba4ab4cab4" />
   <Project Path="24_sum3n5/24_sum3n5.vcxproj" Id="46cf17fb-795f-4563-9d96-b14a93f99cee" />
   <Project Path="25_4digit/25_4digit.vcxproj" Id="eed25e37-8b04-4bb8-9339-6b1bfc836cac" />
-  <Project Path="26_fib/26_fib.vcxproj" Id="8bc74af8-1839-4d1c-ba30-b032e191a9ba" />
+  <Project Path="26_Fibo/26_Fibo.vcxproj" Id="a40f1e25-ca3a-4736-a9de-0a04be07f9cf" />
+  <Project Path="27_Primes/27_Primes.vcxproj" Id="2664a84a-bcb9-427c-9292-2d3a6c70a70f" />
+  <Project Path="28_An1/28_An1.vcxproj" Id="7509f8fd-63a7-4e8c-a8a6-3bf7a97c477f" />
+  <Project Path="29_An2/29_An2.vcxproj" Id="f3e795c2-781f-4d24-bed7-46df1509478e" />
+  <Project Path="30_An3/30_An3.vcxproj" Id="9e62c064-313f-4053-8766-d9c981887474" />
+  <Project Path="31_sum1/31_sum1.vcxproj" Id="8e1b468a-fdc2-4b93-8961-d6c1b3d7b5a7" />
+  <Project Path="32_sum2/32_sum2.vcxproj" Id="a39406c1-1774-4743-9e3b-e5315d600071" />
 </Solution>

@@ -14,4 +14,26 @@
   <Project Path="08_5Digit/08_5Digit.vcxproj" Id="a5e64277-dd81-447f-bda7-ba1726f824aa" />
   <Project Path="09_6Digit/09_6Digit.vcxproj" Id="5aa1291b-5124-4342-a00e-8b4c3594b739" />
   <Project Path="10_QuadraticEquation/10_QuadraticEquation.vcxproj" Id="1cf56532-8ace-4acc-96bd-69420bf1de3a" />
+  <Project Path="11_SQ EQ 2/11_SQ EQ 2.vcxproj" Id="a764d01d-d8ae-4bb0-b4d3-393bb2c9b9c9" />
+  <Project Path="12_Finance/12_Finance.vcxproj" Id="9573ed02-098a-4854-98e7-2d70f4534945" />
+  <Project Path="13_NAP/13_NAP.vcxproj" Id="1169cc38-31a0-476b-964f-b6839622a439" />
+  <Project Path="14_MaxMin3numbers/14_MaxMin3numbers.vcxproj" Id="460c006f-0523-4bf7-916d-0ab974677737" />
+  <Project Path="15_SP/15_SP.vcxproj" Id="a54c50a1-07d1-4a62-963b-474fc49c50d9" />
+  <Project Path="16_CircleIntercept/16_CircleIntercept.vcxproj" Id="ea7c6f72-e23d-41ab-b740-8a1d59506464" />
+  <Project Path="17_Coordinates/17_Coordinates.vcxproj" Id="2b130ece-9ddf-4d96-9137-89da497de76f" />
+  <Project Path="18_For/18_For.vcxproj" Id="9a6abba1-de0f-4e61-a0dc-965da6679d37" />
+  <Project Path="19_While/19_While.vcxproj" Id="fface1d5-b23f-4234-ab45-1944d481a582" />
+  <Project Path="20_DoWhile/20_DoWhile.vcxproj" Id="6a4e650c-0b22-42c2-9590-33d2d5f8af8d" />
+  <Project Path="21_Click/21_Click.vcxproj" Id="1ffdc336-72c8-4fdf-ad42-fff0c3f60430" />
+  <Project Path="22_SumUpTo/22_SumUpTo.vcxproj" Id="287e3df5-be7f-4674-bdea-87aade2c54ae" />
+  <Project Path="23_Fak/23_Fak.vcxproj" Id="892b4494-0ae9-473e-9f9f-4e931e6c9ace" />
+  <Project Path="24_Sum3and5/24_Sum3and5.vcxproj" Id="633f06f1-bc0c-416f-9012-a964950f300a" />
+  <Project Path="25_4digit/25_4digit.vcxproj" Id="1d18ab8e-db4a-412d-99e0-3480c9c7145b" />
+  <Project Path="26_Fib/26_Fib.vcxproj" Id="e53b8e82-b42c-45cf-9754-a9ae6a51905f" />
+  <Project Path="27_Prime/27_Prime.vcxproj" Id="88ccd8df-55be-4733-9c8d-f58f67657803" />
+  <Project Path="28_An1/28_An1.vcxproj" Id="805d5ff2-c3b9-490c-adf7-113d2c74cfca" />
+  <Project Path="29_An2/29_An2.vcxproj" Id="3245f1f1-35b8-4b0e-bfa7-191156caf1fe" />
+  <Project Path="30_An3/30_An3.vcxproj" Id="59991c57-21f3-4520-9a7c-02ed9c6a025d" />
+  <Project Path="31_sum1/31_sum1.vcxproj" Id="171a7d22-80b9-48e3-a814-c40117c78ca4" />
+  <Project Path="32_Sum2/32_Sum2.vcxproj" Id="ff6e13ea-afa7-4bbe-9f85-f2bdc719ca6f" />
 </Solution>
