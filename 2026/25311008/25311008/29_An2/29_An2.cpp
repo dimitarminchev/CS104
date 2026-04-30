@@ -1,20 +1,18 @@
-// 25_4digit.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 29_An2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
 int main()
 {
-    for (int k = 1000; k <= 9999; k++)
+    int n;
+    cout << "Enter n: ";
+    cin >> n;
+
+
+    for (int i = 1; i <= n; i++)
     {
-        int a = (k / 1000) % 10;
-        int b = (k / 100) % 10;
-        int c = (k / 10) % 10;
-        int d = (k / 1) % 10;
-        if (a + b == c + d)
-        {
-            cout << k << " ";
-        }
+        cout << (1.0 / pow(i, 2)) << endl;
     }
     return 0;
 }

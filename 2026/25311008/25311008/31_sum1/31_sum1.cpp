@@ -1,21 +1,26 @@
-// 25_4digit.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 31_sum1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
 int main()
 {
-    for (int k = 1000; k <= 9999; k++)
+    int x, n;
+    cout << "Enter x: ";
+    cin >> x;
+    cout << "Enter n: ";
+    cin >> n;
+
+
+    double sum = 0;
+    for (int k = 1; k <= n; k++)
     {
-        int a = (k / 1000) % 10;
-        int b = (k / 100) % 10;
-        int c = (k / 10) % 10;
-        int d = (k / 1) % 10;
-        if (a + b == c + d)
-        {
-            cout << k << " ";
-        }
+        //cout << pow(x,k) << endl;
+        sum = sum + pow(x, k);
     }
+
+
+    cout << "Sum=" << sum << endl;
     return 0;
 }
 

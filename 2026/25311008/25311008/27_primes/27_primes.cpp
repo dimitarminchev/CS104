@@ -1,22 +1,28 @@
-// 25_4digit.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 27_primes.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
 int main()
 {
-    for (int k = 1000; k <= 9999; k++)
+    int n;
+    cout << "n=";
+    cin >> n;
+
+    // The cycle for checking numbers from 2 to n
+    for (int k = 2; k < n; k++)
     {
-        int a = (k / 1000) % 10;
-        int b = (k / 100) % 10;
-        int c = (k / 10) % 10;
-        int d = (k / 1) % 10;
-        if (a + b == c + d)
+        // K is set as a prime number
+        bool isPrime = true;
+        // Checking all numbers from 2 to K-1
+        for (int j = 2; j < k; j++)
         {
-            cout << k << " ";
+            // Does the number K have a divider J?
+            if (k % j == 0) isPrime = false;
         }
+        // If the initial hypothesis is still valid, then the number K is prime
+        if (isPrime) cout << k << " ";
     }
-    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
