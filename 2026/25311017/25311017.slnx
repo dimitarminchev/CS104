@@ -27,4 +27,9 @@
   <Project Path="22_sumupto/22_sumupto.vcxproj" Id="9fb1aad9-f63d-4228-ab1f-f460bca2f754" />
   <Project Path="23_FAK/23_FAK.vcxproj" Id="0069cda2-9667-490e-ab80-1df52ae08072" />
   <Project Path="24_sum3n5/24_sum3n5.vcxproj" Id="77181fd3-cfbc-4701-b81f-93bcf8e31fe7" />
+  <Project Path="25_4digits/25_4digits.vcxproj" Id="eb608ed7-a4c5-43ea-a328-2f5da0ba61e1" />
+  <Project Path="26_fibo/26_fibo.vcxproj" Id="7d8f581c-b2e8-4066-9d20-2ab054172c06" />
+  <Project Path="27_primes/27_primes.vcxproj" Id="34162730-b19f-43ba-80c8-e64e86506f92" />
+  <Project Path="28_An1/28_An1.vcxproj" Id="14e484a4-8059-4a5c-81a9-c673c4209d29" />
+  <Project Path="29_An2/29_An2.vcxproj" Id="287a5baf-9ea4-4806-96c2-81cfa1218858" />
 </Solution>
