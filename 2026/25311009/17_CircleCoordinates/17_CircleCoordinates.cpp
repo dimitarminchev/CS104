@@ -50,9 +50,6 @@ int main()
 		cout << "Cx = " << Cx << " ; " << "Cy = " << Cy << endl;
 		cout << "Dx = " << Dx << " ; " << "Dy = " << Dy << endl;
 	}
-	
-
-
 	return 0;
 }
 
