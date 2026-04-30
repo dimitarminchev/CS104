@@ -27,4 +27,5 @@
   <Project Path="21_Click/21_Click.vcxproj" Id="1ffdc336-72c8-4fdf-ad42-fff0c3f60430" />
   <Project Path="22_SumUpTo/22_SumUpTo.vcxproj" Id="287e3df5-be7f-4674-bdea-87aade2c54ae" />
   <Project Path="23_Fak/23_Fak.vcxproj" Id="892b4494-0ae9-473e-9f9f-4e931e6c9ace" />
+  <Project Path="24_Sum3and5/24_Sum3and5.vcxproj" Id="633f06f1-bc0c-416f-9012-a964950f300a" />
 </Solution>
