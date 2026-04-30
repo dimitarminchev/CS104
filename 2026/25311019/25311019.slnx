@@ -32,6 +32,7 @@
   <Project Path="29_An2/29_An2.vcxproj" Id="5eaacbac-c5d6-4776-ae92-f44148c7a080" />
   <Project Path="30_An3/30_An3.vcxproj" Id="094a6180-b747-4f16-a852-13294a67f1ad" />
   <Project Path="31_sum1/31_sum1.vcxproj" Id="a7b00a95-ba17-4b57-a08c-e2f8c96e4d45" />
+  <Project Path="32_sum2/32_sum2.vcxproj" Id="caf1894a-e901-455a-a195-f1160b483d3c" />
   <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
