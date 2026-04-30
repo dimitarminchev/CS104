@@ -20,8 +20,17 @@ int main()
 	else if (d > Ar + Br or d == 0 and Ar != Br) cout << "Circles have NO common point of intercept";
 	else if (d == Ar + Br)
 	{
-		cout << "Circles have ONE common point of intercept";
-		
+		cout << "Circles have ONE common point of intercept" << endl;
+		a = (pow(Ar, 2) - pow(Br, 2) + pow(d, 2)) / (2 * d);
+		h = sqrt(pow(Ar, 2) - pow(a, 2));
+
+		float x = (a * (Bx - Ax) / d) + Ax;
+		float y = (a * (By - Ay) / d) + Ay;
+
+		Cx = x + h / d * (By - Ay);
+		Cy = y - h / d * (Bx - Ax);
+
+		cout << "Cx = " << Cx << " ; " << "Cy = " << Cy << endl;
 	}
 	else if (d < Ar + Br)
 	{
@@ -32,18 +41,15 @@ int main()
 		float x = (a * (Bx - Ax) / d) + Ax;
 		float y = (a * (By - Ay) / d) + Ay;
 
-		Cx = (h * (By - Ay) / d) + x;
-		Cy = (h * (Bx - Ax) / d) - y;
+		Cx = x + h / d * (By - Ay);
+		Cy = y - h / d * (Bx - Ax);
 
-		Dx = (h * (By - Ay) / d) - x;
-		Dy = (h * (Bx - Ax) / d) + y;
+		Dx = x - h / d * (By - Ay);
+		Dy = y + h / d * (Bx - Ax);
 
 		cout << "Cx = " << Cx << " ; " << "Cy = " << Cy << endl;
 		cout << "Dx = " << Dx << " ; " << "Dy = " << Dy << endl;
 	}
-	
-
-
 	return 0;
 }
 
