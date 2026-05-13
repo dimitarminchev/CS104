@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="33_fak2.cpp">
+    <ClCompile Include="36_stepkn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
