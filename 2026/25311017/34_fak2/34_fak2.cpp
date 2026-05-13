@@ -1,4 +1,4 @@
-﻿﻿#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 double fak(int n)
@@ -12,8 +12,10 @@ int main()
     double C_5_35 = fak(35) / (fak(5) * fak(35 - 5));
     double C_6_42 = fak(42) / (fak(6) * fak(42 - 6));
     double C_6_49 = fak(49) / (fak(6) * fak(49 - 6));
+
     cout << "5 from 35 = " << C_5_35 << endl;
     cout << "6 from 42 = " << C_6_42 << endl;
     cout << "6 from 49 = " << C_6_49 << endl;
+
     return 0;
 }
