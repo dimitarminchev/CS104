@@ -36,4 +36,5 @@
   <Project Path="33_fak/33_fak.vcxproj" Id="d0c1e3e7-a6b5-42fa-b221-22cb8d8cafc2" />
   <Project Path="34_combinations/34_combinations.vcxproj" Id="eb6e2873-e0c4-4ab4-a9cd-93eb618cd381" />
   <Project Path="35_step2/35_step2.vcxproj" Id="ee207616-87aa-46e3-bb46-7d5ecdc0c937" />
+  <Project Path="36_stepkn/36_stepkn.vcxproj" Id="0e901735-3edb-40ea-ac3c-345d842cda70" />
 </Solution>
