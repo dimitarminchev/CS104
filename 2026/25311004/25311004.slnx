@@ -34,4 +34,6 @@
   <Project Path="31_sum1/31_sum1.vcxproj" Id="8e1b468a-fdc2-4b93-8961-d6c1b3d7b5a7" />
   <Project Path="32_sum2/32_sum2.vcxproj" Id="a39406c1-1774-4743-9e3b-e5315d600071" />
   <Project Path="33_fak/33_fak.vcxproj" Id="d0c1e3e7-a6b5-42fa-b221-22cb8d8cafc2" />
+  <Project Path="34_combinations/34_combinations.vcxproj" Id="eb6e2873-e0c4-4ab4-a9cd-93eb618cd381" />
+  <Project Path="35_step2/35_step2.vcxproj" Id="ee207616-87aa-46e3-bb46-7d5ecdc0c937" />
 </Solution>
