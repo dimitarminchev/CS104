@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fecd3339-dab7-46da-bd08-923197e361c3}</ProjectGuid>
-    <RootNamespace>My33fak</RootNamespace>
+    <ProjectGuid>{71f199b1-c9f3-49d9-b8ad-f9d7ee91ff9f}</ProjectGuid>
+    <RootNamespace>My36stepkn</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="33_fak.cpp" />
+    <ClCompile Include="36_stepkn.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
