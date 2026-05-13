@@ -18,4 +18,4 @@ int main()
     cout << "6 from 42 = " << C_6_42 << endl;
     cout << "6 from 49 = " << C_6_49 << endl;
     return 0;
-}
+}     
