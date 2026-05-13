@@ -12,6 +12,6 @@ int main()
     int n;
     cout << "n = ";
     cin >> n;
-	cout << "n!" << fak(n) << endl;
+	cout << "n!=" << fak(n) << endl;
     return 0;
 }
