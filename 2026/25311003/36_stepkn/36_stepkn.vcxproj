@@ -21,12 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-<<<<<<<< HEAD:2026/25311007/37_fib/37_fib.vcxproj
-    <ProjectGuid>{f94d5056-ae46-4352-9df8-a841dd6049b1}</ProjectGuid>
-========
-    <ProjectGuid>{21e4cdf3-2926-485f-9709-449225582a6c}</ProjectGuid>
->>>>>>>> 1cb69538eb393308cd9adc43b85b0e7ca13cca50:2026/25311003/37_fib/37_fib.vcxproj
-    <RootNamespace>My37fib</RootNamespace>
+    <ProjectGuid>{8ae27b3f-6913-495a-9b27-6b7385099a36}</ProjectGuid>
+    <RootNamespace>My36stepkn</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="37_fib.cpp" />
+    <ClCompile Include="36_stepkn.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
