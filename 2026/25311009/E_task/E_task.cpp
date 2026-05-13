@@ -1,4 +1,4 @@
-// 09_6digit.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// E_task.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -6,23 +6,19 @@ using namespace std;
 
 int main()
 {
-	int number;
+    int a, m, speed, m_start, t_m, t_a;
+    cin >> speed >> a >> m >> m_start;
 
-	cin >> number;
 
-	int a6 = (number / 100000) % 10;
-	int a5 = (number / 10000) % 10;
-	int a4 = (number / 1000) % 10;
-	int a3 = (number / 100) % 10;
-	int a2 = (number / 10) % 10;
-	int a1 = (number / 1) % 10;
 
-	int multipl = a1 * a3 * a5;
+    t_m = ((m * 1024) - (8 * 256)) / (speed / 2);
+    t_a = ((a * 1024) - (t_m * (speed / 2))) / speed;
+    t_a = t_a + t_m;
+    t_m = t_m + m_start;
+    cout << t_a << " " << t_m;
 
-	cout << multipl << endl;
-	return 0;
+    return 0;
 }
-
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
