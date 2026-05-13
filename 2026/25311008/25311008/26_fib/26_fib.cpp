@@ -6,14 +6,15 @@ using namespace std;
 int main()
 {
     int n, a = 1, b = 1, c = a + b;
+    cout << "Enter n: ";
     cin >> n;
     cout << "1 1 2";
     while (c < n)
     {
         a = b;
         b = c;
-        c = a + b;
         cout << c << " ";
+        c = a + b;
     }
 }
 
