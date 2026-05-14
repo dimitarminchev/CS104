@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "43_bubbleesort", "43_bubble
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "44_matrixmultiplication", "44_matrixmultiplication\44_matrixmultiplication.vcxproj", "{9C189313-DEA7-4335-9D69-6DB9BF039737}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45_matrixsum", "45_matrixsum\45_matrixsum.vcxproj", "{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -451,6 +453,14 @@ Global
 		{9C189313-DEA7-4335-9D69-6DB9BF039737}.Release|x64.Build.0 = Release|x64
 		{9C189313-DEA7-4335-9D69-6DB9BF039737}.Release|x86.ActiveCfg = Release|Win32
 		{9C189313-DEA7-4335-9D69-6DB9BF039737}.Release|x86.Build.0 = Release|Win32
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Debug|x64.ActiveCfg = Debug|x64
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Debug|x64.Build.0 = Debug|x64
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Debug|x86.Build.0 = Debug|Win32
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Release|x64.ActiveCfg = Release|x64
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Release|x64.Build.0 = Release|x64
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Release|x86.ActiveCfg = Release|Win32
+		{A22ED6BC-C26B-463A-83E5-8677C5FC24D9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
