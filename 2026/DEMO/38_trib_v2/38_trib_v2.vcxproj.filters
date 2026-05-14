@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="zad1_PRIME.cpp">
+    <ClCompile Include="38_trib_v2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

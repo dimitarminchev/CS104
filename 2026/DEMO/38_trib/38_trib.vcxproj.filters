@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SUPERPRIME.cpp">
+    <ClCompile Include="38_trib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

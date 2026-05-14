@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{02a99c9b-e850-4998-89db-1bf85ccaf5d4}</ProjectGuid>
-    <RootNamespace>MULTIPLY</RootNamespace>
+    <ProjectGuid>{a3aaea69-201f-4602-8db1-445486e97039}</ProjectGuid>
+    <RootNamespace>My39f</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MULTIPLY.cpp" />
+    <ClCompile Include="39_f.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
