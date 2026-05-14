@@ -24,7 +24,7 @@
     <ProjectGuid>{4d269626-0a17-4dd0-a937-4396b12d0f6e}</ProjectGuid>
     <RootNamespace>My33factorial</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>33_fak</ProjectName>
+    <ProjectName>33_fak2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,7 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="33_fak.cpp" />
+    <ClCompile Include="33_fak2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
