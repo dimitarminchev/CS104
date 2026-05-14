@@ -41,4 +41,12 @@
   <Project Path="35_Step2/35_Step2.vcxproj" Id="ba445440-3b92-4b6f-b685-684b64cd0187" />
   <Project Path="36_StepKN/36_StepKN.vcxproj" Id="1cbd3ae8-ff77-44d4-a7d4-81d884f689cf" />
   <Project Path="37_Fib/37_Fib.vcxproj" Id="e2654de2-ce91-48eb-a3a5-dea313d81ca0" />
+  <Project Path="38_Trib/38_Trib.vcxproj" Id="af12d15d-8bb0-4c65-9d5d-9bbe4c47b154" />
+  <Project Path="39_f/39_f.vcxproj" Id="6ea13c0e-5235-4182-a584-e3ce650eb48e" />
+  <Project Path="40_MinMax/40_MinMax.vcxproj" Id="48100ccd-7c07-452a-b773-6c663d183eb6" />
+  <Project Path="41_Count/41_Count.vcxproj" Id="d953377b-6766-4f73-8303-6dd0109a94b2" />
+  <Project Path="42_Indexes/42_Indexes.vcxproj" Id="13a056be-2d86-47d1-b15f-f8e50e8650ac" />
+  <Project Path="43_BubbleSort/43_BubbleSort.vcxproj" Id="f3164f93-d723-445a-9306-806669cb981b" />
+  <Project Path="44_MatrixMultiplication/44_MatrixMultiplication.vcxproj" Id="f9782eea-0882-4553-8054-2fa5ac9977a8" />
+  <Project Path="45_MatrixSum/45_MatrixSum.vcxproj" Id="59a48078-6cf4-4472-8606-ee08b7fdbcbc" />
 </Solution>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45_matrixsum", "45_matrixsum\45_matrixsum.vcxproj", "{5389B38B-48AC-4553-AA87-A41185C88B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Debug|x64.ActiveCfg = Debug|x64
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Debug|x64.Build.0 = Debug|x64
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Debug|x86.ActiveCfg = Debug|Win32
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Debug|x86.Build.0 = Debug|Win32
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Release|x64.ActiveCfg = Release|x64
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Release|x64.Build.0 = Release|x64
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Release|x86.ActiveCfg = Release|Win32
+		{5389B38B-48AC-4553-AA87-A41185C88B88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B39B9F6E-F49B-4B13-85BF-47063584C9A8}
+	EndGlobalSection
+EndGlobal
