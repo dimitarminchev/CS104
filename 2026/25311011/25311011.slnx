@@ -47,4 +47,5 @@
   <Project Path="41_Count/41_Count.vcxproj" Id="d953377b-6766-4f73-8303-6dd0109a94b2" />
   <Project Path="42_Indexes/42_Indexes.vcxproj" Id="13a056be-2d86-47d1-b15f-f8e50e8650ac" />
   <Project Path="43_BubbleSort/43_BubbleSort.vcxproj" Id="f3164f93-d723-445a-9306-806669cb981b" />
+  <Project Path="44_MatrixMultiplication/44_MatrixMultiplication.vcxproj" Id="f9782eea-0882-4553-8054-2fa5ac9977a8" />
 </Solution>
