@@ -41,4 +41,5 @@
   <Project Path="38_tribo/38_tribo.vcxproj" Id="dad1b741-d200-4046-8799-b053a820f6f8" />
   <Project Path="39_bla/39_bla.vcxproj" Id="bfc70f3c-8d56-4ace-bb07-21ddf9f91021" />
   <Project Path="40_min_max/40_min_max.vcxproj" Id="9898d937-76d5-403a-b3fd-2bb48d80c679" />
+  <Project Path="41_count/41_count.vcxproj" Id="e10b3bdc-19bb-4c3e-b976-b18b864308b6" />
 </Solution>
