@@ -17,7 +17,7 @@ int main()
 	int a2 = (number / 10) % 10;
 	int a1 = (number / 1) % 10;
 
-	int multipl = a2 * a4 * a6;
+	int multipl = a1 * a3 * a5;
 
 	cout << multipl << endl;
 	return 0;
