@@ -45,4 +45,5 @@
   <Project Path="39_f/39_f.vcxproj" Id="6ea13c0e-5235-4182-a584-e3ce650eb48e" />
   <Project Path="40_MinMax/40_MinMax.vcxproj" Id="48100ccd-7c07-452a-b773-6c663d183eb6" />
   <Project Path="41_Count/41_Count.vcxproj" Id="d953377b-6766-4f73-8303-6dd0109a94b2" />
+  <Project Path="42_Indexes/42_Indexes.vcxproj" Id="13a056be-2d86-47d1-b15f-f8e50e8650ac" />
 </Solution>
