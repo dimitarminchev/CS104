@@ -40,4 +40,5 @@
   <Project Path="34_Combinations/34_Combinations.vcxproj" Id="2b02f15b-d47a-43eb-b7c2-51433c3dae00" />
   <Project Path="35_Step2/35_Step2.vcxproj" Id="ba445440-3b92-4b6f-b685-684b64cd0187" />
   <Project Path="36_StepKN/36_StepKN.vcxproj" Id="1cbd3ae8-ff77-44d4-a7d4-81d884f689cf" />
+  <Project Path="37_Fib/37_Fib.vcxproj" Id="e2654de2-ce91-48eb-a3a5-dea313d81ca0" />
 </Solution>
