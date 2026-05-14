@@ -44,4 +44,5 @@
   <Project Path="38_Trib/38_Trib.vcxproj" Id="af12d15d-8bb0-4c65-9d5d-9bbe4c47b154" />
   <Project Path="39_f/39_f.vcxproj" Id="6ea13c0e-5235-4182-a584-e3ce650eb48e" />
   <Project Path="40_MinMax/40_MinMax.vcxproj" Id="48100ccd-7c07-452a-b773-6c663d183eb6" />
+  <Project Path="41_Count/41_Count.vcxproj" Id="d953377b-6766-4f73-8303-6dd0109a94b2" />
 </Solution>
