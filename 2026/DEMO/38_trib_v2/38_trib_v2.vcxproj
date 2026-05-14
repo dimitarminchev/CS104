@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9306bbe5-7b33-4818-998f-eff003374e4a}</ProjectGuid>
-    <RootNamespace>ABCD</RootNamespace>
+    <ProjectGuid>{1ed879e8-85bd-4d1e-8e5f-46d9143ef442}</ProjectGuid>
+    <RootNamespace>My38tribv2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ABCD.cpp" />
+    <ClCompile Include="38_trib_v2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

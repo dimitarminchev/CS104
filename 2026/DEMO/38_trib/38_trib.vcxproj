@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{db01f20f-b111-4d0c-9721-c06f81015de3}</ProjectGuid>
-    <RootNamespace>PROGRESS</RootNamespace>
+    <ProjectGuid>{39a5593a-c478-4acd-a75a-df07e7c84ab0}</ProjectGuid>
+    <RootNamespace>My38trib</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PROGRESS.cpp" />
+    <ClCompile Include="38_trib.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
