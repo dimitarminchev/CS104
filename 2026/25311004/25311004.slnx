@@ -37,4 +37,9 @@
   <Project Path="34_combinations/34_combinations.vcxproj" Id="eb6e2873-e0c4-4ab4-a9cd-93eb618cd381" />
   <Project Path="35_step2/35_step2.vcxproj" Id="ee207616-87aa-46e3-bb46-7d5ecdc0c937" />
   <Project Path="36_stepkn/36_stepkn.vcxproj" Id="0e901735-3edb-40ea-ac3c-345d842cda70" />
+  <Project Path="37_fibo/37_fibo.vcxproj" Id="0155ff67-686d-4ece-91b3-75e371217565" />
+  <Project Path="38_tribo/38_tribo.vcxproj" Id="dad1b741-d200-4046-8799-b053a820f6f8" />
+  <Project Path="39_bla/39_bla.vcxproj" Id="bfc70f3c-8d56-4ace-bb07-21ddf9f91021" />
+  <Project Path="40_min_max/40_min_max.vcxproj" Id="9898d937-76d5-403a-b3fd-2bb48d80c679" />
+  <Project Path="41_count/41_count.vcxproj" Id="e10b3bdc-19bb-4c3e-b976-b18b864308b6" />
 </Solution>
