@@ -42,4 +42,5 @@
   <Project Path="37_fibo/37_fibo.vcxproj" Id="4ef00938-a96d-4c7d-a12f-646f1707a09e" />
   <Project Path="38_tribo/38_tribo.vcxproj" Id="06cf5d7e-b066-4adc-92a1-0c3b482a519c" />
   <Project Path="39_blaa/39_blaa.vcxproj" Id="f7c23a61-6e88-4f38-a84e-a1c18fa87edd" />
+  <Project Path="MinMax/MinMax.vcxproj" Id="b9c34dc0-5afa-4ee8-8e16-023a860dce3c" />
 </Solution>
