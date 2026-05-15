@@ -12,3 +12,4 @@ int main()
 		cout << fib[k] << " ";
 	}
 }
+
