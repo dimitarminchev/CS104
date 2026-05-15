@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{eb1ec76a-709b-425c-9f94-dc733f06f531}</ProjectGuid>
-    <RootNamespace>My85digit</RootNamespace>
+    <ProjectGuid>{d870f0e5-a4e1-4962-9b8f-119dcaf62b38}</ProjectGuid>
+    <RootNamespace>My02Rectanglesperimeter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>08_5digit</ProjectName>
+    <ProjectName>02_Rectangle's_area</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,7 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="08_5digit.cpp" />
+    <ClCompile Include="02_Rectangle%27s_area.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

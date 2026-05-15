@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="08_5digit.cpp">
+    <ClCompile Include="01_Rectangle%27s _perimeter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,26 +1,11 @@
-// 06_Revere.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 03_Number_reverse.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
-using namespace std;
+
 int main()
 {
-	int a;
-
-
-	cout << "Enter a 3 digit number:";
-	cin >> a;
-
-
-	int a3 = (a / 100) % 10;
-	int a2 = (a / 10) % 10;
-	int a1 = (a / 1) % 10;
-
-
-	cout << a1 << a2 << a3 << endl;
-
-
-	return 0;
+    std::cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

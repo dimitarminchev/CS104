@@ -13,8 +13,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Circle", "04_Circle\04_C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Moneyinthepocket", "05_Moneyinthepocket\05_Moneyinthepocket.vcxproj", "{28CB7678-7895-45E4-AFC5-5ADFDCF1AF92}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Reverse", "06_Revere\06_Revere.vcxproj", "{F789F6EE-3C0A-4A00-A917-4488EBB217C7}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_SumPro", "07_SumPro\07_SumPro.vcxproj", "{3B1C79FD-CCCC-48EE-B747-6C10F45A0E5F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_Square_equation", "10_Square_equation\10_Square_equation.vcxproj", "{B86B0729-7CEC-4294-A627-F86547E6ACF1}"
@@ -69,9 +67,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34_Combinations", "34_Combi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35_step2", "35_steps\35_steps.vcxproj", "{90D6CA97-38D2-4E8B-98EA-75BC7607BD4C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_5digit", "8_5digit\8_5digit.vcxproj", "{EB1EC76A-709B-425C-9F94-DC733F06F531}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_5digit", "8_5digit\8_5digit.vcxproj", "{EB1EC76A-709B-425C-9F94-DC733F06F531}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_6digit", "9_6digit\9_6digit.vcxproj", "{EED7CA74-CF83-4F43-8E43-EB48FCE15D1D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_6digit", "9_6digit\9_6digit.vcxproj", "{EED7CA74-CF83-4F43-8E43-EB48FCE15D1D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "36_stepkn", "36_stepkn\36_stepkn.vcxproj", "{B5AA8F4B-F233-493E-B56D-F07827C9022D}"
 EndProject
@@ -92,6 +90,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "44_matrixmultiplication", "44_matrixmultiplication\44_matrixmultiplication.vcxproj", "{9BFAF2A9-D2D7-4785-A0EF-9887AC49A5FE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45_matrixsum", "45_matrixsum\45_matrixsum.vcxproj", "{56702F89-FA3E-415D-8D8B-3283BE706C17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Reverse", "06_Reverse\06_Reverse.vcxproj", "{F7B5EB51-F66F-4590-BD08-D525716F9821}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,14 +141,6 @@ Global
 		{28CB7678-7895-45E4-AFC5-5ADFDCF1AF92}.Release|x64.Build.0 = Release|x64
 		{28CB7678-7895-45E4-AFC5-5ADFDCF1AF92}.Release|x86.ActiveCfg = Release|Win32
 		{28CB7678-7895-45E4-AFC5-5ADFDCF1AF92}.Release|x86.Build.0 = Release|Win32
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Debug|x64.ActiveCfg = Debug|x64
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Debug|x64.Build.0 = Debug|x64
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Debug|x86.ActiveCfg = Debug|Win32
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Debug|x86.Build.0 = Debug|Win32
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Release|x64.ActiveCfg = Release|x64
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Release|x64.Build.0 = Release|x64
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Release|x86.ActiveCfg = Release|Win32
-		{F789F6EE-3C0A-4A00-A917-4488EBB217C7}.Release|x86.Build.0 = Release|Win32
 		{3B1C79FD-CCCC-48EE-B747-6C10F45A0E5F}.Debug|x64.ActiveCfg = Debug|x64
 		{3B1C79FD-CCCC-48EE-B747-6C10F45A0E5F}.Debug|x64.Build.0 = Debug|x64
 		{3B1C79FD-CCCC-48EE-B747-6C10F45A0E5F}.Debug|x86.ActiveCfg = Debug|Win32
@@ -461,6 +453,14 @@ Global
 		{56702F89-FA3E-415D-8D8B-3283BE706C17}.Release|x64.Build.0 = Release|x64
 		{56702F89-FA3E-415D-8D8B-3283BE706C17}.Release|x86.ActiveCfg = Release|Win32
 		{56702F89-FA3E-415D-8D8B-3283BE706C17}.Release|x86.Build.0 = Release|Win32
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Debug|x64.ActiveCfg = Debug|x64
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Debug|x64.Build.0 = Debug|x64
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Debug|x86.ActiveCfg = Debug|Win32
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Debug|x86.Build.0 = Debug|Win32
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Release|x64.ActiveCfg = Release|x64
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Release|x64.Build.0 = Release|x64
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Release|x86.ActiveCfg = Release|Win32
+		{F7B5EB51-F66F-4590-BD08-D525716F9821}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
