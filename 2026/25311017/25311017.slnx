@@ -42,5 +42,10 @@
   <Project Path="37_fibo/37_fibo.vcxproj" Id="4ef00938-a96d-4c7d-a12f-646f1707a09e" />
   <Project Path="38_tribo/38_tribo.vcxproj" Id="06cf5d7e-b066-4adc-92a1-0c3b482a519c" />
   <Project Path="39_blaa/39_blaa.vcxproj" Id="f7c23a61-6e88-4f38-a84e-a1c18fa87edd" />
+  <Project Path="41_count/41_count.vcxproj" Id="f364397e-766f-4d57-a83f-cf4951f8763c" />
+  <Project Path="42_Arrayindex/42_Arrayindex.vcxproj" Id="0eb3d595-acaf-44f1-ac14-ce10c590eca1" />
+  <Project Path="43_Bubblesort/43_Bubblesort.vcxproj" Id="e23acce9-6d46-47be-8cd9-c566c76b201b" />
+  <Project Path="44_matrixmultp/44_matrixmultp.vcxproj" Id="0ced1203-4148-485c-b062-ce4e49619081" />
+  <Project Path="45_matrixsum/45_matrixsum.vcxproj" Id="44a1a760-d84a-4220-9a85-3d2d5ceae946" />
   <Project Path="MinMax/MinMax.vcxproj" Id="b9c34dc0-5afa-4ee8-8e16-023a860dce3c" />
 </Solution>
