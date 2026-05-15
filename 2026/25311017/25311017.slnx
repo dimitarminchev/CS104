@@ -40,4 +40,5 @@
   <Project Path="35_step2/35_step2.vcxproj" Id="4bf42322-9c3c-4225-82d6-3bdd0704f003" />
   <Project Path="36_stepkn/36_stepkn.vcxproj" Id="3c36e69d-0fe5-4d75-afe5-59997c043f74" />
   <Project Path="37_fibo/37_fibo.vcxproj" Id="4ef00938-a96d-4c7d-a12f-646f1707a09e" />
+  <Project Path="38_tribo/38_tribo.vcxproj" Id="06cf5d7e-b066-4adc-92a1-0c3b482a519c" />
 </Solution>
