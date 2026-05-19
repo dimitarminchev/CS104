@@ -44,4 +44,5 @@
   <Project Path="41_count/41_count.vcxproj" Id="e10b3bdc-19bb-4c3e-b976-b18b864308b6" />
   <Project Path="42_indexes/42_indexes.vcxproj" Id="0449cb53-9cad-4d94-9c22-94164ec01519" />
   <Project Path="43_bubblesort/43_bubblesort.vcxproj" Id="22ea6fb1-26a5-4979-992e-262b5fc054f6" />
+  <Project Path="44_matrix/44_matrix.vcxproj" Id="066b4afa-fbf8-4c8b-b90f-c7072a133540" />
 </Solution>
