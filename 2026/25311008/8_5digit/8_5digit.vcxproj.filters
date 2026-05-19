@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="8_5digit.cpp">
+    <ClCompile Include="08_5digit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

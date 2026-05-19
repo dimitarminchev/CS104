@@ -42,6 +42,7 @@
   <Project Path="39_f/39_f.vcxproj" Id="f95a9b4d-5158-47e8-b9e2-5b69df38ed2a" />
   <Project Path="40_min_max/40_min_max.vcxproj" Id="64151e22-a24c-4549-98c2-35cfb374769c" />
   <Project Path="41_count/41_count.vcxproj" Id="42329068-3254-4ffc-a3b1-8647cb29fb61" />
+  <Project Path="42_indexes/42_indexes.vcxproj" Id="4809efce-712c-46ff-9ac9-6084ff3661be" />
   <Project Path="7_sum_pro/7_sum_pro.vcxproj" Id="c5d92b61-83a0-4be5-9758-7194777c6f4b" />
   <Project Path="sum/sum.vcxproj" Id="f90d98f1-514e-4bf8-a83b-3835c1fe1e9f" />
 </Solution>
