@@ -8,7 +8,7 @@ int main()
 
 	std::cout << "Perimeter: " << 2 * pi * R << "\n"
 		<< "Square: " << pi * std::pow(R, 2) << "\n"
-		<< "Volume: " << 4 / 3 * pi * std::pow(R, 3);
+		<< "Volume: " << 4.0 / 3.0 * pi * std::pow(R, 3);
 
 	return 0;
 }

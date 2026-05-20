@@ -1,16 +1,20 @@
 ﻿#include <iostream>
 
-double fak(double n) { if (n <= 1) { return 1; } else { return n * fak(n - 1); } }
+long double C(int n, int k) {
+    if (k > n - k)
+        k = n - k;  // симметрия C(n, k) = C(n, n-k)
 
-int main()
-{
-    double C_5_35 = fak(35) / (fak(5) * fak(35 - 5));
-    double C_6_42 = fak(42) / (fak(6) * fak(42 - 6));
-    double C_6_49 = fak(49) / (fak(6) * fak(49 - 6));
+    long double result = 1;
 
-    std::cout << "5 from 35 = " << C_5_35 << "\n";
-    std::cout << "6 from 42 = " << C_6_42 << "\n";
-    std::cout << "6 from 49 = " << C_6_49 << "\n";
+    for (int i = 1; i <= k; i++) {
+        result = result * (n - k + i) / i;
+    }
 
-    return 0;
+    return result;
+}
+
+int main() {
+    std::cout << "5 from 35 = " << C(35, 5) << "\n";
+    std::cout << "6 from 42 = " << C(42, 6) << "\n";
+    std::cout << "6 from 49 = " << C(49, 6) << "\n";
 }

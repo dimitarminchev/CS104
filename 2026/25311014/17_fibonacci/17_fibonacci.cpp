@@ -1,4 +1,4 @@
-﻿/*#include <iostream>
+﻿#include <iostream>
 
 int main()
 {
@@ -13,9 +13,9 @@ int main()
         b = a + b; if (b >= value) { break; } else{std::cout << b << " "; }
     }
     return 0;
-}*/
+}
 
-#include <iostream>
+/*#include <iostream>
 
 int main()
 {
@@ -31,3 +31,4 @@ int main()
     }
     std::cout << "\n";
 }
+*/
