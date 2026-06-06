@@ -2,17 +2,17 @@
 
 void s_square()
 {
-	int a, P, S;
+	int a;
 
 	std::cout << "Enter a: "; std::cin >> a;
 
 	std::cout << "Perimeter: " << a * 4 << "\n"
-		      << "Square: " << std::pow(a, 2);
+		      << "Square: " << a * a;
 }
 
 void r_square()
 {
-	int a, b, P, S; 
+	int a, b; 
 	
 	std::cout << "Enter a and b: "; std::cin >> a >> b;
 
@@ -22,7 +22,7 @@ void r_square()
 
 void c_square()
 {
-	double pi = 3.14, R, P, S;
+	double pi = 3.14, R;
 
 	std::cout << "Enter radius: "; std::cin >> R;
 	

@@ -8,10 +8,7 @@ int main()
     std::cout << "x = "; std::cin >> x;
     std::cout << "n = "; std::cin >> n;
 
-    for(int k = 1; k <= n; k++)
-    {
-        double Ak = std::pow((-1), k) * std::pow(x, k);
+    for(int k = 1; k <= n; k++) { double Ak = std::pow((-1), k) * std::pow(x, k); sum += Ak; }
 
-        sum += Ak;
-    }
+    std::cout << sum;
 }

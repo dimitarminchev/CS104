@@ -6,8 +6,5 @@ int main()
 
     std::cout << "Enter value: "; std::cin >> n;
 
-    for(int i = 1; i <= n; i++)
-    {
-        std::cout << 1.0 / i << "\n";
-    }
+    for(int i = 1; i <= n; i++) { std::cout << 1.0 / i << "\n"; }
 }

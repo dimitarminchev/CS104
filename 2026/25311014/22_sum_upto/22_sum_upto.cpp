@@ -2,11 +2,9 @@
 
 int main()
 {
-    int sum = 0, n;
+	int value, sum = 0; std::cin >> value;
 
-    std::cout << "Enter numbers amount: "; std::cin >> n;
+	for (int i = 0; i <= value; i++) { sum += i; }
 
-    for (int i = 0; i <= n; i++) { sum += i; }
-
-    std::cout << sum;
+	std::cout << sum;
 }

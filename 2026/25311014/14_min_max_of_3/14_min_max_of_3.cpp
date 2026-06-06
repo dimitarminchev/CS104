@@ -11,8 +11,8 @@ int main()
 
     for (int i = 1; i <= 2; i++) 
     { 
-        if      (numbers[i] > numbers[0]) { max = numbers[i]; }
-        else if (numbers[i] < numbers[0]) { min = numbers[i]; } 
+        if      (numbers[i] > max) { max = numbers[i]; }
+        else if (numbers[i] < min) { min = numbers[i]; } 
     }
 
     std::cout << "Max: " << max << "\n"
